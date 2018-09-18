@@ -1,0 +1,16 @@
+DatabaseListData #class
+ch.ivyteam.ivy.admin.tool.database.DatabaseList #namespace
+DatabaseListData #dbTableName
+databases List<ch.ivyteam.ivy.db.IExternalDatabase> #field
+databases databases #dbFieldName
+selectedDatabase ch.ivyteam.ivy.db.IExternalDatabase #field
+selectedDatabase selectedDatabase #dbFieldName
+applicationFilter ch.ivyteam.ivy.application.IApplication #field
+applicationFilter applicationFilter #dbFieldName
+hasCancelled Boolean #field
+hasCancelled hasCancelled #dbFieldName
+dbId Number #field
+dbId dbId #dbFieldName
+parameterList List #field
+parameterList parameterList #dbFieldName
+parameterList PERSISTENT #fieldModifier

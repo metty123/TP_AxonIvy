@@ -1,0 +1,6 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-02-25 14:40:03 | 4.4.0.42221 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13CF1D5A3B870418/13CF1F8C0C284058
+~.updateBttn@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13CF1D5A3B870418/13CF1F8768481F1F # UpdateRequireProjectProcess.mod/Update clicked
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13CF1D5A3B870418/13CF1D5A3D12C189
+~@RD_METHODCALL[startWithRequiredLib(ch.ivyteam.ivy.application.ILibrarySpecification)]--->ch.ivyteam.ivy.process.ProcessStart:13CF1D5A3B870418/13CFFF298D236DB4

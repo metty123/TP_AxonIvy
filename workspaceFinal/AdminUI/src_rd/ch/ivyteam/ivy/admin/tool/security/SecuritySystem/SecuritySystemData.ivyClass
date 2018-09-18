@@ -1,0 +1,9 @@
+SecuritySystemData #class
+ch.ivyteam.ivy.admin.tool.security.SecuritySystem #namespace
+exception java.lang.Exception #field
+securityContext ch.ivyteam.ivy.security.ISecurityContext #field
+securityDescriptor ch.ivyteam.ivy.security.ISecurityDescriptor #field
+isSynchRunning Boolean #field
+isSynchRunning PERSISTENT #fieldModifier
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier

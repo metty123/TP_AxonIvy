@@ -1,0 +1,2 @@
+co: name={sslClientTrustStorePassword} description={} changed={2014-06-26 09:59:06 GMT} changedby={chnam} visualorder={0} guid={146D79D41369D355} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={146D79D4181A055C} datatype={} isdefault={true} langid={en} description={} validfrom={2014-06-26 09:59:05 GMT} validto={} changed={2014-06-26 09:59:06 GMT} changedby={chnam} properties={} id={}

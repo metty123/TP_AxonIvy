@@ -1,0 +1,2 @@
+co: name={database} description={} changed={2007-10-26 07:49:12 GMT} changedby={rwei} visualorder={0} guid={115DB494102D01DB} parentguid={} typeguid={E6AFEA1F8A858C25} id={} parentid={} typeid={}
+val: guid={115DB49418E2B118} datatype={} isdefault={true} langid={en} description={} validfrom={2007-10-26 07:49:12 GMT} validto={} changed={2007-10-26 07:49:38 GMT} changedby={rwei} properties={ch.ivyteam.ivy.cm.PropertyStringAdapter@1792bf} id={}

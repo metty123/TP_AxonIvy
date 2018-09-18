@@ -1,0 +1,7 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2009-02-06 12:02:10 | 4.1.0.15100 | 1.0
+~.browseZipFileButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F280872D6A43E2/11F4B3DCCACBD9A5 # DeploymentChooseDirectoryProcess.mod/browseZipFile
+~.browseDirectoryButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F280872D6A43E2/11F2813B26B1D96B
+~@RD_METHODCALL[getFile()]--->ch.ivyteam.ivy.process.ProcessStart:11F280872D6A43E2/11F2841FC035AEDD
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:11F280872D6A43E2/11F2808734384D10
+~@RD_METHODCALL[setFile(java.io.File)]--->ch.ivyteam.ivy.process.ProcessStart:11F280872D6A43E2/11F284205536A11C

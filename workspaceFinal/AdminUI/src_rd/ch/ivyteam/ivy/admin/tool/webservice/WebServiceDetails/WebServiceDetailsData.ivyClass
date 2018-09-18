@@ -1,0 +1,46 @@
+WebServiceDetailsData #class
+'Data of web service details' #classComment
+ch.ivyteam.ivy.admin.tool.webservice.WebServiceDetails #namespace
+authenticationType String #field
+authenticationType PERSISTENT #fieldModifier
+description String #field
+description PERSISTENT #fieldModifier
+dialogTitle String #field
+dialogTitle 'used to store title of an info/warning/error dialog' #fieldComment
+enableAuthentication Boolean #field
+enableAuthentication PERSISTENT #fieldModifier
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+exception java.lang.Exception #field
+isDefault Boolean #field
+isDefault PERSISTENT #fieldModifier
+isDirtyData Boolean #field
+isDirtyData PERSISTENT #fieldModifier
+message String #field
+message 'info/warning/error message that will be showed to user' #fieldComment
+name String #field
+name PERSISTENT #fieldModifier
+originalEndpointsMap java.util.Map #field
+originalEndpointsMap PERSISTENT #fieldModifier
+password String #field
+password PERSISTENT #fieldModifier
+pressedButton String #field
+pressedButton PERSISTENT #fieldModifier
+selectedEndpoint ch.ivyteam.ivy.application.restricted.IWebServiceEndpoint #field
+selectedEndpoint PERSISTENT #fieldModifier
+selectedPortType ch.ivyteam.ivy.application.restricted.IWebServicePortType #field
+selectedPortType PERSISTENT #fieldModifier
+sessionHandlingMode Number #field
+sessionHandlingMode PERSISTENT #fieldModifier
+transportSession Boolean #field
+transportSession PERSISTENT #fieldModifier
+username String #field
+username PERSISTENT #fieldModifier
+webService ch.ivyteam.ivy.application.restricted.IWebService #field
+webService PERSISTENT #fieldModifier
+webServiceEndpointsTree Tree #field
+webServiceEndpointsTree PERSISTENT #fieldModifier
+domain String #field
+domain PERSISTENT #fieldModifier
+host String #field
+host PERSISTENT #fieldModifier

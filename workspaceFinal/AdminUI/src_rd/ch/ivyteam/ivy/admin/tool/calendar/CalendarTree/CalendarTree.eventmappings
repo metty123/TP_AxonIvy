@@ -1,0 +1,10 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2011-12-13 11:40:23 | 0.0.0.15100 | 1.0
+~.deleteButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D7F435FFCCE/133FA894E8BBCBCF
+~.Tree@TREE_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D7F435FFCCE/133F9C11E4E49835
+~.newCalendarItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D7F435FFCCE/133FA84BBB2AAD82
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:133F8D7F435FFCCE/1343144DA3CA53DE
+~.newButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D7F435FFCCE/133FA84BBB2AAD82
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.calendar.IBusinessCalendarSettings)]--->ch.ivyteam.ivy.process.ProcessStart:133F8D7F435FFCCE/133F8D7F452CB666
+~.Tree@KEY[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D7F435FFCCE/133FAAE7FB180541
+~.deleteCalendarItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D7F435FFCCE/133FA894E8BBCBCF

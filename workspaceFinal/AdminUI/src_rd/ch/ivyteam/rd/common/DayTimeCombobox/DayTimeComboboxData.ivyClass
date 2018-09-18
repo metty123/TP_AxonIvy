@@ -1,0 +1,6 @@
+DayTimeComboboxData #class
+ch.ivyteam.rd.common.DayTimeCombobox #namespace
+hour Number #field
+minute Number #field
+listOfHour List<Number> #field
+listOfMin List<Number> #field

@@ -1,0 +1,4 @@
+co: name={chooseFileBrowser} description={} changed={2012-09-28 10:47:53 CEST} changedby={htlam} visualorder={0} guid={139578CA18D42810} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={139578CA1A0E105D} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-08-24 09:28:39 CEST} validto={} changed={2012-09-28 10:47:53 CEST} changedby={htlam} properties={} id={}
+val: guid={139578CA1AD1A553} datatype={} isdefault={true} langid={en} description={} validfrom={2012-08-24 09:28:29 CEST} validto={} changed={2012-09-28 10:47:53 CEST} changedby={htlam} properties={} id={}
+val: guid={139578CA1922E904} datatype={} isdefault={false} langid={de} description={} validfrom={2012-08-24 09:29:02 CEST} validto={} changed={2012-09-28 10:47:53 CEST} changedby={htlam} properties={} id={}

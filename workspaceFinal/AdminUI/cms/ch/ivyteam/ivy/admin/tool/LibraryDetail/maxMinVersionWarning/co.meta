@@ -1,0 +1,4 @@
+co: name={maxMinVersionWarning} description={} changed={2013-04-05 10:26:39 CEST} changedby={tqdung} visualorder={0} guid={13DD94DDF696CDFA} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13DD94DDF722DC99} datatype={} isdefault={true} langid={en} description={} validfrom={2013-04-05 10:26:32 CEST} validto={} changed={2013-04-05 10:26:35 CEST} changedby={tqdung} properties={} id={}
+val: guid={13DD94DEE34283C4} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-04-05 10:26:35 CEST} validto={} changed={2013-04-05 10:26:39 CEST} changedby={tqdung} properties={} id={}
+val: guid={13DD94DFAAA50251} datatype={} isdefault={false} langid={de} description={} validfrom={2013-04-05 10:26:39 CEST} validto={} changed={2013-04-05 10:26:39 CEST} changedby={tqdung} properties={} id={}

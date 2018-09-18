@@ -1,0 +1,24 @@
+MainWindowData #class
+ch.ivyteam.ivy.admin.tool.MainWindow #namespace
+panelLoaded Boolean #field
+panelLoadParameter List #field
+panelLoadType String #field
+panelLoadIdentifier Object #field
+securityContext ch.ivyteam.ivy.security.ISecurityContext #field
+securityContext PERSISTENT #fieldModifier
+synchronizationLogger ch.ivyteam.ivy.admin.tool.process.SynchronizationLogger #field
+synchronizationLogger PERSISTENT #fieldModifier
+synchronizationManager ch.ivyteam.ivy.admin.tool.process.SynchronizationManager #field
+synchronizationManager PERSISTENT #fieldModifier
+logMessage String #field
+logMessage PERSISTENT #fieldModifier
+hasNewMessage Boolean #field
+hasNewMessage PERSISTENT #fieldModifier
+logIndex Integer #field
+logIndex PERSISTENT #fieldModifier
+numberOfOpeningAppsAttribute String #field
+numberOfOpeningAppsAttribute PERSISTENT #fieldModifier
+panelId String #field
+panelId PERSISTENT #fieldModifier
+isAnotherApp Boolean #field
+isAnotherApp PERSISTENT #fieldModifier

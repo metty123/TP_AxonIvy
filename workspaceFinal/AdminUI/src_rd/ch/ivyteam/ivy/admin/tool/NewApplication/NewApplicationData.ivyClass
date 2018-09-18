@@ -1,0 +1,14 @@
+NewApplicationData #class
+ch.ivyteam.ivy.admin.tool.NewApplication #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+createAddonsProject Boolean #field
+createWfUiHtmlProject Boolean #field
+createWfUiProject Boolean #field
+description String #field
+fileDirectory String #field
+name String #field
+owner String #field
+securitySystem ch.ivyteam.ivy.security.IExternalSecuritySystemProvider #field
+securitySystems List<ch.ivyteam.ivy.security.IExternalSecuritySystemProvider> #field
+validationErrors List<String> #field
+createWfUiJsfProject Boolean #field

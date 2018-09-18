@@ -1,0 +1,8 @@
+MailContentProcessSettingData #class
+ch.ivyteam.ivy.admin.tool.security.MailContentProcessSetting #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+libraries List<String> #field
+libraries PERSISTENT #fieldModifier
+selectedLibrary String #field
+selectedLibrary PERSISTENT #fieldModifier

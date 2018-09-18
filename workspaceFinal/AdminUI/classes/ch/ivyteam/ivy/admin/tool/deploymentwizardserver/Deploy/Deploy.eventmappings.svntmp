@@ -1,0 +1,11 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-01-21 14:06:58 | 4.4.0.41812 | 1.0
+~.hidden_btnShowWarning@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13C4BC1DAEEF744C
+~@RD_METHODCALL[appendLog(String)]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13A402A070558F29
+~@RD_METHODCALL[cancelDeploy()]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13A6360D3E6779F2
+~@RD_METHODCALL[deploy()]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13A25A9C521D2B2B
+~@RD_METHODCALL[getAppList(List<ch.ivyteam.ivy.application.IApplication>)]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13A25D476AE7DA3C
+~@RD_METHODCALL[getLogEntry()]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13B8E3B20748854C
+~@RD_METHODCALL[getProjectList(List<ch.ivyteam.ivy.server.deploymentwizard.model.ProjectInfo>)]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13A25BF61692D5CA
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13A2104B7E56BA9F
+~@RD_METHODCALL[timer()]--->ch.ivyteam.ivy.process.ProcessStart:13C89CB819CE8336/13A2A2BDF982D890

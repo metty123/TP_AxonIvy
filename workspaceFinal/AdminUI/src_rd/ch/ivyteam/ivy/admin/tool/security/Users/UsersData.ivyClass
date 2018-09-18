@@ -1,0 +1,21 @@
+UsersData #class
+ch.ivyteam.ivy.admin.tool.security.Users #namespace
+answer String #field
+destinationDisplay ch.ivyteam.ivy.richdialog.widgets.displays.RCloseableTabbedDisplay #field
+destinationDisplay 'Get as a parameter and used to specify the destination display if for: ' #fieldComment
+isListContainUserOnline Boolean #field
+isListContainUserOnline 'Check list of selected users have one is online or not' #fieldComment
+keyword String #field
+listSelectedUser List<ch.ivyteam.ivy.security.IUser> #field
+listSelectedUser 'List of all selected user on table' #fieldComment
+originalUsers List<ch.ivyteam.ivy.security.IUser> #field
+rdAlreadyLoadedOnDisplay Boolean #field
+rdAlreadyLoadedOnDisplay 'Defines if the given rich dialog is already loaded on the display' #fieldComment
+securityContext ch.ivyteam.ivy.security.ISecurityContext #field
+securityDescriptor ch.ivyteam.ivy.security.ISecurityDescriptor #field
+selectedUser ch.ivyteam.ivy.security.IUser #field
+users List<ch.ivyteam.ivy.security.IUser> #field
+exception java.lang.Exception #field
+exception PERSISTENT #fieldModifier
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier

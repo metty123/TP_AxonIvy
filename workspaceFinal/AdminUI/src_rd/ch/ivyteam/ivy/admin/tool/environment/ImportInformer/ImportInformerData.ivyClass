@@ -1,0 +1,14 @@
+ImportInformerData #class
+ch.ivyteam.ivy.admin.tool.environment.ImportInformer #namespace
+environments List<ch.ivyteam.ivy.application.restricted.IEnvironment> #field
+errorMessage String #field
+file java.io.File #field
+importEnvironments Recordset #field
+isValid Boolean #field
+newEnvironments List<String> #field
+selectedApplication ch.ivyteam.ivy.application.IApplication #field
+selectedEnvironments List<ch.ivyteam.ivy.admin.tool.process.ImportEnvironment> #field
+selection java.lang.Integer #field
+targetEnvironments List<ch.ivyteam.ivy.application.restricted.IEnvironment> #field
+exception java.lang.Exception #field
+exception PERSISTENT #fieldModifier

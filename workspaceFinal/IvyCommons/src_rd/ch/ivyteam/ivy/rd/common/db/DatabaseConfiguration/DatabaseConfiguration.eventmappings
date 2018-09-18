@@ -1,0 +1,17 @@
+# Ivy RichDialog Event-Mapping Data
+# 2014-07-31 16:10:57 | 5.1.0.46231 | 1.0
+~.addConnectionPropertyButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/1167B94B924A76C7
+~.additionalPropertiesTable@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/1187F6CB32FD2BA0
+~.connectionPanel@RD_EVENT[databaseConnectionConfigurationChanged]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/116B550ED02A74AB
+~.databaseComboBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/1167BD00C2BB146A
+~.driverComboBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/1167BD0595D87A5E
+~.editConnectionPropertyButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/1187F6CB32FD2BA0
+~.removeConnectionPropertyButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/01167B94C0F49091
+~.testDbButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/118A2B55AADB64FA
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/13F853784147F999
+~@RD_BROADCAST[databaseConnectionConfigurationChanged]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/11DE3DD6CE6DC0BE
+~@RD_METHODCALL[getConnectionConfiguration()]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/1187F8E17D9E6716
+~@RD_METHODCALL[getConnectionValidation()]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/1478BAEDE7D2BE16
+~@RD_METHODCALL[save()]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/117B554F9375DC11
+~@RD_METHODCALL[setConnectionConfiguration(ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration)]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/118A88003F36DDA0
+~@RD_METHODCALL[start(ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration)]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64B418CA/1187E3CC88CC6C17

@@ -1,0 +1,4 @@
+co: name={StartTaskShort} description={} changed={2010-07-15 10:40:30 CEST} changedby={CSchaetti} visualorder={0} guid={129D541D43C4A184} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={129D5431615369DD} datatype={} isdefault={false} langid={de} description={} validfrom={2010-07-15 10:40:13 CEST} validto={} changed={2010-07-15 10:40:30 CEST} changedby={CSchaetti} properties={} id={}
+val: guid={129D54315F29C494} datatype={} isdefault={false} langid={fr} description={} validfrom={2010-07-15 10:40:11 CEST} validto={} changed={2010-07-15 10:40:30 CEST} changedby={CSchaetti} properties={} id={}
+val: guid={129D541D44EE9C0C} datatype={} isdefault={true} langid={en} description={} validfrom={2010-07-15 10:39:08 CEST} validto={} changed={2010-07-15 10:40:30 CEST} changedby={CSchaetti} properties={} id={}

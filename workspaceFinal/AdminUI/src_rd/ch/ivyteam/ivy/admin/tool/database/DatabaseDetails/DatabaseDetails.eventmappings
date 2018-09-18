@@ -1,0 +1,17 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2014-06-25 16:23:43 | 5.1.0.45871 | 1.0
+~.btnReset@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/12278970A6084E89
+~.configureButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/1187E948AED59E84
+~.headerPane@RD_EVENT[close]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/1197693EE7151DAB
+~.headerPane@RD_EVENT[refresh]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/119753AE92D25D88
+~.saveButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/1187FB2F838EB318
+~.statementsTable@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/11884C60E82A072C
+~@RD_BROADCAST[applicationDeleted]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/11C8E3CFBAA8EE48
+~@RD_BROADCAST[externalDatabaseDeleted]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/11C8E3A762A767C9
+~@RD_METHODCALL[close()]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/1189E0E332423EA6
+~@RD_METHODCALL[matchIdentifier(String,java.lang.Object)]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/11F425642D149F1D
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/1189E0E38C1692D4
+~@RD_METHODCALL[setDatabase(ch.ivyteam.ivy.application.IExternalDatabaseConfiguration)]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/12176D825FB21A89
+~@RD_METHODCALL[showDetails(ch.ivyteam.ivy.application.IExternalDatabaseConfiguration,ch.ivyteam.ivy.application.restricted.IEnvironment)]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/1219FD73DF049D33
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/12187361EE2C58BE
+~@RD_METHODCALL[start(ch.ivyteam.ivy.db.IExternalDatabase)]--->ch.ivyteam.ivy.process.ProcessStart:115DB4695CDE5E26/115DB53763967E7D

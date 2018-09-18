@@ -1,0 +1,12 @@
+ClientServerFileChooserData #class
+ch.ivyteam.rd.common.ClientServerFileChooser #namespace
+labelText String #field
+labelText PERSISTENT #fieldModifier
+onlyDirectories Boolean #field
+onlyDirectories PERSISTENT #fieldModifier
+filepath String #field
+filepath PERSISTENT #fieldModifier
+fileTransferResult ch.ivyteam.ivy.common.util.FileTransferResult #field
+fileTransferResult PERSISTENT #fieldModifier
+isClient Boolean #field
+isClient PERSISTENT #fieldModifier

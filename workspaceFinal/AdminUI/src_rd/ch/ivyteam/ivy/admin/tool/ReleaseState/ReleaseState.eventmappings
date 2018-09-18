@@ -1,0 +1,7 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2012-08-08 11:24:07 | 0.0.0.15100 | 1.0
+~.deleteButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116E79B46307DA2F/116E7AF1AA128712
+~.releaseButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116E79B46307DA2F/116E7AF1119D4429
+~@RD_METHODCALL[checkIfDeletable()]--->ch.ivyteam.ivy.process.ProcessStart:116E79B46307DA2F/139058C598957710
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:116E79B46307DA2F/11938A4834695BA0
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IProcessModelVersion)]--->ch.ivyteam.ivy.process.ProcessStart:116E79B46307DA2F/116E7AF055118023

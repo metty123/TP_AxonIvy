@@ -1,0 +1,47 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://xmlns.jcp.org/jsf/core"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:ic="http://ivyteam.ch/jsf/component"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:pe="http://primefaces.org/ui/extensions"
+	xmlns:pm="http://primefaces.org/mobile">
+
+<h:body>
+	<ui:composition template="/layouts/BasicTemplate.xhtml">		
+<ui:define name="pageTitle">Sample Page</ui:define>
+<ui:define name="simplePageContent">
+<div class="widget-header-main">
+<span class ="widet-header-main-title"> <Font Size ="4" ><b>Download and comment document</b></Font></span>
+</div>	
+			<h:form id="form">
+				<div style="overflow-y:scroll; height:150px;width:600px;background:#d6d6c2">
+				<h:outputLabel escape="false" value="#{data.data.message}"/>
+			</div>
+			<br></br>
+			<h:panelGrid columns="2"> 
+				<p:commandButton value="Download" ajax="false"
+						actionListener="#{logic.fileDownload}"
+						icon="fa fa-download" disabled="#{data.data.document.fileName == null}"
+						id="downloadFileButton" >
+						<p:fileDownload value="#{data.data.document.fileDownload}"/>
+				</p:commandButton>
+				<Font size="2" ><b>File:   </b></Font> #{data.data.document.fileName}
+				<br/>
+				</h:panelGrid>
+				
+    			<br/>
+    			<p:textEditor id="editor" widgetVar="editor1" value="#{data.data.comment.comment}" height="250" style="margin-bottom:1px; width:600px" placeholder="Add notification for student"/>
+				<br/><br/>
+				<p:commandButton actionListener="#{logic.close}" value="Proceed" update="form" icon="fa fa-mail-forward"/>
+				<br/>
+				<br/>
+				<br/>
+				<br/>
+				<br/>
+			</h:form>	
+			<br/><br/>	
+		</ui:define>
+	</ui:composition>
+</h:body>
+</html>

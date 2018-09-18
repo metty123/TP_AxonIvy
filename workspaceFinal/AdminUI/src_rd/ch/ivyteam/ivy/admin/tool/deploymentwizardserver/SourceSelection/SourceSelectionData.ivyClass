@@ -1,0 +1,33 @@
+SourceSelectionData #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver.SourceSelection #namespace
+attributes List<String> #field
+attributes 'Keys used to store/restore settings of last selected path on local/server, browse location' #fieldComment
+hasAnyCheckBoxSelected Boolean #field
+isBtnBrowseClicked Boolean #field
+isFromServer Boolean #field
+needToLoadProjList Boolean #field
+needToLoadProjList 'indicate if the extracted project list has any changes' #fieldComment
+projectExtractor ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectExtractor #field
+projectList List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo> #field
+projectList 'project list' #fieldComment
+selectedPathOnLocal String #field
+selectedPathOnLocal 'Value to store last selected path on local' #fieldComment
+selectedPathOnServer String #field
+selectedPathOnServer 'Value to store last selected path on server' #fieldComment
+isEnterOrButtonClicked Boolean #field
+isEnterClicked Boolean #field
+hasSameProject Boolean #field
+hasSameProject PERSISTENT #fieldModifier
+errorMessage String #field
+errorMessage PERSISTENT #fieldModifier
+selectedProject ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo #field
+selectedProject PERSISTENT #fieldModifier
+selectedCheckBox ch.ivyteam.ivy.richdialog.widgets.components.RCheckBox #field
+selectedCheckBox PERSISTENT #fieldModifier
+selectedProjects List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo> #field
+selectedProjects PERSISTENT #fieldModifier
+isKeptServerUserSelection Boolean #field
+isKeptServerUserSelection PERSISTENT #fieldModifier
+projectMappedByCheckBoxIds java.util.Map #field
+projectMappedByCheckBoxIds 'used to store the projects'' information, key is check box id' #fieldComment
+projectMappedByCheckBoxIds PERSISTENT #fieldModifier

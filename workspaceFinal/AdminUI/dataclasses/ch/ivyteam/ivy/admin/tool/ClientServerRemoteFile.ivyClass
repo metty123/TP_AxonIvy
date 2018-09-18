@@ -1,0 +1,6 @@
+ClientServerRemoteFile #class
+ch.ivyteam.ivy.admin.tool #namespace
+filepath String #field
+filepath PERSISTENT #fieldModifier
+isClient Boolean #field
+isClient PERSISTENT #fieldModifier

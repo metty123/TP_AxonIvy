@@ -1,0 +1,16 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-08-12 15:57:23 | 6.0.0.48909 | 1.0
+~.createButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/117B1754EB421830
+~.deleteButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/117B1757709E8F1A
+~.editButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/117B175560A582F5
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/1179B7C93B9363CC
+~.permissionsButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/117A75F1B6E823B0
+~.propertiesButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/126BDC43D0D68FF1
+~.rolesButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/117AB3168D38E57F
+~.systemPermissionButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/117CA0E50E8267CB
+~.usersTable@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/117A76B5F58C81CD
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/126C1C026A046253
+~@DISPLAY[UNLOAD]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/13E450D6761C4557
+~@RD_METHODCALL[filter()]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/1400AD98CB4E9F2B
+~@RD_METHODCALL[getAllUsers()]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/13FEB981594543CE
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:1179B78CF0F8936C/1179B7C738249CC8

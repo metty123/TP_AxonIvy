@@ -1,0 +1,1 @@
+{/description "Valid port number"/validationMessage "Port must be within 0..65535"/validationState "Error"/datatypeConfig {/groupingSeparator "0"/useGrouping "false"/min "0"/minFractionDigits "0"/maxFractionDigits "0"/max "65535"/displayLeadingZeroes "false"/format "Integer"/decimalSeparator "0"/isInteger "true"}/format "integer"}

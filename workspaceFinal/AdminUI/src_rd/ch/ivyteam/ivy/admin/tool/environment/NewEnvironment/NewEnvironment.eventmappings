@@ -1,0 +1,5 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2012-11-10 01:48:33 | 0.0.0.15100 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13AE65C234CDBB0A/13AE66CE1D323A80 # NewEnvironmentProcess.mod/close
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13AE65C234CDBB0A/13AE66CE1D39BD19 # NewEnvironmentProcess.mod/create
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:13AE65C234CDBB0A/13AE65C2427C64C2

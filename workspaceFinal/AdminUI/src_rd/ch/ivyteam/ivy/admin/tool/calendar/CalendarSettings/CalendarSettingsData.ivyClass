@@ -1,0 +1,4 @@
+CalendarSettingsData #class
+ch.ivyteam.ivy.admin.tool.calendar.CalendarSettings #namespace
+settings ch.ivyteam.ivy.application.calendar.IBusinessCalendarSettings #field
+settings PERSISTENT #fieldModifier

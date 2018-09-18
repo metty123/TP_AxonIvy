@@ -1,0 +1,22 @@
+RestClientDetailsData #class
+ch.ivyteam.ivy.admin.tool.restclient.RestClientDetails #namespace
+restClient ch.ivyteam.ivy.admin.tool.restclient.RestClientDTO #field
+restClient PERSISTENT #fieldModifier
+orginalRestClient ch.ivyteam.ivy.application.restricted.rest.IRestClient #field
+orginalRestClient PERSISTENT #fieldModifier
+isEnvironmentRestClient Boolean #field
+isEnvironmentRestClient PERSISTENT #fieldModifier
+defaultRestClient ch.ivyteam.ivy.application.restricted.rest.IRestClient #field
+defaultRestClient PERSISTENT #fieldModifier
+pressButtonValue String #field
+pressButtonValue PERSISTENT #fieldModifier
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+isDirtyData Boolean #field
+isDirtyData PERSISTENT #fieldModifier
+isInitialRestClient Boolean #field
+isInitialRestClient PERSISTENT #fieldModifier
+newlyInputPropertyValue String #field
+newlyInputPropertyValue PERSISTENT #fieldModifier

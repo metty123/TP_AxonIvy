@@ -1,0 +1,8 @@
+# Ivy RichDialog Event-Mapping Data
+# 2014-08-11 16:06:12 | 5.1.0.46454 | 1.0
+~.closeButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:147A3C26631CF29D/147A3CBC88F3814E
+~@RD_BROADCAST[informUserSynchronizationHasNewMessage]--->ch.ivyteam.ivy.process.ProcessStart:147A3C26631CF29D/147C424D58F23A46
+~@RD_BROADCAST[informUserSynchronizationIsCompleted]--->ch.ivyteam.ivy.process.ProcessStart:147A3C26631CF29D/147C41EAD7E9341A
+~@RD_BROADCAST[tellLogDetailsDialogToCloseItself]--->ch.ivyteam.ivy.process.ProcessStart:147A3C26631CF29D/147AFD0DDC4C2E52
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:147A3C26631CF29D/147A3C2665621FF8
+~@RD_METHODCALL[start(ch.ivyteam.ivy.security.ISecurityContext)]--->ch.ivyteam.ivy.process.ProcessStart:147A3C26631CF29D/147AFF9EF795D86D

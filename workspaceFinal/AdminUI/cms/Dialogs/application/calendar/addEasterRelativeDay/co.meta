@@ -1,0 +1,3 @@
+co: name={addEasterRelativeDay} description={} changed={2011-12-09 16:26:33 CET} changedby={rew} visualorder={0} guid={134236E4B621B479} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={134236E69232DB18} datatype={} isdefault={false} langid={de} description={} validfrom={2011-12-09 16:26:05 CET} validto={} changed={2011-12-09 16:26:33 CET} changedby={rew} properties={} id={}
+val: guid={134236E4B696D84C} datatype={} isdefault={true} langid={en} description={} validfrom={2011-12-09 16:25:57 CET} validto={} changed={2011-12-09 16:26:01 CET} changedby={rew} properties={} id={}

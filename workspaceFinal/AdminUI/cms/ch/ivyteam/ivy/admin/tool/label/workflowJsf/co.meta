@@ -1,0 +1,4 @@
+co: name={workflowJsf} description={} changed={2014-07-04 05:34:19 CEST} changedby={chnam} visualorder={0} guid={1440B3C7B2EE810B} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={1440B3CC57866C97} datatype={} isdefault={false} langid={fr} description={} validfrom={2014-02-07 08:25:30 CET} validto={} changed={2014-07-04 05:34:19 CEST} changedby={chnam} properties={} id={}
+val: guid={1440B3C7B3DEE983} datatype={} isdefault={true} langid={en} description={} validfrom={2014-02-07 08:25:16 CET} validto={} changed={2014-07-04 05:34:19 CEST} changedby={chnam} properties={} id={}
+val: guid={1440B3CC59B6C90D} datatype={} isdefault={false} langid={de} description={} validfrom={2014-02-07 08:25:32 CET} validto={} changed={2014-07-04 05:34:19 CEST} changedby={chnam} properties={} id={}

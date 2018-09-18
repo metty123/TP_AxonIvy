@@ -1,0 +1,2 @@
+co: name={eMailSmtpHost} description={} changed={2008-03-04 11:53:54 GMT} changedby={csc} visualorder={0} guid={11879A37E9D4220F} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={11879A37E9D3D7A8} datatype={} isdefault={true} langid={en} description={} validfrom={2008-03-04 11:53:20 GMT} validto={} changed={2008-03-04 11:53:54 GMT} changedby={csc} properties={} id={}

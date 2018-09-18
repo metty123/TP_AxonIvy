@@ -1,0 +1,4 @@
+co: name={problems} description={} changed={2012-09-06 08:41:02 GMT} changedby={dtthuy} visualorder={0} guid={1399AB9DC3452269} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={1399AB9DC38C327D} datatype={} isdefault={true} langid={en} description={} validfrom={2012-09-06 08:37:15 GMT} validto={} changed={2012-09-06 08:41:01 GMT} changedby={dtthuy} properties={} id={}
+val: guid={1399ABAE8B5AE1A2} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-09-06 08:38:24 GMT} validto={} changed={2012-09-06 08:41:01 GMT} changedby={dtthuy} properties={} id={}
+val: guid={1399ABAF5A875081} datatype={} isdefault={false} langid={de} description={} validfrom={2012-09-06 08:38:27 GMT} validto={} changed={2012-09-06 08:41:02 GMT} changedby={dtthuy} properties={} id={}

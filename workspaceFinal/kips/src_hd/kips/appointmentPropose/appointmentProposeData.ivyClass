@@ -1,0 +1,4 @@
+appointmentProposeData #class
+kips.appointmentPropose #namespace
+data kips.Data #field
+data PERSISTENT #fieldModifier

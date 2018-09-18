@@ -1,0 +1,19 @@
+TargetSelectionData #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver.TargetSelection #namespace
+appList List<ch.ivyteam.ivy.application.IApplication> #field
+appList 'list of available apps on server' #fieldComment
+applyManualSelection Boolean #field
+appsFromAdmin List<ch.ivyteam.ivy.application.IApplication> #field
+attribute String #field
+attribute 'Key to store selected applications' #fieldComment
+deployProjectList List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo> #field
+errorMessage String #field
+hasAnyCheckBoxSelected Boolean #field
+isMaskLoaded Boolean #field
+isOkClicked Boolean #field
+isUserChangeActivateAll Boolean #field
+isUserChangeReleaseAll Boolean #field
+pmsFromAdmin List<ch.ivyteam.ivy.application.IProcessModel> #field
+pmvsFromAdmin List<ch.ivyteam.ivy.application.IProcessModelVersion> #field
+selectedApps List<String> #field
+selectedApps 'Values to store selected applications' #fieldComment

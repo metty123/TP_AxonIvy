@@ -1,0 +1,17 @@
+ProjectDetailInfo #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver #namespace
+activity java.lang.Object #field
+application String #field
+libId String #field
+originalRelease String #field
+processModel String #field
+processModelVersion String #field
+processModelVersionTooltip String #field
+projectName String #field
+projectPath String #field
+qualifiedProjectVersion ch.ivyteam.ivy.application.value.QualifiedVersion #field
+release java.lang.Object #field
+requireProjects java.util.List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.RequireLibraryInfo> #field
+requireProjectsTooltip String #field
+processModelNumber Integer #field
+requireProjectsText String #field

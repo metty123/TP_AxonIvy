@@ -1,0 +1,4 @@
+co: name={selectDependencyProjectVersion} description={} changed={2013-06-25 10:06:00 CEST} changedby={dtthuy} visualorder={0} guid={13F7A5BBF767F7BE} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13F7A5C903389FBF} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-06-25 10:04:14 CEST} validto={} changed={2013-06-25 10:06:00 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F7A5BBF7D91AA1} datatype={} isdefault={true} langid={en} description={} validfrom={2013-06-25 10:03:20 CEST} validto={} changed={2013-06-25 10:06:00 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F7A5C99BB7AB93} datatype={} isdefault={false} langid={de} description={} validfrom={2013-06-25 10:04:16 CEST} validto={} changed={2013-06-25 10:06:00 CEST} changedby={dtthuy} properties={} id={}

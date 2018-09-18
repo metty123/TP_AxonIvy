@@ -1,0 +1,7 @@
+UserPropertiesData #class
+ch.ivyteam.ivy.admin.tool.security.UserProperties #namespace
+user ch.ivyteam.ivy.security.IUser #field
+properties List<ch.ivyteam.ivy.rd.common.Property> #field
+selectedProperty ch.ivyteam.ivy.rd.common.Property #field
+deletionFailed List<String> #field
+editingFailed List<String> #field

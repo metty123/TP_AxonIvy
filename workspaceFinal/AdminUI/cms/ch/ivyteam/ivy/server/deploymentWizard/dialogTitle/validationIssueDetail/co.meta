@@ -1,0 +1,4 @@
+co: name={validationIssueDetail} description={} changed={2012-11-22 09:05:49 CET} changedby={chnam} visualorder={0} guid={13B27267118C96F0} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13B2726711FDB6E7} datatype={} isdefault={true} langid={en} description={} validfrom={2012-11-22 09:05:28 CET} validto={} changed={2012-11-22 09:05:41 CET} changedby={chnam} properties={} id={}
+val: guid={13B2726AD517C70D} datatype={} isdefault={false} langid={de} description={} validfrom={2012-11-22 09:05:44 CET} validto={} changed={2012-11-22 09:05:44 CET} changedby={chnam} properties={} id={}
+val: guid={13B2726A1638A682} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-11-22 09:05:41 CET} validto={} changed={2012-11-22 09:05:49 CET} changedby={chnam} properties={} id={}

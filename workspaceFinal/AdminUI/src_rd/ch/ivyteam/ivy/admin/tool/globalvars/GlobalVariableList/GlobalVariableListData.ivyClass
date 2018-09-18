@@ -1,0 +1,15 @@
+GlobalVariableListData #class
+ch.ivyteam.ivy.admin.tool.globalvars.GlobalVariableList #namespace
+GlobalVariableListData #dbTableName
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+filteredGlobalVariables List<ch.ivyteam.ivy.application.restricted.IGlobalVariable> #field
+filteredGlobalVariables PERSISTENT #fieldModifier
+globalVariable ch.ivyteam.ivy.application.restricted.IGlobalVariable #field
+globalVariable PERSISTENT #fieldModifier
+globalVariables List<ch.ivyteam.ivy.application.restricted.IGlobalVariable> #field
+globalVariables PERSISTENT #fieldModifier
+pressedButton String #field
+pressedButton PERSISTENT #fieldModifier
+selectedGlobalVariables List<ch.ivyteam.ivy.application.restricted.IGlobalVariable> #field
+selectedGlobalVariables PERSISTENT #fieldModifier

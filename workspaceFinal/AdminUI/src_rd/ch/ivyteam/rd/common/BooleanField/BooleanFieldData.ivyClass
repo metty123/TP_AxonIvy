@@ -1,0 +1,5 @@
+BooleanFieldData #class
+ch.ivyteam.rd.common.BooleanField #namespace
+value Boolean #field
+useYesNoTitles Boolean #field
+data List<Boolean> #field

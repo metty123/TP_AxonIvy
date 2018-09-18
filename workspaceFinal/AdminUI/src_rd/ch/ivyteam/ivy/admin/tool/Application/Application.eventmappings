@@ -1,0 +1,14 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-07-22 11:02:19 | 6.0.0.48909 | 1.0
+~.activityPanel@RD_EVENT[refresh]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/1197534595230677
+~.btnSetActiveEnvironment@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/121A52B62ACA45C7
+~.configureCalendarButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/13419216A31E4DD5
+~.headerPane@RD_EVENT[close]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/119754FE323ABE50
+~.headerPane@RD_EVENT[refresh]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/1197534595230677
+~.processModelsTable@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/11889DEC64293D92
+~.settingsButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/12E395DA92CD3EA6
+~@RD_BROADCAST[applicationDeleted]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/11B3628BFC9481D7
+~@RD_METHODCALL[close()]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/1189DEFF59580074
+~@RD_METHODCALL[matchIdentifier(String,java.lang.Object)]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/11F3CB4574292DDB
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/1189DEFF8E06B797
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:115D7CF7F7B7BC82/115D7D3E5ED9AF55

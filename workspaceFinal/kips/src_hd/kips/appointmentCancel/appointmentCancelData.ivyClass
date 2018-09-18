@@ -1,0 +1,4 @@
+appointmentCancelData #class
+kips.appointmentCancel #namespace
+data kips.Data #field
+data PERSISTENT #fieldModifier

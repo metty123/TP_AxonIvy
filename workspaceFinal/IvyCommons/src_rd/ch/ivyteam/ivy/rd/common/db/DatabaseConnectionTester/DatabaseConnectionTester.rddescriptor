@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<richDialogDescriptor>
+    <acceptedBroadcast>
+        <name>databaseConnectionConfigurationChanged</name>
+        <description></description>
+    </acceptedBroadcast>
+    <method>
+        <name>showConnectionState</name>
+        <description></description>
+        <inputParameter>
+            <name>dbConfig</name>
+            <description></description>
+            <parameterType>ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+        <outputParameter>
+            <name>isConnected</name>
+            <description></description>
+            <parameterType>Boolean</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </outputParameter>
+    </method>
+    <startMethod>
+        <name>start</name>
+        <description>Default Rich Dialog start
+This method can not be changed or deleted!</description>
+    </startMethod>
+    <property>
+        <name>guid</name>
+        <value>118BD2FB64B974B5</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>version</name>
+        <value>1</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>binary</name>
+        <value>false</value>
+        <readOnly>true</readOnly>
+    </property>
+</richDialogDescriptor>

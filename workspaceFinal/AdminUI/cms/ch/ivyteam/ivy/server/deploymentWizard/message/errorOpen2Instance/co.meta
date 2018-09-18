@@ -1,0 +1,4 @@
+co: name={errorOpen2Instance} description={} changed={2012-09-17 05:39:47 CEST} changedby={chnam} visualorder={0} guid={139B4E6317052C27} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={139B4E631775B1AB} datatype={} isdefault={true} langid={en} description={} validfrom={2012-09-11 12:35:48 CEST} validto={} changed={2012-09-17 05:39:47 CEST} changedby={chnam} properties={} id={}
+val: guid={139B4E6D17471ACD} datatype={} isdefault={false} langid={de} description={} validfrom={2012-09-11 12:36:29 CEST} validto={} changed={2012-09-17 05:39:47 CEST} changedby={chnam} properties={} id={}
+val: guid={139B4E6C528F0DF1} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-09-11 12:36:26 CEST} validto={} changed={2012-09-17 05:39:47 CEST} changedby={chnam} properties={} id={}

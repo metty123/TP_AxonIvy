@@ -1,0 +1,12 @@
+NewEnvironmentData #class
+ch.ivyteam.ivy.admin.tool.environment.NewEnvironment #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+description String #field
+description PERSISTENT #fieldModifier
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+exception java.lang.Exception #field
+isEnvExist Boolean #field
+name String #field
+name PERSISTENT #fieldModifier

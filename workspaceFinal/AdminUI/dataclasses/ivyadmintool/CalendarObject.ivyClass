@@ -1,0 +1,10 @@
+CalendarObject #class
+ivyadmintool #namespace
+description String #field
+description PERSISTENT #fieldModifier
+day String #field
+day PERSISTENT #fieldModifier
+inherited Boolean #field
+inherited PERSISTENT #fieldModifier
+value Object #field
+value PERSISTENT #fieldModifier

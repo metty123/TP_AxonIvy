@@ -1,0 +1,6 @@
+TabHeaderBarData #class
+ch.ivyteam.ivy.rd.common.TabHeaderBar #namespace
+iconUri String #field
+title String #field
+showRefreshButton Boolean #field
+showCloseButton Boolean #field

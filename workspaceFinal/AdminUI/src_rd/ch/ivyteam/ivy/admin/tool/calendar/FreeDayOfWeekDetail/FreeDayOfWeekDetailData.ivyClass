@@ -1,0 +1,5 @@
+FreeDayOfWeekDetailData #class
+ch.ivyteam.ivy.admin.tool.calendar.FreeDayOfWeekDetail #namespace
+data ch.ivyteam.ivy.application.calendar.FreeDayOfWeek #field
+configuredFreeDaysOfWeek List<ch.ivyteam.ivy.application.calendar.FreeDayOfWeek> #field
+configuredFreeDaysOfWeek PERSISTENT #fieldModifier

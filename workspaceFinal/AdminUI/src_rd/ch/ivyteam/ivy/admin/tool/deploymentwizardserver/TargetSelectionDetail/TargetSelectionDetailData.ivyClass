@@ -1,0 +1,15 @@
+TargetSelectionDetailData #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver.TargetSelectionDetail #namespace
+deployProjects List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo> #field
+dialogButtons List<String> #field
+dialogIcon String #field
+dialogMessage String #field
+dialogTitle String #field
+exception String #field
+isActiveAll Boolean #field
+isOkClicked Boolean #field
+isReleaseAll Boolean #field
+isUserChangeActivateAll Boolean #field
+isUserChangeReleaseAll Boolean #field
+selectedApps List<ch.ivyteam.ivy.application.IApplication> #field
+tableData List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectDetailInfo> #field

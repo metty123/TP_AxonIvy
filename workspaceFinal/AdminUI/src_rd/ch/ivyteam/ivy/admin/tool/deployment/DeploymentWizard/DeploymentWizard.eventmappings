@@ -1,0 +1,8 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2009-02-05 16:57:47 | 4.1.0.15100 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F26F9E977A84A5/11F27BDB39C18B47
+~.previousButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F26F9E977A84A5/11F281F4299A5398
+~.deploymentProjectValidationPanel@RD_EVENT[stateChanged]--->ch.ivyteam.ivy.process.ProcessStart:11F26F9E977A84A5/11F469EC6723B8F3
+~.deploymentProgressPanel@RD_EVENT[stateChanged]--->ch.ivyteam.ivy.process.ProcessStart:11F26F9E977A84A5/11F469EC6723B8F3
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IProcessModelVersion)]--->ch.ivyteam.ivy.process.ProcessStart:11F26F9E977A84A5/11F26F9EA51EC49D
+~.nextButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F26F9E977A84A5/11F281EFF9230E45

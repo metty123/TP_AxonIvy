@@ -1,0 +1,4 @@
+co: name={processModelNameVersion} description={} changed={2013-06-28 11:44:19 CEST} changedby={dtthuy} visualorder={0} guid={13F8A2AD658DF0BE} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13F8A2B2E8E9AB47} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-06-28 11:44:13 CEST} validto={} changed={2013-06-28 11:44:19 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F8A2B38257A3A4} datatype={} isdefault={false} langid={de} description={} validfrom={2013-06-28 11:44:15 CEST} validto={} changed={2013-06-28 11:44:15 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F8A2AD660819B2} datatype={} isdefault={true} langid={en} description={} validfrom={2013-06-28 11:43:50 CEST} validto={} changed={2013-06-28 11:44:13 CEST} changedby={dtthuy} properties={} id={}

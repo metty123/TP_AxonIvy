@@ -1,0 +1,4 @@
+co: name={authentification} description={} changed={2011-08-09 14:29:28 GMT} changedby={bb} visualorder={0} guid={131AEF2B9076D2D7} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={131AEF2B927B4B90} datatype={} isdefault={false} langid={de} description={} validfrom={2011-02-10 15:51:45 GMT} validto={} changed={2011-08-09 14:29:27 GMT} changedby={bb} properties={} id={}
+val: guid={131AEF2B907AC466} datatype={} isdefault={true} langid={en} description={} validfrom={2011-02-10 15:51:07 GMT} validto={} changed={2011-08-09 14:29:27 GMT} changedby={bb} properties={} id={}
+val: guid={131AEF2B946FB223} datatype={} isdefault={false} langid={fr} description={} validfrom={2011-02-10 15:51:14 GMT} validto={} changed={2011-08-09 14:29:28 GMT} changedby={bb} properties={} id={}

@@ -1,0 +1,7 @@
+LibraryDetailsData #class
+ch.ivyteam.ivy.admin.tool.LibraryDetails #namespace
+dependentPmv List<ch.ivyteam.ivy.application.ILibrary> #field
+isActivate Boolean #field
+libraryId String #field
+processModelVersion ch.ivyteam.ivy.application.IProcessModelVersion #field
+requiredPmv List<ch.ivyteam.ivy.application.ILibrarySpecification> #field

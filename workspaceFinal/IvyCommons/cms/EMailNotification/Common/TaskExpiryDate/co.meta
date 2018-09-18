@@ -1,0 +1,4 @@
+co: name={TaskExpiryDate} description={} changed={2010-07-13 08:41:14 CEST} changedby={CSchaetti} visualorder={0} guid={129C71A7011E62FF} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={129CA892B243B6E1} datatype={} isdefault={false} langid={fr} description={} validfrom={2010-07-13 08:40:17 CEST} validto={} changed={2010-07-13 08:41:14 CEST} changedby={CSchaetti} properties={} id={}
+val: guid={129C71A7016E0C48} datatype={} isdefault={true} langid={en} description={} validfrom={2010-07-12 16:41:25 CEST} validto={} changed={2010-07-13 08:41:13 CEST} changedby={CSchaetti} properties={} id={}
+val: guid={129CA892B02EA764} datatype={} isdefault={false} langid={de} description={} validfrom={2010-07-13 08:40:15 CEST} validto={} changed={2010-07-13 08:41:14 CEST} changedby={CSchaetti} properties={} id={}

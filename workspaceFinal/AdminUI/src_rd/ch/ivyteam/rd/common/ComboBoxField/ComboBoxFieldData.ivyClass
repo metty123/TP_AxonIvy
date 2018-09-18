@@ -1,0 +1,4 @@
+ComboBoxFieldData #class
+ch.ivyteam.rd.common.ComboBoxField #namespace
+value String #field
+values List<String> #field

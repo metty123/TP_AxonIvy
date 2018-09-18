@@ -1,0 +1,4 @@
+co: name={specifiedRequiredProjectIsAvailable} description={} changed={2013-07-01 05:44:25 CEST} changedby={dtthuy} visualorder={0} guid={13F98548421865CF} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13F9854C105F45C0} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-07-01 05:44:18 CEST} validto={} changed={2013-07-01 05:44:25 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F9854CAD3523FD} datatype={} isdefault={false} langid={de} description={} validfrom={2013-07-01 05:44:21 CEST} validto={} changed={2013-07-01 05:44:21 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F9854842119D2F} datatype={} isdefault={true} langid={en} description={} validfrom={2013-07-01 05:44:03 CEST} validto={} changed={2013-07-01 05:44:18 CEST} changedby={dtthuy} properties={} id={}

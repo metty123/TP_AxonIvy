@@ -1,0 +1,26 @@
+EnvironmentDetailsData #class
+ch.ivyteam.ivy.admin.tool.environment.EnvironmentDetails #namespace
+EnvironmentDetailsData #dbTableName
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment environment #dbFieldName
+environment PERSISTENT #fieldModifier
+name String #field
+name name #dbFieldName
+name PERSISTENT #fieldModifier
+description String #field
+description description #dbFieldName
+description PERSISTENT #fieldModifier
+createNew Boolean #field
+createNew createNew #dbFieldName
+createNew PERSISTENT #fieldModifier
+application ch.ivyteam.ivy.application.IApplication #field
+application application #dbFieldName
+application PERSISTENT #fieldModifier
+globalVariables List<ch.ivyteam.ivy.application.restricted.IGlobalVariable> #field
+globalVariables PERSISTENT #fieldModifier
+isDefault Boolean #field
+isDefault PERSISTENT #fieldModifier
+tempIdentifier Number #field
+tempIdentifier PERSISTENT #fieldModifier
+tempType String #field
+tempType PERSISTENT #fieldModifier

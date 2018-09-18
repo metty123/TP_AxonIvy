@@ -1,0 +1,40 @@
+ApplicationListData #class
+ch.ivyteam.ivy.admin.tool.ApplicationList #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+delete Boolean #field
+enableDelete Boolean #field
+enableExportImport Boolean #field
+enableNewEnvironment Boolean #field
+enableNewEnvironment PERSISTENT #fieldModifier
+enableNewProcessModel Boolean #field
+enableNewProcessModelVersion Boolean #field
+enableShowDetail Boolean #field
+errorMessage String #field
+errorTitle String #field
+exception java.lang.Exception #field
+expandNode Tree #field
+index Number #field
+index PERSISTENT #fieldModifier
+isDeleted Boolean #field
+newApplication ch.ivyteam.ivy.application.IApplication #field
+newEnvironment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+newEnvironment PERSISTENT #fieldModifier
+newProcessModel ch.ivyteam.ivy.application.IProcessModel #field
+newProcessModelVersion ch.ivyteam.ivy.application.IProcessModelVersion #field
+parameterList List #field
+processModel ch.ivyteam.ivy.application.IProcessModel #field
+question String #field
+selectedApps List<ch.ivyteam.ivy.application.IApplication> #field
+selectedNode Tree #field
+selectedPMs List<ch.ivyteam.ivy.application.IProcessModel> #field
+selectedPMVs List<ch.ivyteam.ivy.application.IProcessModelVersion> #field
+selectedTreeNodes List<Tree> #field
+selectedTreeNodes PERSISTENT #fieldModifier
+showSystemApp Boolean #field
+tmpNode Tree #field
+tmpNode PERSISTENT #fieldModifier
+tmpNumber Number #field
+tree Tree #field
+willRefresh Boolean #field
+isNotSystemApp Boolean #field
+isNotSystemApp 'check app is not a system APP' #fieldComment

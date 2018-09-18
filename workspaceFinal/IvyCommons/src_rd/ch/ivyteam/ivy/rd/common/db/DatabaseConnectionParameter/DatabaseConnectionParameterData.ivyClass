@@ -1,0 +1,8 @@
+DatabaseConnectionParameterData #class
+ch.ivyteam.ivy.rd.common.db.DatabaseConnectionParameter #namespace
+connectionProperties java.util.HashMap #field
+dbConnection ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration #field
+dbDriver ch.ivyteam.ivy.rd.common.DbDriver #field
+dbDrivers List<ch.ivyteam.ivy.rd.common.DbDriver> #field
+errorMessage String #field
+jdbcDrivers List<ch.ivyteam.db.jdbc.JdbcDriver> #field

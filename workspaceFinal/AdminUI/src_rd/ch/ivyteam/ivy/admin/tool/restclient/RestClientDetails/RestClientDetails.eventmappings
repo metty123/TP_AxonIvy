@@ -1,0 +1,21 @@
+# Ivy RichDialog Event-Mapping Data
+# 2016-06-15 14:48:48 | 6.1.1.51739 | 1.0
+~.addFeatureButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550B46BB0C45615
+~.addPasswordPropertyButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550EEA8CB276275
+~.addPropertyButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550EEA86492D659
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/155104F0D5784B28
+~.httpBasicType@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550B9A7EA6C00C6
+~.httpDigestType@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550B9A8572811C7
+~.jsonCheckBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550B9A1B7DA624D
+~.passwordField@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/15523A6002827F7E
+~.propertiesTable@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/15552226D708325B # RestClientDetailsProcess.mod/openEditProperty
+~.propertiesTable@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/155236F2F98C29EB
+~.removeFeatureButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550B5AF2EFFACE0
+~.removePropertyButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550EEA9409FDEBB
+~.saveButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/155104F004BD1E01
+~.setToDefaultButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/155104F07903A9B9
+~.usernameTextField@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1551641DC19B86A1
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1550F306E52969F3
+~@RD_METHODCALL[saveWithoutPrompt()]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/15524697A3F2D135
+~@RD_METHODCALL[setRestClient(ch.ivyteam.ivy.application.restricted.rest.IRestClient,ch.ivyteam.ivy.application.restricted.rest.IRestClient,Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/1551055D9839A640
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication,ch.ivyteam.ivy.application.restricted.IEnvironment)]--->ch.ivyteam.ivy.process.ProcessStart:15505E0EB732E3CD/15505E0EBAFF497E

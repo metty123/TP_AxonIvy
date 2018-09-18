@@ -1,0 +1,2 @@
+co: name={WebServerHTTPSRedirectPort} description={} changed={2014-06-26 10:18:20 GMT} changedby={chnam} visualorder={0} guid={146D7AEDC6D7CEAF} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={146D7AEDCE5664D8} datatype={} isdefault={true} langid={en} description={} validfrom={2014-06-26 10:18:19 GMT} validto={} changed={2014-06-26 10:18:19 GMT} changedby={chnam} properties={} id={}

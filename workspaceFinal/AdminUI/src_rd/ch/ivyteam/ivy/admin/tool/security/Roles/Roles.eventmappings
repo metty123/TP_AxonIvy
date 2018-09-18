@@ -1,0 +1,13 @@
+# Ivy RichDialog Event-Mapping Data
+# 2016-06-06 19:48:09 | 6.1.1.51751 | 1.0
+~.addRoleMemberButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/1550134AB089818C # RolesProcess.mod/addMemberRole
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/117AB9D8F0C892CA
+~.permissionButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/117AB70CBFD90B86
+~.removeRoleMemberButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/1550F76CF1E81925 # RolesProcess.mod/removeRoleMember
+~.roleFilterCheckBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/14EB41FB9536B7AC
+~.rolePane@RD_EVENT[roleSelected]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/117AB70B7092CF6C
+~.setExternalNameButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/117AB7122E7BDB1A
+~.systemPermissionButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/117CA11331B7054E
+~.usersButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/117ABD6EDAF45346
+~@RD_METHODCALL[filter()]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/14F211C47DD13351
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:117AB6B1778D2124/117AB7011FDBFB52

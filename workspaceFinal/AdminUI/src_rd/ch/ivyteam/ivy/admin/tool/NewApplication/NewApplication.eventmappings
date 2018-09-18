@@ -1,0 +1,9 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-11-18 14:22:01 | 5.0.6.44078 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D8A61F0C90FCC/116D8B2BD7BBB037
+~.createButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D8A61F0C90FCC/116D8B2C90113D7D
+~.createIvyAddonsCheckBox@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:116D8A61F0C90FCC/119858C54F3FC04E # NewApplicationProcess.mod/checkboxSelectionChanged
+~.createWfUiCheckBox@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:116D8A61F0C90FCC/119858C54F3FC04E
+~.createWfUiHtmlCheckBox@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:116D8A61F0C90FCC/119858C54F3FC04E
+~.getDirectoryButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D8A61F0C90FCC/11DF2102984F7CDF
+~@RD_METHODCALL[createApplication()]--->ch.ivyteam.ivy.process.ProcessStart:116D8A61F0C90FCC/116D8B280274163E

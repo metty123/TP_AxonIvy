@@ -1,0 +1,6 @@
+UserDTO #class
+ch.ivyteam.ivy.admin.tool.security #namespace
+username String #field
+username PERSISTENT #fieldModifier
+fullname String #field
+fullname PERSISTENT #fieldModifier

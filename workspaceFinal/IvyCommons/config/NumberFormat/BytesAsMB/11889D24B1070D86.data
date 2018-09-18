@@ -1,0 +1,1 @@
+{/type "SCRIPT"/grouping true /pattern ""/integer -1 /script "(value / 1024 / 1024).format(\"OneDecimal\")  + \" MB\""}

@@ -1,0 +1,5 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2008-04-02 14:53:15 | 4.0.0.15100 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1190EB2EDAC9F37B/1190EB874ADD75AB # NewExternalDatabaseConfigurationProcess.mod/cancel
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1190EB2EDAC9F37B/1190EB7BE2DF9B26 # NewExternalDatabaseConfigurationProcess.mod/ok
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:1190EB2EDAC9F37B/1190EB76C498E4C7

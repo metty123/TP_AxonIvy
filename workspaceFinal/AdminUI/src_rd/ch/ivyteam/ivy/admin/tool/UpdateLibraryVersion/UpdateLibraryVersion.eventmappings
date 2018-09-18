@@ -1,0 +1,14 @@
+# Ivy RichDialog Event-Mapping Data
+# 2016-02-24 17:31:18 | 6.1.0.50854 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD3073C7721137
+~.maxInclusiveChkbox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD42C5D6ADC4BE
+~.minInclusiveChkBx@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD42C5D6ADC4BE
+~.specifyMaxCheckBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD2EF5C72556D2
+~.specifyMaxCheckBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD42C5D6ADC4BE
+~.specifyMinCheckBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD2EF5C72556D2
+~.specifyMinCheckBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD42C5D6ADC4BE
+~.updateBttn@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD31E22435970B
+~@RD_METHODCALL[disableEditMaxOrMinVersion(Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD2FF94CB6D1E0
+~@RD_METHODCALL[enableToEditMaxOrMinVersion(Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DD2FF8DC110389
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13DCEF22A8C603A5
+~@RD_METHODCALL[startWithRequiredLibrary(ch.ivyteam.ivy.application.ILibrarySpecification,String)]--->ch.ivyteam.ivy.process.ProcessStart:13DCEF22A3965926/13E8E2CBB243E86D

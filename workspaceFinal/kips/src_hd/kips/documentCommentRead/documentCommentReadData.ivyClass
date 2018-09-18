@@ -1,0 +1,4 @@
+documentCommentReadData #class
+kips.documentCommentRead #namespace
+data kips.Data #field
+data PERSISTENT #fieldModifier

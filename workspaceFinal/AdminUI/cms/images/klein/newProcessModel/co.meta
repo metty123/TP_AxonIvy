@@ -1,0 +1,2 @@
+co: name={newProcessModel} description={} changed={2007-12-14 08:59:03 GMT} changedby={rwei} visualorder={0} guid={116D7E0D0ECD5B9C} parentguid={} typeguid={E6AFEA1F8A858C25} id={} parentid={} typeid={}
+val: guid={116D7E0D198C3805} datatype={} isdefault={true} langid={en} description={} validfrom={2007-12-14 08:59:03 GMT} validto={} changed={2007-12-14 09:21:34 GMT} changedby={rwei} properties={ch.ivyteam.ivy.cm.PropertyStringAdapter@72123d97} id={}

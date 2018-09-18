@@ -1,0 +1,12 @@
+PermissionsData #class
+ch.ivyteam.ivy.admin.tool.security.Permissions #namespace
+errorMessage String #field
+filteredPermissionTree Tree #field
+isError Boolean #field
+keyword String #field
+keyword 'key input in filter' #fieldComment
+loadTreeNode Tree #field
+permissionTree Tree #field
+securityDescriptor ch.ivyteam.ivy.security.ISecurityDescriptor #field
+securityMember ch.ivyteam.ivy.security.ISecurityMember #field
+selectedTreeNode Tree #field

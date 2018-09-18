@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<richDialogDescriptor>
+    <autoScreenshot>true</autoScreenshot>
+    <startMethod>
+        <name>start</name>
+        <description>Default Rich Dialog start
+This method can not be changed or deleted!</description>
+    </startMethod>
+    <startMethod>
+        <name>showDetails</name>
+        <description></description>
+        <inputParameter>
+            <name>globalVariable</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.application.restricted.IGlobalVariable</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+        <inputParameter>
+            <name>environment</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.application.restricted.IEnvironment</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+        <outputParameter>
+            <name>globalVariable</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.application.restricted.IGlobalVariable</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </outputParameter>
+    </startMethod>
+    <property>
+        <name>guid</name>
+        <value>12177524C1F5AB91</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>version</name>
+        <value>1</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>binary</name>
+        <value>false</value>
+        <readOnly>true</readOnly>
+    </property>
+</richDialogDescriptor>

@@ -1,0 +1,1 @@
+{/description "Input must be in range 1 to 12"/validationMessage "Month is not in range 1 to 12"/datatypeConfig {/max "12"/min "1"/format "Integer"}}

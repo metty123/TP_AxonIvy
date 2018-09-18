@@ -1,0 +1,4 @@
+co: name={activity} description={} changed={2012-09-19 05:33:48 CEST} changedby={chnam} visualorder={0} guid={139DC965BBB1E9EF} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={139DC965BC2BD4E2} datatype={} isdefault={true} langid={en} description={} validfrom={2012-09-19 05:33:25 CEST} validto={} changed={2012-09-19 05:33:48 CEST} changedby={chnam} properties={} id={}
+val: guid={139DC966A419F17C} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-09-19 05:33:28 CEST} validto={} changed={2012-09-19 05:33:48 CEST} changedby={chnam} properties={} id={}
+val: guid={139DC967BDED8290} datatype={} isdefault={false} langid={de} description={} validfrom={2012-09-19 05:33:33 CEST} validto={} changed={2012-09-19 05:33:48 CEST} changedby={chnam} properties={} id={}

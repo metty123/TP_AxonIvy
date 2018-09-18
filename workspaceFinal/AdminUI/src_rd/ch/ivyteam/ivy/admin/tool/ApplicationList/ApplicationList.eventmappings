@@ -1,0 +1,33 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2014-07-08 09:44:42 | 5.1.0.45871 | 1.0
+~.applicationTree@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D802C72963016
+~.applicationTree@TREE_LOAD[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D37DB03E8E2DD
+~.applicationTree@TREE_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/115D7D5FCCF6DCC4
+~.deleteMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D7F68326C770E
+~.deployButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/13C70C9B37EBF49D
+~.deploymentWizardMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/13C70C9B37EBF49D
+~.exportEnvironmentMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/13AE688731813BAF
+~.importEnvironmentMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/13AE688732820BEA
+~.newApplicationButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D7F654C6F12FC
+~.newApplicationMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D7F654C6F12FC
+~.newEnvironmentMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/13ADAB25A1F810EA
+~.newProcessModelMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D7F6636B4C6A6
+~.newProcessModelVersionMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D7F679E082873
+~.showDetailButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D802C72963016
+~.showDetailsMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/116D802C72963016
+~.showSystemCheckBox@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/119C301C79C84900
+~@RD_BROADCAST[addApplication]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146D7B0E61D6E961
+~@RD_BROADCAST[addEnvironment]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146DB56A44D51D23
+~@RD_BROADCAST[addProcessModel]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146DB418E4617BA9
+~@RD_BROADCAST[addProcessModelVersion]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146DB69216643EEA
+~@RD_BROADCAST[callDeploymentWizard]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146D7D3510DA0DDB
+~@RD_BROADCAST[delete]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146DC0A8518ACCD8
+~@RD_BROADCAST[exportEnvironment]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146DB90753BABF2B
+~@RD_BROADCAST[importEnvironment]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146DB9130039F68C
+~@RD_BROADCAST[processModelVersionCreated]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/131DD698FA421FC9
+~@RD_BROADCAST[processModelVersionDeleted]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/14713D99758A0CFC
+~@RD_BROADCAST[showDetails]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/146DB5C728EC1BAE
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/118E5CE73C2E7081
+~@RD_METHODCALL[showErrorMessage(String)]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/1470F182024A27F8
+~@RD_METHODCALL[showException(java.lang.Exception)]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/1470F11292A8AF58
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:115D7BF69BE14F6F/115D7BFCD0280114

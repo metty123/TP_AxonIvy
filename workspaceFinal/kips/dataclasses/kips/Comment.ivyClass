@@ -1,0 +1,8 @@
+Comment #class
+kips #namespace
+comment String #field
+comment PERSISTENT #fieldModifier
+isQuestionNeeded Boolean #field
+isQuestionNeeded PERSISTENT #fieldModifier
+question String #field
+question PERSISTENT #fieldModifier

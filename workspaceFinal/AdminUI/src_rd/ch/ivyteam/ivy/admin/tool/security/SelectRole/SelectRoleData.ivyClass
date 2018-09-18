@@ -1,0 +1,10 @@
+SelectRoleData #class
+ch.ivyteam.ivy.admin.tool.security.SelectRole #namespace
+exception java.lang.Exception #field
+exception PERSISTENT #fieldModifier
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+subRole ch.ivyteam.ivy.security.IRole #field
+subRole PERSISTENT #fieldModifier
+selectedMemberRole ch.ivyteam.ivy.security.IRole #field
+selectedMemberRole PERSISTENT #fieldModifier

@@ -1,0 +1,24 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-03-20 14:06:08 | 6.0.0.47992 | 1.0
+~.btnBrowse@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13956FBDE5C97281
+~.btnRefresh@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/139714FD0CBA3DFB
+~.buttonHidden@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13D8B3731E0520A5
+~.inviButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/139BF247793C8F1B
+~.radioLocal@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13D8B1A79CEB7010
+~.radioServer@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13D8B1A6768F9C14
+~.txtSelectRootDirectory@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13D5851917680682
+~@DISPLAY[UNLOAD]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13B49DDEC6920336
+~@RD_METHODCALL[cancelProjectExtraction()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13B272A4A645D6CA
+~@RD_METHODCALL[getSelectedProjectList()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/1399995E76E784A1
+~@RD_METHODCALL[isFromServer()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/139D954CDCD8683F
+~@RD_METHODCALL[loadProjects(List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/139BEDD2CA1F2C6D
+~@RD_METHODCALL[previousBtnClicked()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13A05E4697938517
+~@RD_METHODCALL[refreshDisplayingProjects()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13A009C44D572602
+~@RD_METHODCALL[setEnableNextButton()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/1397AD0B8E88D981
+~@RD_METHODCALL[showInvalidPathError()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13BE03B6C853EA85
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/1395175FD8B23482
+~@RD_METHODCALL[timerForProjectExtraction()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13B3BA363FCBD97D
+~@RD_METHODCALL[updateChoosedFilePath(String)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/139BD8B4F3586B98
+~@RD_METHODCALL[updateNextButtonState()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/14C35F8E24F586DA
+~@RD_METHODCALL[updateUIAfterProgress()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13B3A70E6B943513
+~@RD_METHODCALL[updateUIBeforeProgress()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE09BA22D536/13B400C0460D1337

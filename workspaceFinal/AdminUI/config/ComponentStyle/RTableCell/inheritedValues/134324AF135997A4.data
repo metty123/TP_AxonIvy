@@ -1,0 +1,2 @@
+#Wed Dec 14 13:58:19 CET 2011
+color=\#Wed Dec 14 13\:58\:19 CET 2011\r\nmacro\=<%\\\= IF((entry as ivyadmintool.CalendarObject).inherited, "\\\#707070", "\\\#000000") %>\r\n

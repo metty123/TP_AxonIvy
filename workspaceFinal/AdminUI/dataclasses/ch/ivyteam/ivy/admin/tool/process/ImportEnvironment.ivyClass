@@ -1,0 +1,4 @@
+ImportEnvironment #class
+ch.ivyteam.ivy.admin.tool.process #namespace
+sourceEnvironment ch.ivyteam.ivy.admin.tool.domain.Applications.Application.Environment #field
+targetEnvironment ch.ivyteam.ivy.application.restricted.IEnvironment #field

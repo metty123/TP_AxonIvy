@@ -1,0 +1,27 @@
+ProjectInfo #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver #namespace
+activity String #field
+application String #field
+displayPmv String #field
+displayPmv 'use only at mask Preview' #fieldComment
+environment String #field
+environmentTooltip String #field
+id String #field
+isDirectory Boolean #field
+libraryId String #field
+newlyDeployed Boolean #field
+originalActivityState String #field
+originalReleaseState String #field
+originPath String #field
+originPath 'keep original path to reverse ' #fieldComment
+processModel String #field
+processModelVersion java.lang.Integer #field
+processModelVersionTooltip String #field
+projectName String #field
+projectPath String #field
+projectPath 'change after user upload project to server' #fieldComment
+qualifiedProjectVersion ch.ivyteam.ivy.application.value.QualifiedVersion #field
+release String #field
+requireProjects java.util.List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.RequireLibraryInfo> #field
+requireProjectsTooltip String #field
+requireProjectsText String #field

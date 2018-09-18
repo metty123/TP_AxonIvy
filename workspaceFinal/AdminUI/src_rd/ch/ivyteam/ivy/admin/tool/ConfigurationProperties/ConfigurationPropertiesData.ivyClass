@@ -1,0 +1,5 @@
+ConfigurationPropertiesData #class
+ch.ivyteam.ivy.admin.tool.ConfigurationProperties #namespace
+properties List<ch.ivyteam.ivy.system.IProperty> #field
+selectedProperty ch.ivyteam.ivy.system.IProperty #field
+propertyProvider ch.ivyteam.ivy.system.IConfigurationPropertyProvider #field

@@ -1,0 +1,11 @@
+EnvironmentExportData #class
+ch.ivyteam.ivy.admin.tool.environment.EnvironmentExport #namespace
+report ch.ivyteam.ivy.admin.tool.report.IReport #field
+file ch.ivyteam.ivy.admin.tool.ClientServerRemoteFile #field
+reportFile ch.ivyteam.ivy.admin.tool.ClientServerRemoteFile #field
+environments List<ch.ivyteam.ivy.application.restricted.IEnvironment> #field
+success Boolean #field
+exception java.lang.Exception #field
+serverExportResultFile java.io.File #field
+fileTransferResult ch.ivyteam.ivy.common.util.FileTransferResult #field
+serverReportFile File #field

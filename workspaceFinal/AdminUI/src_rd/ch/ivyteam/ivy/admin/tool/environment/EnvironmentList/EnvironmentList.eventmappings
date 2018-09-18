@@ -1,0 +1,22 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2012-07-09 14:19:27 | 0.0.0.15100 | 1.0
+~.addMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1208AFD2F3659F29
+~.btnAdd@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1208AFD2F3659F29
+~.btnDetails@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1208AE1C41B4BDEF
+~.btnExport@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/13750EF1A816D2E1
+~.btnImport@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1377427B9AEBBE2E
+~.btnRemove@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/120A43A7B2167154
+~.detailsMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1208AE1C41B4BDEF
+~.exportMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/13750EF1A816D2E1
+~.importMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1377427B9AEBBE2E
+~.lstEnvironments@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1208AE1C41B4BDEF
+~.lstEnvironments@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1223694F2BD65A8C
+~.removeMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/120A43A7B2167154
+~@RD_BROADCAST[applicationCreated]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/121ED386AD1CE1CB
+~@RD_BROADCAST[applicationDeleted]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/121ED3391C8F10E0
+~@RD_BROADCAST[applicationSelected]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1223693ABE03F1D4
+~@RD_BROADCAST[processModelSelected]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/122742EB6441C6BE
+~@RD_BROADCAST[processModelVersionSelected]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/122742EC102D6D09
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/120A35CA6DC18580
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1208ADD79698E929
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:1208ADD77378CD0B/1208AFFD13896847

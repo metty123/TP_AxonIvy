@@ -1,0 +1,6 @@
+registrationInputDataData #class
+kips.registrationInputData #namespace
+user kips.User #field
+user PERSISTENT #fieldModifier
+searchUser kips.searchUser #field
+searchUser PERSISTENT #fieldModifier

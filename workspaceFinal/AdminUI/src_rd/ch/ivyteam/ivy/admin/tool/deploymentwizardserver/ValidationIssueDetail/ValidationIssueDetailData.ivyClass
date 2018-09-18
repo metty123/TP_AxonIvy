@@ -1,0 +1,3 @@
+ValidationIssueDetailData #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ValidationIssueDetail #namespace
+displayData ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ValidationIssue #field

@@ -1,0 +1,6 @@
+UpdateRequireProjectData #class
+ch.ivyteam.ivy.admin.tool.UpdateRequireProject #namespace
+isSuccess Boolean #field
+matchLib List<ch.ivyteam.ivy.application.ILibrary> #field
+resolvedLibSpec ch.ivyteam.ivy.application.ILibrarySpecification #field
+selectedLib ch.ivyteam.ivy.application.ILibrary #field

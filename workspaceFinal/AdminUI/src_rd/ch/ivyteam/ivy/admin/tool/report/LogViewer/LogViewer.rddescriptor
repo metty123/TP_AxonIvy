@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<richDialogDescriptor>
+    <autoScreenshot>true</autoScreenshot>
+    <method>
+        <name>setLogs</name>
+        <description>Set logs list to display in the viewer</description>
+        <inputParameter>
+            <name>logs</name>
+            <description></description>
+            <parameterType>List&lt;ch.ivyteam.ivy.admin.tool.report.ReportEntry&gt;</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+    </method>
+    <startMethod>
+        <name>start</name>
+        <description>empty log list</description>
+    </startMethod>
+    <startMethod>
+        <name>start</name>
+        <description>Get the logs from the report object</description>
+        <inputParameter>
+            <name>report</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.admin.tool.report.IReport</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+    </startMethod>
+    <startMethod>
+        <name>start</name>
+        <description>Logs come from the list of report entry</description>
+        <inputParameter>
+            <name>entries</name>
+            <description></description>
+            <parameterType>List&lt;ch.ivyteam.ivy.admin.tool.report.ReportEntry&gt;</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+    </startMethod>
+    <firedEvent>
+        <name>close</name>
+        <description>when this RD is embbeded to another dialog, &#xD;
+the wrapper dialog should subscribe this event</description>
+    </firedEvent>
+    <property>
+        <name>guid</name>
+        <value>13AB01309B4612A9</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>version</name>
+        <value>1</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>binary</name>
+        <value>false</value>
+        <readOnly>true</readOnly>
+    </property>
+</richDialogDescriptor>

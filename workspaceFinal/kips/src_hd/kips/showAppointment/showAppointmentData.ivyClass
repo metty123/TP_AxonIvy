@@ -1,0 +1,4 @@
+showAppointmentData #class
+kips.showAppointment #namespace
+data kips.Data #field
+data PERSISTENT #fieldModifier

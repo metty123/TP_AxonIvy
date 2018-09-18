@@ -1,0 +1,9 @@
+RuntimeData #class
+ch.ivyteam.ivy.admin.tool.Runtime #namespace
+javaMaxHeap Number #field
+javaCurrentHeap Number #field
+threads List<java.lang.Thread> #field
+stacktrace Recordset #field
+selectedThread java.lang.Thread #field
+tempType String #field
+tempType PERSISTENT #fieldModifier

@@ -1,0 +1,4 @@
+co: name={projectPMVWasChangedInOrderToResolvedConfiguration} description={} changed={2016-04-12 05:31:08 CEST} changedby={lvcthanh} visualorder={0} guid={13F989977269901C} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13F98997744A96F3} datatype={} isdefault={true} langid={en} description={} validfrom={2013-07-01 06:59:21 CEST} validto={} changed={2016-04-12 05:31:08 CEST} changedby={lvcthanh} properties={} id={}
+val: guid={13F9899C33EAA972} datatype={} isdefault={false} langid={de} description={} validfrom={2013-07-01 06:59:41 CEST} validto={} changed={2016-04-12 05:31:08 CEST} changedby={lvcthanh} properties={} id={}
+val: guid={13F9899B808161B4} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-07-01 06:59:38 CEST} validto={} changed={2016-04-12 05:31:08 CEST} changedby={lvcthanh} properties={} id={}

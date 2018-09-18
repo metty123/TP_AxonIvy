@@ -1,0 +1,16 @@
+LdapMappingPropertiesData #class
+ch.ivyteam.ivy.admin.tool.LdapMappingProperties #namespace
+doNotImportEMailAddress Boolean #field
+doNotImportEMailLanguage Boolean #field
+doNotImportFullUserName Boolean #field
+doNotUseGroupOfAUser Boolean #field
+eMailAddressAttribute String #field
+eMailLanguageAttribute String #field
+fullUserNameAttribute String #field
+groupsOfGroupAttribute String #field
+groupsOfUserAttribute String #field
+hasDataChanged Boolean #field
+membersOfGroupAttribute String #field
+securityContext ch.ivyteam.ivy.security.ISecurityContext #field
+userNameAttribute String #field
+userPropertyAttributes List<ch.ivyteam.ivy.rd.common.Property> #field

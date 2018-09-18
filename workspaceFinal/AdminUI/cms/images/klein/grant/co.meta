@@ -1,0 +1,2 @@
+co: name={grant} description={} changed={2008-01-25 14:28:35 GMT} changedby={rwei} visualorder={0} guid={117B1599AE629644} parentguid={} typeguid={E6AFEA1F8A858C25} id={} parentid={} typeid={}
+val: guid={117B1599D564BBC7} datatype={} isdefault={true} langid={en} description={} validfrom={2008-01-25 14:28:35 GMT} validto={} changed={2008-01-25 14:29:16 GMT} changedby={rwei} properties={ch.ivyteam.ivy.cm.CmPropertyStringAdapter@dc6a} id={}

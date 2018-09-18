@@ -1,0 +1,11 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2009-06-24 09:53:18 | 4.1.1.29242 | 1.0
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IProcessModelVersion)]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/11F3CB99754D3F05
+~@RD_METHODCALL[validate(java.io.File)]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/11F41AC2EF483A32
+~.checksTree@TREE_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/11F4618CDA922D07
+~.checksTree@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/11F461CAF53B7DF9
+~@RD_METHODCALL[stop()]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/1221141275B77B4C
+~@RD_METHODCALL[getTemporaryProjectDirectory()]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/11F5FD339F54B455
+~.showDetailButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/11F461CAF53B7DF9
+~@RD_METHODCALL[isNextEnabled()]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/11F46A46B5A63B16
+~@RD_METHODCALL[timer()]--->ch.ivyteam.ivy.process.ProcessStart:11F3CB997063C4E7/11F4589B569EAB09

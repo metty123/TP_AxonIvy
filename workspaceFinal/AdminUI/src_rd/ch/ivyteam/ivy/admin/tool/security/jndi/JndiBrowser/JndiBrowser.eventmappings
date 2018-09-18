@@ -1,0 +1,8 @@
+# Ivy RichDialog Event-Mapping Data
+# 2014-07-31 09:44:20 | 5.1.0.46231 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1178CE8F3CC22296/1178D6DFAE023C12
+~.jndiBrowserTree@TREE_LOAD[]--->ch.ivyteam.ivy.process.ProcessStart:1178CE8F3CC22296/1178D071F626B04F
+~.jndiBrowserTree@TREE_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:1178CE8F3CC22296/1178D072732644B4
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1178CE8F3CC22296/1178D6DEAA761B64
+~@RD_METHODCALL[start(ch.ivyteam.naming.JndiConfig)]--->ch.ivyteam.ivy.process.ProcessStart:1178CE8F3CC22296/1178CF14101F145A
+~@RD_METHODCALL[start(ch.ivyteam.naming.JndiConfig,String)]--->ch.ivyteam.ivy.process.ProcessStart:1178CE8F3CC22296/12E37F2E5CC2EDC9

@@ -1,0 +1,8 @@
+ValidationIssue #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver #namespace
+message String #field
+severity String #field
+applicationName String #field
+projectName String #field
+description String #field
+howToFixDescription String #field

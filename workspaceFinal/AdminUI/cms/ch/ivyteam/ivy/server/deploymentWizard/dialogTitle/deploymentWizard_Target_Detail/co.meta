@@ -1,0 +1,4 @@
+co: name={deploymentWizard_Target_Detail} description={} changed={2012-10-30 09:40:43 CET} changedby={chnam} visualorder={0} guid={13AB0D3C8CDC5787} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13AB0D3E29D8C2BB} datatype={} isdefault={false} langid={de} description={} validfrom={2012-10-30 09:40:07 CET} validto={} changed={2012-10-30 09:40:43 CET} changedby={chnam} properties={} id={}
+val: guid={13AB0D3C8D79EB6A} datatype={} isdefault={true} langid={en} description={} validfrom={2012-10-30 09:40:00 CET} validto={} changed={2012-10-30 09:40:43 CET} changedby={chnam} properties={} id={}
+val: guid={13AB0D3D890B9A07} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-10-30 09:40:04 CET} validto={} changed={2012-10-30 09:40:43 CET} changedby={chnam} properties={} id={}

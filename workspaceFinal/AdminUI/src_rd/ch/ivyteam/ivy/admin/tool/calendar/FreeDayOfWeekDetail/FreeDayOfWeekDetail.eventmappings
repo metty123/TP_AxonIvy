@@ -1,0 +1,5 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2011-12-09 15:14:48 | 0.0.0.15100 | 1.0
+~@RD_METHODCALL[create(List<ch.ivyteam.ivy.application.calendar.FreeDayOfWeek>)]--->ch.ivyteam.ivy.process.ProcessStart:1341376ED8D6AFDE/13413A54F6D47C24
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:1341376ED8D6AFDE/1341376EDAC2B7BC
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1341376ED8D6AFDE/13413C34E1AE0384

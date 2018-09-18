@@ -1,0 +1,11 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-08-12 15:59:20 | 6.0.0.48909 | 1.0
+~.mnuResetValue@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/122782E0183CCF8F
+~.tblGlobalVariables@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/12167AF551C58A7F
+~.tblGlobalVariables@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/122786B9ED7932D7
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/147AFA07FD1C03EB
+~@RD_METHODCALL[filter()]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/148D00F96C021269
+~@RD_METHODCALL[getGlobalVariables()]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/12177C36CE0EB889
+~@RD_METHODCALL[setGlobalVariables(List<ch.ivyteam.ivy.application.restricted.IGlobalVariable>)]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/122786609FC3E2F7
+~@RD_METHODCALL[showGlobalVariables(List<ch.ivyteam.ivy.application.restricted.IGlobalVariable>,ch.ivyteam.ivy.application.restricted.IEnvironment)]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/1215CF4C3301BAA9
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:1215CF277C71EE44/1215CF27C1CC34A9

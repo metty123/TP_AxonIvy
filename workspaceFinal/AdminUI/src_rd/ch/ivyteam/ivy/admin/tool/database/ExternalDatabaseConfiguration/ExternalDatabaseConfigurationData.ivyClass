@@ -1,0 +1,10 @@
+ExternalDatabaseConfigurationData #class
+ch.ivyteam.ivy.admin.tool.database.ExternalDatabaseConfiguration #namespace
+ExternalDatabaseConfigurationData #dbTableName
+database ch.ivyteam.ivy.application.IExternalDatabaseConfiguration #field
+database database #dbFieldName
+dbConfiguration ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration #field
+dbConfiguration dbConfiguration #dbFieldName
+errorMessage String #field
+isError Boolean #field
+pressedButton String #field

@@ -1,0 +1,3 @@
+co: name={freeDaysOfYear} description={} changed={2011-12-09 15:50:01 CET} changedby={rew} visualorder={0} guid={134234D04EC3CF93} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={134234D2C028916B} datatype={} isdefault={false} langid={de} description={} validfrom={2011-12-09 15:49:47 CET} validto={} changed={2011-12-09 15:50:01 CET} changedby={rew} properties={} id={}
+val: guid={134234D04F0F3F72} datatype={} isdefault={true} langid={en} description={} validfrom={2011-12-09 15:49:37 CET} validto={} changed={2011-12-09 15:50:01 CET} changedby={rew} properties={} id={}

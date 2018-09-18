@@ -1,0 +1,15 @@
+EnvironmentImportData #class
+ch.ivyteam.ivy.admin.tool.environment.EnvironmentImport #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+environments List<ch.ivyteam.ivy.application.restricted.IEnvironment> #field
+exception java.lang.Exception #field
+fileResult ch.ivyteam.ivy.common.util.FileTransferResult #field
+importFile ch.ivyteam.ivy.admin.tool.ClientServerRemoteFile #field
+informSelection java.lang.Integer #field
+isImportApp Boolean #field
+report ch.ivyteam.ivy.admin.tool.report.SaieReport #field
+reportFile ch.ivyteam.ivy.admin.tool.ClientServerRemoteFile #field
+selectedEnvironments List<ch.ivyteam.ivy.admin.tool.process.ImportEnvironment> #field
+serverReportFile File #field
+success Boolean #field
+tempImportFile java.io.File #field

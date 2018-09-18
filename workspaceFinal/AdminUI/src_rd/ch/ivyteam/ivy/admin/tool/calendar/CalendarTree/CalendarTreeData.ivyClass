@@ -1,0 +1,11 @@
+CalendarTreeData #class
+ch.ivyteam.ivy.admin.tool.calendar.CalendarTree #namespace
+businessCalendarSettings ch.ivyteam.ivy.application.calendar.IBusinessCalendarSettings #field
+calendars Tree #field
+selectedCalendar Tree #field
+newCalendarIdentifier String #field
+newCalendarCancel Boolean #field
+deleteCalendarCalendar ch.ivyteam.ivy.application.calendar.IBusinessCalendarConfiguration #field
+treeKeyPressed Character #field
+buttonPressed String #field
+buttonPressed 'answer field for dialogs' #fieldComment

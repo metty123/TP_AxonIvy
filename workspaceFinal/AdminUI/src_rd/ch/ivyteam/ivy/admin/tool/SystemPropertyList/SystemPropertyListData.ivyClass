@@ -1,0 +1,5 @@
+SystemPropertyListData #class
+ch.ivyteam.ivy.admin.tool.SystemPropertyList #namespace
+properties List<ch.ivyteam.ivy.system.ISystemProperty> #field
+selectedProperty ch.ivyteam.ivy.system.ISystemProperty #field
+propertyProvider ch.ivyteam.ivy.application.ISystemPropertyProvider #field

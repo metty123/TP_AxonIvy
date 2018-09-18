@@ -1,0 +1,4 @@
+documentCommentAnswerData #class
+kips.documentCommentAnswer #namespace
+data kips.Data #field
+data PERSISTENT #fieldModifier

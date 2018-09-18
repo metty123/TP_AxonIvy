@@ -1,0 +1,17 @@
+ProcessModelVersionData #class
+ch.ivyteam.ivy.admin.tool.ProcessModelVersion #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+deletedApplicationId Number #field
+deletedProcessModelId Number #field
+deletedProcessModelVersionID Number #field
+error Exception #field
+hasFilesToDeploy Boolean #field
+libraryId String #field
+processModel ch.ivyteam.ivy.application.IProcessModel #field
+processModelVersion ch.ivyteam.ivy.application.IProcessModelVersion #field
+runningCasesCount Number #field
+tempIdentifier Number #field
+tempIdentifier PERSISTENT #fieldModifier
+tempType String #field
+tempType PERSISTENT #fieldModifier
+userResponse Boolean #field

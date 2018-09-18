@@ -1,0 +1,20 @@
+UserRolesData #class
+ch.ivyteam.ivy.admin.tool.security.UserRoles #namespace
+exception java.lang.Exception #field
+exception PERSISTENT #fieldModifier
+keyword String #field
+keyword PERSISTENT #fieldModifier
+message String #field
+message PERSISTENT #fieldModifier
+selectedTreeNodes List<Tree> #field
+topLevelRole ch.ivyteam.ivy.security.IRole #field
+roleTree Tree #field
+user ch.ivyteam.ivy.security.IUser #field
+activeRoleTree Tree #field
+activeRoleTree 'tree which contains non obsolete roles' #fieldComment
+activeRoleTree PERSISTENT #fieldModifier
+activeRoles List<ch.ivyteam.ivy.security.IRole> #field
+activeRoles 'list of non obsolete roles' #fieldComment
+activeRoles PERSISTENT #fieldModifier
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier

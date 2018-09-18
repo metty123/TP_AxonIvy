@@ -1,0 +1,4 @@
+SystemPropertiesData #class
+ch.ivyteam.ivy.admin.tool.SystemProperties #namespace
+tempType String #field
+tempType PERSISTENT #fieldModifier

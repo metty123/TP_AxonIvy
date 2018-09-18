@@ -1,0 +1,8 @@
+# Ivy RichDialog Event-Mapping Data
+# 2016-07-27 14:31:45 | 6.2.0.51923 | 1.0
+~.headerpane@RD_EVENT[close]--->ch.ivyteam.ivy.process.ProcessStart:118747883A39E84A/1197551C2F09CE0D
+~.headerpane@RD_EVENT[refresh]--->ch.ivyteam.ivy.process.ProcessStart:118747883A39E84A/119753DC72C74565
+~@RD_METHODCALL[close()]--->ch.ivyteam.ivy.process.ProcessStart:118747883A39E84A/1189E25B0B1A335F
+~@RD_METHODCALL[matchIdentifier(String,java.lang.Object)]--->ch.ivyteam.ivy.process.ProcessStart:118747883A39E84A/11F426730858E937
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:118747883A39E84A/1189E25B581BA7F3
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:118747883A39E84A/1187508B7CA970DA

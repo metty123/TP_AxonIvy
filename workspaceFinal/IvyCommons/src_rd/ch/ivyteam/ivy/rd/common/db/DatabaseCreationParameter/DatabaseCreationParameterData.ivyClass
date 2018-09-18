@@ -1,0 +1,5 @@
+DatabaseCreationParameterData #class
+ch.ivyteam.ivy.rd.common.db.DatabaseCreationParameter #namespace
+databaseConnectionConfiguration ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration #field
+creationParameters List<String> #field
+canceled Boolean #field

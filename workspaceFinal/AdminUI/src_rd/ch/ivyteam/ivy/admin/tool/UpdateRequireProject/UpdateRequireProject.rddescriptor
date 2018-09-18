@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<richDialogDescriptor>
+    <autoScreenshot>true</autoScreenshot>
+    <startMethod>
+        <name>start</name>
+        <description>Default dialog start method.</description>
+    </startMethod>
+    <startMethod>
+        <name>startWithRequiredLib</name>
+        <description></description>
+        <inputParameter>
+            <name>requirePMV</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.application.ILibrarySpecification</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+    </startMethod>
+    <property>
+        <name>guid</name>
+        <value>13CF1D5A3C897440</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>version</name>
+        <value>1</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>binary</name>
+        <value>false</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>viewTechnology</name>
+        <value>ULC</value>
+        <readOnly>true</readOnly>
+    </property>
+</richDialogDescriptor>

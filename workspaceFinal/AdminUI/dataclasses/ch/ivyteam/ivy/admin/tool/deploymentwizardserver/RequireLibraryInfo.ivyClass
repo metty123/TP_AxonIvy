@@ -1,0 +1,7 @@
+RequireLibraryInfo #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver #namespace
+id String #field
+isAlreadyDeployed Boolean #field
+projectName String #field
+minVersionBound ch.ivyteam.ivy.application.value.VersionBound #field
+maxVersionBound ch.ivyteam.ivy.application.value.VersionBound #field

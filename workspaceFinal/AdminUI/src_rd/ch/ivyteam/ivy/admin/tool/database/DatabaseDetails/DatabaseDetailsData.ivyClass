@@ -1,0 +1,47 @@
+DatabaseDetailsData #class
+ch.ivyteam.ivy.admin.tool.database.DatabaseDetails #namespace
+DatabaseData #dbTableName
+application ch.ivyteam.ivy.application.IApplication #field
+application application #dbFieldName
+application PERSISTENT #fieldModifier
+changedDatebaseConfiguration ch.ivyteam.ivy.application.IExternalDatabaseConfiguration #field
+connections Recordset #field
+connections connections #dbFieldName
+connectionUrl String #field
+connectionUrl PERSISTENT #fieldModifier
+database ch.ivyteam.ivy.db.IExternalDatabase #field
+database database #dbFieldName
+databaseConfig ch.ivyteam.ivy.application.IExternalDatabaseConfiguration #field
+databaseConfig databaseConfig #dbFieldName
+deletedApplicationId Number #field
+deletedApplicationId deletedApplicationId #dbFieldName
+deletedApplicationId PERSISTENT #fieldModifier
+deletedDatabaseId Number #field
+deletedDatabaseId deletedDatabaseId #dbFieldName
+deletedDatabaseId PERSISTENT #fieldModifier
+driver String #field
+driver PERSISTENT #fieldModifier
+editMode Boolean #field
+editMode PERSISTENT #fieldModifier
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+errorMessage String #field
+isDefault Boolean #field
+isDefault PERSISTENT #fieldModifier
+isSuccess Boolean #field
+lastExecutedStatements List<ch.ivyteam.ivy.db.IStatementExecution> #field
+lastExecutedStatements lastExecutedStatements #dbFieldName
+maxConnections Number #field
+maxConnections maxConnections #dbFieldName
+pressedButton String #field
+pressedButton PERSISTENT #fieldModifier
+statements Recordset #field
+statements statements #dbFieldName
+tempIdentifier Number #field
+tempIdentifier tempIdentifier #dbFieldName
+tempIdentifier PERSISTENT #fieldModifier
+tempType String #field
+tempType tempType #dbFieldName
+tempType PERSISTENT #fieldModifier
+userFriendlyName String #field
+userFriendlyName userFriendlyName #dbFieldName

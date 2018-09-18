@@ -1,0 +1,14 @@
+Data #class
+kips #namespace
+document kips.Document #field
+document PERSISTENT #fieldModifier
+comment kips.Comment #field
+comment PERSISTENT #fieldModifier
+appointment kips.Appointment #field
+appointment PERSISTENT #fieldModifier
+message String #field
+message PERSISTENT #fieldModifier
+user kips.User #field
+user PERSISTENT #fieldModifier
+searchUser kips.searchUser #field
+searchUser PERSISTENT #fieldModifier

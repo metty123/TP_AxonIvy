@@ -1,0 +1,18 @@
+notificationDataInputData #class
+kips.notificationDataInput #namespace
+message String #field
+message PERSISTENT #fieldModifier
+file File #field
+file PERSISTENT #fieldModifier
+fileName String #field
+fileName PERSISTENT #fieldModifier
+filePath String #field
+filePath PERSISTENT #fieldModifier
+fileDownload org.primefaces.model.StreamedContent #field
+fileDownload PERSISTENT #fieldModifier
+fileContent String #field
+fileContent PERSISTENT #fieldModifier
+searchUser kips.searchUser #field
+searchUser PERSISTENT #fieldModifier
+mentor String #field
+mentor PERSISTENT #fieldModifier

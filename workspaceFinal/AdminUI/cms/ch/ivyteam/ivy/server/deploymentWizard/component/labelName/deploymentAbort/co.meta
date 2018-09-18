@@ -1,0 +1,4 @@
+co: name={deploymentAbort} description={} changed={2013-01-17 05:58:11 CET} changedby={tqdung} visualorder={0} guid={13C46DED52A88036} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13C46DED5339D7FA} datatype={} isdefault={true} langid={en} description={} validfrom={2013-01-17 05:57:54 CET} validto={} changed={2013-01-17 05:58:07 CET} changedby={tqdung} properties={} id={}
+val: guid={13C46DF07E6CC952} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-01-17 05:58:07 CET} validto={} changed={2013-01-17 05:58:11 CET} changedby={tqdung} properties={} id={}
+val: guid={13C46DF0FC435EDE} datatype={} isdefault={false} langid={de} description={} validfrom={2013-01-17 05:58:09 CET} validto={} changed={2013-01-17 05:58:09 CET} changedby={tqdung} properties={} id={}

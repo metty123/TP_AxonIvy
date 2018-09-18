@@ -1,0 +1,24 @@
+JndiSecuritySystemData #class
+ch.ivyteam.ivy.admin.tool.JndiSecuritySystem #namespace
+authenticationKind String #field
+authenticationKinds List<String> #field
+doNotUseUserGroupImport Boolean #field
+error javax.naming.NamingException #field
+errorMsg String #field
+errorMsg 'error msg display to user' #fieldComment
+hasDataChanged Boolean #field
+hasDataChanged PERSISTENT #fieldModifier
+host String #field
+importContext String #field
+importUserFilter String #field
+importUserGroup String #field
+isUserFilterCorrect Boolean #field
+jndiConfig ch.ivyteam.naming.JndiConfig #field
+password String #field
+port Number #field
+securityContext ch.ivyteam.ivy.security.ISecurityContext #field
+synchronizationTime Number #field
+useDefaultPort Boolean #field
+useLdapConnectionPool Boolean #field
+user String #field
+useSsl Boolean #field

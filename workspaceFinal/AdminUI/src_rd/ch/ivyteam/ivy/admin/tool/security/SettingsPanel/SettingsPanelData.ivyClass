@@ -1,0 +1,4 @@
+SettingsPanelData #class
+ch.ivyteam.ivy.admin.tool.security.SettingsPanel #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier

@@ -1,0 +1,4 @@
+documentDownloadAndCommentData #class
+kips.documentDownloadAndComment #namespace
+data kips.Data #field
+data PERSISTENT #fieldModifier

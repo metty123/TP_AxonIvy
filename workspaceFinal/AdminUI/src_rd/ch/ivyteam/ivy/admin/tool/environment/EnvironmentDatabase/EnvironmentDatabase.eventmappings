@@ -1,0 +1,8 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-05-09 10:50:30 | 5.0.1.42860 | 1.0
+~.databaseDetailsPanel@RD_EVENT[refreshDbList]--->ch.ivyteam.ivy.process.ProcessStart:1213F93B879259FA/13E16F2E73A3AAF6
+~.lstDatabases@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:1213F93B879259FA/12154A7292D6CB86
+~.mnuResetToDefault@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1213F93B879259FA/122788BEAC3651A0
+~@RD_METHODCALL[setDatabases(List<ch.ivyteam.ivy.application.IExternalDatabaseConfiguration>)]--->ch.ivyteam.ivy.process.ProcessStart:1213F93B879259FA/122789DF7BD499C3
+~@RD_METHODCALL[showDatabases(List<ch.ivyteam.ivy.application.IExternalDatabaseConfiguration>,ch.ivyteam.ivy.application.restricted.IEnvironment)]--->ch.ivyteam.ivy.process.ProcessStart:1213F93B879259FA/1213FA2154B79C6B
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:1213F93B879259FA/1213F93B8B828011

@@ -1,0 +1,14 @@
+RoleTreeData #class
+ch.ivyteam.ivy.admin.tool.security.RoleTree #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+displayObsoleteRoles Boolean #field
+displayObsoleteRoles PERSISTENT #fieldModifier
+exception java.lang.Exception #field
+exception PERSISTENT #fieldModifier
+keyword String #field
+keyword PERSISTENT #fieldModifier
+roleTree ch.ivyteam.ivy.admin.tool.role.RoleTree #field
+selectedTreeNode Tree #field
+selectedRole ch.ivyteam.ivy.security.IRole #field
+selectedRole PERSISTENT #fieldModifier

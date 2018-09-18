@@ -1,0 +1,4 @@
+co: name={howToFix} description={} changed={2012-11-22 07:40:28 CET} changedby={chnam} visualorder={0} guid={13B26D814002741D} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13B26D86B8593247} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-11-22 07:40:15 CET} validto={} changed={2012-11-22 07:40:28 CET} changedby={chnam} properties={} id={}
+val: guid={13B26D87749C3FE5} datatype={} isdefault={false} langid={de} description={} validfrom={2012-11-22 07:40:18 CET} validto={} changed={2012-11-22 07:40:28 CET} changedby={chnam} properties={} id={}
+val: guid={13B26D814047E492} datatype={} isdefault={true} langid={en} description={} validfrom={2012-11-22 07:39:53 CET} validto={} changed={2012-11-22 07:40:28 CET} changedby={chnam} properties={} id={}

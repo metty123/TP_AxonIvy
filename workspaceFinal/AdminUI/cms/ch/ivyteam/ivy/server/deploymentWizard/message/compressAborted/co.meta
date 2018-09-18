@@ -1,0 +1,4 @@
+co: name={compressAborted} description={} changed={2013-02-01 04:20:19 CET} changedby={tqdung} visualorder={0} guid={13C93C352A2A44AA} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13C93C3931F650FF} datatype={} isdefault={false} langid={de} description={} validfrom={2013-02-01 04:18:53 CET} validto={} changed={2013-02-01 04:20:09 CET} changedby={tqdung} properties={} id={}
+val: guid={13C93C387E15F36A} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-02-01 04:18:50 CET} validto={} changed={2013-02-01 04:20:10 CET} changedby={tqdung} properties={} id={}
+val: guid={13C93C352B4CDC8F} datatype={} isdefault={true} langid={en} description={} validfrom={2013-02-01 04:18:36 CET} validto={} changed={2013-02-01 04:20:10 CET} changedby={tqdung} properties={} id={}

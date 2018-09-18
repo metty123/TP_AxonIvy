@@ -1,0 +1,7 @@
+ApplicationChooserData #class
+ch.ivyteam.ivy.admin.tool.ApplicationChooser #namespace
+ApplicationChooserData #dbTableName
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+applications List<ch.ivyteam.ivy.application.IApplication> #field
+applications PERSISTENT #fieldModifier

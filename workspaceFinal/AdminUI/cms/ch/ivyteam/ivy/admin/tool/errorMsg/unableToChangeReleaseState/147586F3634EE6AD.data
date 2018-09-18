@@ -1,0 +1,1 @@
+The Release state cannot be changed if the project is deployed to an already released PMV. In order to change Release state, select a non Released PMV as target for the deployment.

@@ -1,0 +1,4 @@
+co: name={deploymentWizard_Validate} description={} changed={2012-09-06 08:42:27 GMT} changedby={dtthuy} visualorder={0} guid={1399ABE2593C5901} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={1399ABE5015FCE14} datatype={} isdefault={false} langid={de} description={} validfrom={2012-09-06 08:42:07 GMT} validto={} changed={2012-09-06 08:42:27 GMT} changedby={dtthuy} properties={} id={}
+val: guid={1399ABE259D95E70} datatype={} isdefault={true} langid={en} description={} validfrom={2012-09-06 08:41:56 GMT} validto={} changed={2012-09-06 08:42:27 GMT} changedby={dtthuy} properties={} id={}
+val: guid={1399ABE4263DAB8B} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-09-06 08:42:03 GMT} validto={} changed={2012-09-06 08:42:27 GMT} changedby={dtthuy} properties={} id={}

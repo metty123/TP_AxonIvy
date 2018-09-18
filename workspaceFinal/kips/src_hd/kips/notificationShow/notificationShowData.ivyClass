@@ -1,0 +1,4 @@
+notificationShowData #class
+kips.notificationShow #namespace
+data kips.Data #field
+data PERSISTENT #fieldModifier

@@ -1,0 +1,31 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2011-12-13 14:32:04 | 0.0.0.15100 | 1.0
+~.freeDayOfYearTableNewMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F1F2C1D891
+~.FreeDateTable@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/1341261B7A7BDD2C
+~.FreeEasterRelativeDayTable@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/1341261B7A7BDD2C
+~.workinTimeTableNewMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/133FF24163371EBE
+~.deleteFreeDateButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F189D22732
+~.deleteEasterRelativeDayButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F3B10FD0AB
+~.freeDayOfWeekTableNewMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129CEB3F56868
+~.freeEasterRelativeDayTableNewMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F2F6CBC6D4
+~.deleteWorkingTimeButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/133FF7DE05569BA5
+~.freeDayOfWeekTable@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/1341261B7A7BDD2C
+~.workinTimeTableDeleteMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/133FF7DE05569BA5
+~.WorkingTimeTable@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/1341261B7A7BDD2C
+~.freeEasterRelativeDayTableDeleteMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F3B10FD0AB
+~.freeDayOfYearTableDeleteMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/0134129F273D150F
+~@RD_BROADCAST[CalendarSelected]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/133FDCFE0CCAB9F5
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.calendar.IBusinessCalendarSettings)]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/133F8D832AD52D86
+~.freeDayOfWeekTableDeleteMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129E264B162EE
+~.addFreeDayOfYearButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F1F2C1D891
+~.addFreeDayOfWeekButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129CEB3F56868
+~.freeDatesTableNewMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F108734CAC
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/13431454B9C1C65F
+~.freeDatesTableDeleteMenuItem@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F189D22732
+~.addEasterRelativeDayButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F2F6CBC6D4
+~.deleteFreeDayOfWeekButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129E264B162EE
+~.freeDayOfYearTable@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/1341261B7A7BDD2C
+~.startOfWeekComboBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/133FF438A702EC95
+~.deleteFreeDayOfYearButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/0134129F273D150F
+~.addFreeDateButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/134129F108734CAC
+~.addWorkingTimeButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:133F8D8328FB9C04/133FF24163371EBE

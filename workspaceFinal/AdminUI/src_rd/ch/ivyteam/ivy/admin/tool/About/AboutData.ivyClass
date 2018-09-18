@@ -1,0 +1,16 @@
+AboutData #class
+ch.ivyteam.ivy.admin.tool.About #namespace
+build String #field
+copyright String #field
+dbProduct String #field
+dbSystemURL String #field
+dbVersion String #field
+exception java.lang.Exception #field
+javaProduct String #field
+javaSystemProperties Recordset #field
+javaVendor String #field
+javaVersion String #field
+product String #field
+tempType String #field
+tempType PERSISTENT #fieldModifier
+version String #field

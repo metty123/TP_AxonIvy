@@ -1,0 +1,13 @@
+EnvironmentDatabaseData #class
+ch.ivyteam.ivy.admin.tool.environment.EnvironmentDatabase #namespace
+EnvironmentDatabaseData #dbTableName
+databases List<ch.ivyteam.ivy.application.IExternalDatabaseConfiguration> #field
+databases databases #dbFieldName
+databases PERSISTENT #fieldModifier
+selectedDatabase ch.ivyteam.ivy.application.IExternalDatabaseConfiguration #field
+selectedDatabase selectedDatabase #dbFieldName
+selectedDatabase PERSISTENT #fieldModifier
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+pressedButton String #field
+pressedButton PERSISTENT #fieldModifier

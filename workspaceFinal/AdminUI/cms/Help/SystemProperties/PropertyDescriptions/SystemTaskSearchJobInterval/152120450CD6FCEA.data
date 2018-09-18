@@ -1,0 +1,1 @@
+Interval in seconds between executions of the search job for system tasks. The job searches system tasks that were not executed because of failures (Restart required if changed).

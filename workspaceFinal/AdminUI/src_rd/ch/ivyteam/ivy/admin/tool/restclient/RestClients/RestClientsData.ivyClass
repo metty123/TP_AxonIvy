@@ -1,0 +1,18 @@
+RestClientsData #class
+ch.ivyteam.ivy.admin.tool.restclient.RestClients #namespace
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+defaultRestClientItems List<ch.ivyteam.ivy.admin.tool.restclient.RestClientItem> #field
+defaultRestClientItems PERSISTENT #fieldModifier
+environmentRestClientItems List<ch.ivyteam.ivy.admin.tool.restclient.RestClientItem> #field
+environmentRestClientItems PERSISTENT #fieldModifier
+restClientItems List<ch.ivyteam.ivy.admin.tool.restclient.RestClientItem> #field
+restClientItems PERSISTENT #fieldModifier
+selectedRestClientItem ch.ivyteam.ivy.admin.tool.restclient.RestClientItem #field
+selectedRestClientItem PERSISTENT #fieldModifier
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+isFilterting Boolean #field
+isFilterting PERSISTENT #fieldModifier
+filteredRestClientItems List<ch.ivyteam.ivy.admin.tool.restclient.RestClientItem> #field
+filteredRestClientItems PERSISTENT #fieldModifier

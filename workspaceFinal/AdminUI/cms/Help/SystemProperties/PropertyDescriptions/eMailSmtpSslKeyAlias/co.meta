@@ -1,0 +1,2 @@
+co: name={eMailSmtpSslKeyAlias} description={} changed={2014-06-26 09:43:23 GMT} changedby={chnam} visualorder={0} guid={146D78EDD88C26C0} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={146D78EDDC2355CA} datatype={} isdefault={true} langid={en} description={} validfrom={2014-06-26 09:43:22 GMT} validto={} changed={2014-06-26 09:43:23 GMT} changedby={chnam} properties={} id={}

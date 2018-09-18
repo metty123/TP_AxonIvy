@@ -1,0 +1,11 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-05-07 15:11:52 | 4.4.0.42421 | 1.0
+~.closeBtn@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13D667C874ECAE09
+~.requiredPmvTable@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13D633D6CE62F89E
+~.requiredPmvTable@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13D63457B3551E1D
+~.updateLibBttn@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13D633D6CE62F89E
+~.versionEditBttn@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13DCF4084DCE66B3
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13E7E0A75AE9B0F2 # LibraryDetailsProcess.mod/onload
+~@RD_METHODCALL[isProcessModelVersionActivation()]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13DD32A0EE5E43CE
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13D63169385D702B
+~@RD_METHODCALL[startWithPMV(ch.ivyteam.ivy.application.IProcessModelVersion)]--->ch.ivyteam.ivy.process.ProcessStart:13D6316936D48443/13D631E2525F2FBA

@@ -1,0 +1,4 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2008-03-06 16:45:57 | 4.0.0.15100 | 1.0
+~.closeButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11884B322A69AE28/11884C015284BF6C # StatementExecutionDetailsProcess.mod/close
+~@RD_METHODCALL[start(ch.ivyteam.ivy.db.IStatementExecution)]--->ch.ivyteam.ivy.process.ProcessStart:11884B322A69AE28/11884C09E32D37E1

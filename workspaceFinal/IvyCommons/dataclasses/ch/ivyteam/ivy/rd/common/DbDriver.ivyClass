@@ -1,0 +1,6 @@
+DbDriver #class
+ch.ivyteam.ivy.rd.common #namespace
+connectionConfigurator ch.ivyteam.db.jdbc.ConnectionConfigurator #field
+driverName String #field
+name String #field
+subProtocol String #field

@@ -1,0 +1,1 @@
+If selected, the engine will try to reuse connections and not open a new connection each time.

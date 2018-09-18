@@ -1,0 +1,6 @@
+<P>
+Use [none] if server does not require authentication to connect.
+</P>
+<P>
+[simple] if authentication by username and password is required.
+</P>

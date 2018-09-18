@@ -1,0 +1,4 @@
+co: name={environments} description={} changed={2012-09-05 10:11:03 GMT} changedby={chnam} visualorder={0} guid={13995816C0EC91C7} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={1399581CC5C100EF} datatype={} isdefault={false} langid={de} description={} validfrom={2012-09-05 08:17:55 GMT} validto={} changed={2012-09-05 08:18:08 GMT} changedby={chnam} properties={} id={}
+val: guid={1399581BC8DEA6FD} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-09-05 08:17:51 GMT} validto={} changed={2012-09-05 08:18:09 GMT} changedby={chnam} properties={} id={}
+val: guid={13995816C125F206} datatype={} isdefault={true} langid={en} description={} validfrom={2012-09-05 08:17:30 GMT} validto={} changed={2012-09-05 08:18:09 GMT} changedby={chnam} properties={} id={}

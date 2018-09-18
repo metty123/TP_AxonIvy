@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<userConfig>
+    <user>
+        <username>MarcoMevius</username>
+        <password>123</password>
+        <fullName>Prof. Dr. Marco Mevius</fullName>
+        <emailAddress>marco.mevius@htwg-konstanz.de</emailAddress>
+        <role>Mentor</role>
+    </user>
+    <user>
+        <username>FlorianKurz</username>
+        <password>123</password>
+        <fullName>Florian Kurz</fullName>
+        <emailAddress>Florian.kurz@htwg-konstanz.de</emailAddress>
+        <role>Mentor</role>
+    </user>
+    <user>
+        <username>FabianMeisinger</username>
+        <password>123</password>
+        <fullName>Fabian Meisinger</fullName>
+        <emailAddress>fabian.meisinger@htwg-konstanz.de</emailAddress>
+        <role>Mentor</role>
+    </user>
+    <user>
+        <username>MetehanKilin</username>
+        <password>123</password>
+        <fullName>Metehan Kilin</fullName>
+        <emailAddress>metehan.kilin@htwg-konstanz.de</emailAddress>
+        <role>Student</role>
+        <additionalProperty>
+            <name>Mentor</name>
+            <value>MarcoMevius</value>
+        </additionalProperty>
+    </user>
+    <user>
+        <username>EugenGering</username>
+        <password>123</password>
+        <fullName>Eugen Gering</fullName>
+        <emailAddress>eugen.gering@htwg-konstanz.de</emailAddress>
+        <role>Student</role>
+        <additionalProperty>
+            <name>Mentor</name>
+            <value>MarcoMevius</value>
+        </additionalProperty>
+    </user>
+    <user>
+        <username>RalfHornek</username>
+        <password>123</password>
+        <fullName>Ralf Hornek</fullName>
+        <emailAddress>ralf.hornek@htwg-konstanz.de</emailAddress>
+        <role>Student</role>
+        <additionalProperty>
+            <name>Mentor</name>
+            <value>FlorianKurz</value>
+        </additionalProperty>
+    </user>
+    <user>
+        <username>ChristianDamerau</username>
+        <password>123</password>
+        <fullName>Christian Damerau</fullName>
+        <emailAddress>christian.damerau@htwg-konstanz.de</emailAddress>
+        <role>Student</role>
+        <additionalProperty>
+            <name>Mentor</name>
+            <value>FabianMeisinger</value>
+        </additionalProperty>
+    </user>
+</userConfig>

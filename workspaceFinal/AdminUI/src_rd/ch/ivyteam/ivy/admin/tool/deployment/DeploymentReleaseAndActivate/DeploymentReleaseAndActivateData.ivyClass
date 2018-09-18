@@ -1,0 +1,4 @@
+DeploymentReleaseAndActivateData #class
+ch.ivyteam.ivy.admin.tool.deployment.DeploymentReleaseAndActivate #namespace
+pmv ch.ivyteam.ivy.application.IProcessModelVersion #field
+pmv PERSISTENT #fieldModifier

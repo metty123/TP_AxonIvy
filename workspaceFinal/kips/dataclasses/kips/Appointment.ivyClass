@@ -1,0 +1,24 @@
+Appointment #class
+kips #namespace
+id Number #field
+id PERSISTENT #fieldModifier
+date java.util.Date #field
+date PERSISTENT #fieldModifier
+start Time #field
+start PERSISTENT #fieldModifier
+end Time #field
+end PERSISTENT #fieldModifier
+subject String #field
+subject PERSISTENT #fieldModifier
+available Boolean #field
+available PERSISTENT #fieldModifier
+Student String #field
+Student PERSISTENT #fieldModifier
+Mentor String #field
+Mentor PERSISTENT #fieldModifier
+location String #field
+location PERSISTENT #fieldModifier
+appointmentList Recordset #field
+appointmentList PERSISTENT #fieldModifier
+appointment Record #field
+appointment PERSISTENT #fieldModifier

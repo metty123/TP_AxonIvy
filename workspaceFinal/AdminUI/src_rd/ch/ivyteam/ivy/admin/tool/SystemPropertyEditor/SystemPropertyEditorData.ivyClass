@@ -1,0 +1,6 @@
+SystemPropertyEditorData #class
+ch.ivyteam.ivy.admin.tool.SystemPropertyEditor #namespace
+property ch.ivyteam.ivy.system.IProperty #field
+editor ch.ivyteam.ivy.richdialog.exec.panel.IRichDialogPanel #field
+tempPropertyStringValue String #field
+tempPropertyStringValue PERSISTENT #fieldModifier

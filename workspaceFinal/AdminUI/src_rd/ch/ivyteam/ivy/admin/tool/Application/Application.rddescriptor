@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<richDialogDescriptor>
+    <autoScreenshot>true</autoScreenshot>
+    <acceptedBroadcast>
+        <name>applicationDeleted</name>
+        <description></description>
+        <attachment>
+            <name>applicationId</name>
+            <description></description>
+            <parameterType>Number</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </attachment>
+    </acceptedBroadcast>
+    <method>
+        <name>close</name>
+        <description></description>
+    </method>
+    <method>
+        <name>refresh</name>
+        <description></description>
+    </method>
+    <method>
+        <name>matchIdentifier</name>
+        <description>matches the identifier for the panel. if this panel has &#xD;
+the equal identifier, it returns its name .</description>
+        <inputParameter>
+            <name>type</name>
+            <description></description>
+            <parameterType>String</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+        <inputParameter>
+            <name>identifier</name>
+            <description></description>
+            <parameterType>java.lang.Object</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+        <outputParameter>
+            <name>name</name>
+            <description>matches the identifier for the panel. if this panel has &#xD;
+the equal identifier, it returns its name .</description>
+            <parameterType>String</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </outputParameter>
+    </method>
+    <startMethod>
+        <name>start</name>
+        <description></description>
+        <inputParameter>
+            <name>application</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.application.IApplication</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+    </startMethod>
+    <property>
+        <name>guid</name>
+        <value>115D7CF7F6BEF9F6</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>version</name>
+        <value>1</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>binary</name>
+        <value>false</value>
+        <readOnly>true</readOnly>
+    </property>
+</richDialogDescriptor>

@@ -1,0 +1,2 @@
+co: name={eMailSmtpPassword} description={} changed={2008-03-04 11:54:16 GMT} changedby={csc} visualorder={0} guid={11879A43EDE54ED0} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={11879A43EDE27746} datatype={} isdefault={true} langid={en} description={} validfrom={2008-03-04 11:54:10 GMT} validto={} changed={2008-03-04 11:54:16 GMT} changedby={csc} properties={} id={}

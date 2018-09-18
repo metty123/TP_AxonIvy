@@ -1,0 +1,4 @@
+co: name={errorNoDependencyProjectIsSelected} description={} changed={2013-06-25 09:00:43 CEST} changedby={dtthuy} visualorder={0} guid={13F7A1C12AFB69F2} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13F7A1C12B68846E} datatype={} isdefault={true} langid={en} description={} validfrom={2013-06-25 08:53:47 CEST} validto={} changed={2013-06-25 09:00:43 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F7A21B03162934} datatype={} isdefault={false} langid={de} description={} validfrom={2013-06-25 08:59:55 CEST} validto={} changed={2013-06-25 09:00:43 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F7A21A8303EFF2} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-06-25 08:59:53 CEST} validto={} changed={2013-06-25 09:00:43 CEST} changedby={dtthuy} properties={} id={}

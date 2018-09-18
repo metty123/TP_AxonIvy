@@ -1,0 +1,4 @@
+DbProduct #class
+ch.ivyteam.ivy.rd.common #namespace
+name String #field
+shortName String #field

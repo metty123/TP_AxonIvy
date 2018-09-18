@@ -1,0 +1,4 @@
+DeleteDocumentMentorData #class
+kips.DeleteDocumentMentor #namespace
+data kips.Data #field
+data PERSISTENT #fieldModifier

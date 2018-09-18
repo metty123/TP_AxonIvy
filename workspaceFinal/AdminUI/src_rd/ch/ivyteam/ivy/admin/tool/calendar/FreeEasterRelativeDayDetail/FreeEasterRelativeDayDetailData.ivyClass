@@ -1,0 +1,5 @@
+FreeEasterRelativeDayDetailData #class
+ch.ivyteam.ivy.admin.tool.calendar.FreeEasterRelativeDayDetail #namespace
+data ch.ivyteam.ivy.application.calendar.FreeEasterRelativeDay #field
+configuredFreeEasterRelativeDay List<ch.ivyteam.ivy.application.calendar.FreeEasterRelativeDay> #field
+configuredFreeEasterRelativeDay PERSISTENT #fieldModifier

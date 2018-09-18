@@ -1,0 +1,16 @@
+DeploymentWizardData #class
+ch.ivyteam.ivy.admin.tool.deployment.DeploymentWizard #namespace
+pmv ch.ivyteam.ivy.application.IProcessModelVersion #field
+pmv PERSISTENT #fieldModifier
+state String #field
+state PERSISTENT #fieldModifier
+isPreviousEnabled Boolean #field
+isPreviousEnabled PERSISTENT #fieldModifier
+isNextEnabled Boolean #field
+isNextEnabled PERSISTENT #fieldModifier
+isCancelEnabled Boolean #field
+isCancelEnabled PERSISTENT #fieldModifier
+file java.io.File #field
+file PERSISTENT #fieldModifier
+finishButtonLabel String #field
+finishButtonLabel PERSISTENT #fieldModifier

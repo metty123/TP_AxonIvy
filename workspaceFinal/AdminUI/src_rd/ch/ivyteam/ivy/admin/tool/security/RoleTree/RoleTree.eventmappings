@@ -1,0 +1,13 @@
+# Ivy RichDialog Event-Mapping Data
+# 2016-06-03 18:12:16 | 6.1.1.51751 | 1.0
+~.rolesTree@TREE_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/117AB433B6B2B948
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/147C8710BE2EFA43
+~@RD_METHODCALL[displayObsoleteRoles()]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/14EB422DBBAC1EFA
+~@RD_METHODCALL[filterRoles(String)]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/147C824200740E26
+~@RD_METHODCALL[getSelectedRole()]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/117AB7AD227B1BAB
+~@RD_METHODCALL[hideObsoleteRoles()]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/14EB429D7C56686B
+~@RD_METHODCALL[refreshRoleTree()]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/1550A21091414E84
+~@RD_METHODCALL[refreshSelectedRole()]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/117AC0C5B506C29D
+~@RD_METHODCALL[setSelectedRole(ch.ivyteam.ivy.security.IRole)]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/117AB7ADA95D437B
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/117AB4266C34E7AB
+~@RD_METHODCALL[start(ch.ivyteam.ivy.security.IRole,ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:117AB326C28BFE2C/1550B735E9138760

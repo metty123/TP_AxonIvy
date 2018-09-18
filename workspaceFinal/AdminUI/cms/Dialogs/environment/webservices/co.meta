@@ -1,0 +1,3 @@
+co: name={webservices} description={} changed={2009-05-14 10:47:12 GMT} changedby={mde} visualorder={0} guid={1213EBB2DB9C4839} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={1213EBB7FE0E5BD4} datatype={} isdefault={false} langid={de} description={} validfrom={2009-05-14 10:47:03 GMT} validto={} changed={2009-05-14 10:47:12 GMT} changedby={mde} properties={} id={}
+val: guid={1213EBB2DB9B8682} datatype={} isdefault={true} langid={en} description={} validfrom={2009-05-14 10:46:42 GMT} validto={} changed={2009-05-14 10:47:12 GMT} changedby={mde} properties={} id={}

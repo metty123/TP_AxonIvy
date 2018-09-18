@@ -1,0 +1,4 @@
+co: name={activityState} description={} changed={2013-06-28 11:44:59 CEST} changedby={dtthuy} visualorder={0} guid={13F8A2B861331C0D} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13F8A2B86174E99A} datatype={} isdefault={true} langid={en} description={} validfrom={2013-06-28 11:44:35 CEST} validto={} changed={2013-06-28 11:44:54 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F8A2BD1BFB895A} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-06-28 11:44:54 CEST} validto={} changed={2013-06-28 11:44:59 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F8A2BDAF93596F} datatype={} isdefault={false} langid={de} description={} validfrom={2013-06-28 11:44:57 CEST} validto={} changed={2013-06-28 11:44:57 CEST} changedby={dtthuy} properties={} id={}

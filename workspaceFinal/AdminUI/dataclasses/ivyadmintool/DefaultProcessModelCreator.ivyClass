@@ -1,0 +1,6 @@
+DefaultProcessModelCreator #class
+ivyadmintool #namespace
+name String #field
+description String #field
+application ch.ivyteam.ivy.application.IApplication #field
+sourceProjectDirectory String #field

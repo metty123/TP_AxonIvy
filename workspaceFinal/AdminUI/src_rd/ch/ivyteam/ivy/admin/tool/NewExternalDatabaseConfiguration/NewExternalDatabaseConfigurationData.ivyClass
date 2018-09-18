@@ -1,0 +1,6 @@
+NewExternalDatabaseConfigurationData #class
+ch.ivyteam.ivy.admin.tool.NewExternalDatabaseConfiguration #namespace
+dbName String #field
+application ch.ivyteam.ivy.application.IApplication #field
+applications List<ch.ivyteam.ivy.application.IApplication> #field
+config ch.ivyteam.ivy.application.IExternalDatabaseConfiguration #field

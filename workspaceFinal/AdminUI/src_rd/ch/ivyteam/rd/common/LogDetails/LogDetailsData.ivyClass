@@ -1,0 +1,14 @@
+LogDetailsData #class
+ch.ivyteam.rd.common.LogDetails #namespace
+hasNewMessage Boolean #field
+hasNewMessage PERSISTENT #fieldModifier
+logIndex Integer #field
+logIndex PERSISTENT #fieldModifier
+logMessage String #field
+logMessage PERSISTENT #fieldModifier
+securityContext ch.ivyteam.ivy.security.ISecurityContext #field
+securityContext PERSISTENT #fieldModifier
+synchronizationLogger ch.ivyteam.ivy.admin.tool.process.SynchronizationLogger #field
+synchronizationLogger PERSISTENT #fieldModifier
+synchronizationManager ch.ivyteam.ivy.admin.tool.process.SynchronizationManager #field
+synchronizationManager PERSISTENT #fieldModifier

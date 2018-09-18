@@ -1,0 +1,1 @@
+Directory where the server watches for files to deploy. You may want to use a UNC path to specify a remote network location. (Restart not required)

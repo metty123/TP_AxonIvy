@@ -1,0 +1,18 @@
+ServerFileBrowserData #class
+ch.ivyteam.ivy.rd.common.ServerFileBrowser #namespace
+onlyDirectories Boolean #field
+onlyDirectories 'parameter, flag whether only dirs should be displayed' #fieldComment
+allowCreateDir Boolean #field
+allowCreateDir 'parameter, flag whether dirs may be created or not' #fieldComment
+allowCreateDir PERSISTENT #fieldModifier
+rootPath String #field
+rootPath 'parameter, the pre-selected path' #fieldComment
+rootDir Tree #field
+rootDir 'the root tree of the file system' #fieldComment
+selectedPath String #field
+selectedPath 'the path selected (not online updated)' #fieldComment
+newDirName String #field
+newDirName 'the chosen name for new directory' #fieldComment
+hasErrors Boolean #field
+isInitialized Boolean #field
+wasCancelled Boolean #field

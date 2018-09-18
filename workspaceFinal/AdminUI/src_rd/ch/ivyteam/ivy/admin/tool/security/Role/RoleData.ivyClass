@@ -1,0 +1,10 @@
+RoleData #class
+ch.ivyteam.ivy.admin.tool.security.Role #namespace
+role ch.ivyteam.ivy.security.IRole #field
+role PERSISTENT #fieldModifier
+jndiConfig ch.ivyteam.naming.JndiConfig #field
+jndiConfig PERSISTENT #fieldModifier
+externalSecurityName String #field
+externalSecurityName PERSISTENT #fieldModifier
+error Exception #field
+error PERSISTENT #fieldModifier

@@ -1,0 +1,3 @@
+co: name={errorInvalidFolderPath} description={} changed={2012-12-28 07:45:19 CET} changedby={tqdung} visualorder={0} guid={13BE03F8A90E5151} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13BE041FDEC27F79} datatype={} isdefault={false} langid={de} description={} validfrom={2012-12-28 07:45:19 CET} validto={} changed={2012-12-28 07:45:19 CET} changedby={tqdung} properties={} id={}
+val: guid={13BE03F8A9E6B72B} datatype={} isdefault={true} langid={en} description={} validfrom={2012-12-28 07:42:38 CET} validto={} changed={2012-12-28 07:45:19 CET} changedby={tqdung} properties={} id={}

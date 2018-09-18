@@ -1,0 +1,102 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://xmlns.jcp.org/jsf/core"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:ic="http://ivyteam.ch/jsf/component"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:pe="http://primefaces.org/ui/extensions"
+	xmlns:pm="http://primefaces.org/mobile">
+<h:body>
+	<ui:composition template="/layouts/BasicTemplate.xhtml">
+	
+<ui:define name="pageTitle">Sample Page</ui:define>
+
+<ui:define name="simplePageContent">
+	<div class="widget-header-main">
+					<span class ="widet-header-main-title"> <Font Size ="4" ><b>Edit rejected appointment</b></Font></span>
+					</div>
+			<table class="table">
+			  <tr>
+			    <th align ="left">Rejected appointment</th>
+			    <th align ="left">New proposal</th> 
+			    </tr>
+			  <tr>
+				<td>
+				<h:panelGrid columns="2">
+					<p:outputLabel for="date" value="Date"/>
+					<p:calendar id="date" value="#{data.data.appointment.date}" disabled="true" pattern="dd.MM.yyyy" size="10">
+					</p:calendar>
+
+					<p:outputLabel for="start" value="Start"/>
+					<p:calendar id="start" value ="#{data.data.appointment.start}" pattern="HH:mm" timeOnly="true" disabled="true">
+						<f:convertDateTime pattern="HH:mm"/>
+					</p:calendar>
+					<p:outputLabel for="end" value="End"/>
+					<p:calendar id="end" value ="#{data.data.appointment.end}" pattern="HH:mm" timeOnly="true" disabled="true">
+						<f:convertDateTime pattern="HH:mm"/>
+					</p:calendar>
+					<p:outputLabel for="subject" value="Subject"/>
+					<p:inputText id="subject" value="#{data.data.appointment.subject}" disabled="true"></p:inputText>
+					<p:outputLabel for="location" value="Location"/>
+					<p:inputText id="location" value="#{data.data.appointment.location}" disabled="true"></p:inputText>
+							
+					<br />
+					<br/>
+				<br/>
+				<br/>
+				<br/>
+				<br/>
+				</h:panelGrid>
+				</td>
+			   <td>
+			   
+				
+			<h:form id="form">
+				<h:panelGrid columns="2">
+					<f:facet name="header">
+						<p:messages></p:messages>
+					</f:facet>
+					
+
+					
+					<p:outputLabel for="date" value="Date" />
+					<p:calendar id="date" value="#{data.data.appointment.date}" locale="de" navigator="true" pattern ="dd.MM.yyyy" mindate= "(today)">
+					</p:calendar>
+	
+					<p:outputLabel for="start" value="Start"/>
+					<p:calendar id="start" value="#{data.data.appointment.start}" pattern="HH:mm" timeOnly="true">
+						<f:convertDateTime pattern="HH:mm" />
+					</p:calendar>
+					
+					<p:outputLabel for="end" value= "End"/>
+					<p:calendar id="end" value="#{data.data.appointment.end}" pattern="HH:mm" timeOnly="true">
+						<f:convertDateTime pattern="HH:mm" />
+					</p:calendar>
+					
+					<p:outputLabel for="subject" value="Subject"/>
+					<p:inputText id="subject" value="#{data.data.appointment.subject}"></p:inputText>
+					
+
+					
+					<p:outputLabel for="location" value="Location"/>
+					<p:inputText id="location" value="#{data.data.appointment.location}"></p:inputText>
+					<br />
+					<br></br>
+					<p:commandButton actionListener="#{logic.close}" id="sendButton" value="Proceed" update="form" icon="fa fa-mail-forward" />
+			 <p:tooltip id="ttsend" for="sendButton" value="Send changed appointment to #{data.data.user.mentor.fullName}" trackMouse="true" />
+			
+				</h:panelGrid>
+			</h:form>
+			   </td>
+			  </tr>
+
+
+			</table>
+			
+			
+			
+			
+		</ui:define>
+	</ui:composition>
+</h:body>
+</html>

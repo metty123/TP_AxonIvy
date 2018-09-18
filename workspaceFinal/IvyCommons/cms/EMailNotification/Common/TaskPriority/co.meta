@@ -1,0 +1,4 @@
+co: name={TaskPriority} description={} changed={2010-07-13 12:20:04 CEST} changedby={CSchaetti} visualorder={0} guid={129CB4F7F0FD00F8} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={129CB50F5751B8AA} datatype={} isdefault={false} langid={fr} description={} validfrom={2010-07-13 12:19:23 CEST} validto={} changed={2010-07-13 12:20:04 CEST} changedby={CSchaetti} properties={} id={}
+val: guid={129CB50F59D85E30} datatype={} isdefault={false} langid={de} description={} validfrom={2010-07-13 12:19:16 CEST} validto={} changed={2010-07-13 12:20:04 CEST} changedby={CSchaetti} properties={} id={}
+val: guid={129CB4F7F1517E56} datatype={} isdefault={true} langid={en} description={} validfrom={2010-07-13 12:17:51 CEST} validto={} changed={2010-07-13 12:20:04 CEST} changedby={CSchaetti} properties={} id={}

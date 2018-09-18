@@ -1,0 +1,2 @@
+co: name={application} description={} changed={2007-10-26 06:44:43 GMT} changedby={rwei} visualorder={0} guid={115DB0E387C832B1} parentguid={} typeguid={E6AFEA1F8A858C25} id={} parentid={} typeid={}
+val: guid={115DB0E38EAA25FE} datatype={} isdefault={true} langid={en} description={} validfrom={2007-10-26 06:44:43 GMT} validto={} changed={2007-10-26 06:45:01 GMT} changedby={rwei} properties={ch.ivyteam.ivy.cm.PropertyStringAdapter@d80a} id={}

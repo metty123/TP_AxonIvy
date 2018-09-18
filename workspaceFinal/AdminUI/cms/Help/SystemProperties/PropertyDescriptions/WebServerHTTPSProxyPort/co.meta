@@ -1,0 +1,2 @@
+co: name={WebServerHTTPSProxyPort} description={} changed={2014-06-26 10:18:19 GMT} changedby={chnam} visualorder={0} guid={146D7AED8E63FD3D} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={146D7AED918D2575} datatype={} isdefault={true} langid={en} description={} validfrom={2014-06-26 10:18:18 GMT} validto={} changed={2014-06-26 10:18:19 GMT} changedby={chnam} properties={} id={}

@@ -1,0 +1,4 @@
+co: name={selectFileToStore} description={} changed={2012-12-12 11:03:13 CET} changedby={htlam} visualorder={0} guid={13B8E91194CC5398} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13B8E91596261D23} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-12-12 11:03:08 CET} validto={} changed={2012-12-12 11:03:13 CET} changedby={htlam} properties={} id={}
+val: guid={13B8E916BFEC480E} datatype={} isdefault={false} langid={de} description={} validfrom={2012-12-12 11:03:13 CET} validto={} changed={2012-12-12 11:03:13 CET} changedby={htlam} properties={} id={}
+val: guid={13B8E91195B681F0} datatype={} isdefault={true} langid={en} description={} validfrom={2012-12-12 11:02:52 CET} validto={} changed={2012-12-12 11:03:08 CET} changedby={htlam} properties={} id={}

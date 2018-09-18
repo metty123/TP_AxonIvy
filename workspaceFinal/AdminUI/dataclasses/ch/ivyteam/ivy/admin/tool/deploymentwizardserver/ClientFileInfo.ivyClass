@@ -1,0 +1,11 @@
+ClientFileInfo #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver #namespace
+id String #field
+isDirectory Boolean #field
+isTempFile Boolean #field
+isTempFile 'This flag is used to differentiate existed zip file from new-created zip file on client PC' #fieldComment
+libraryId String #field
+name String #field
+path String #field
+projectVersion String #field
+requireProjects String #field

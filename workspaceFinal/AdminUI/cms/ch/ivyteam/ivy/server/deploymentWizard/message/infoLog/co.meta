@@ -1,0 +1,4 @@
+co: name={infoLog} description={} changed={2013-01-16 09:45:17 CET} changedby={tqdung} visualorder={0} guid={13C4288760478E0B} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13C42887611FA2B5} datatype={} isdefault={true} langid={en} description={} validfrom={2013-01-16 09:45:04 CET} validto={} changed={2013-01-16 09:45:13 CET} changedby={tqdung} properties={} id={}
+val: guid={13C4288A696C2758} datatype={} isdefault={false} langid={en} description={} validfrom={2013-01-16 09:45:17 CET} validto={} changed={2013-01-16 09:45:17 CET} changedby={tqdung} properties={} id={}
+val: guid={13C428898A95CC84} datatype={} isdefault={false} langid={de} description={} validfrom={2013-01-16 09:45:13 CET} validto={} changed={2013-01-16 09:45:17 CET} changedby={tqdung} properties={} id={}

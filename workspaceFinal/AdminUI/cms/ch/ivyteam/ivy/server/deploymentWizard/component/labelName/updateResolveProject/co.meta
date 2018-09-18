@@ -1,0 +1,4 @@
+co: name={updateResolveProject} description={} changed={2013-02-19 11:18:42 CET} changedby={tqdung} visualorder={0} guid={13CF1F60E4042502} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13CF1F60E4720013} datatype={} isdefault={true} langid={en} description={} validfrom={2013-02-19 11:18:20 CET} validto={} changed={2013-02-19 11:18:39 CET} changedby={tqdung} properties={} id={}
+val: guid={13CF1F6661B126D2} datatype={} isdefault={false} langid={de} description={} validfrom={2013-02-19 11:18:42 CET} validto={} changed={2013-02-19 11:18:42 CET} changedby={tqdung} properties={} id={}
+val: guid={13CF1F65874EB2E8} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-02-19 11:18:39 CET} validto={} changed={2013-02-19 11:18:42 CET} changedby={tqdung} properties={} id={}

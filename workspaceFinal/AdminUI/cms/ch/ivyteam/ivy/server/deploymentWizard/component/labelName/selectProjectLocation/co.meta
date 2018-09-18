@@ -1,0 +1,4 @@
+co: name={selectProjectLocation} description={} changed={2013-01-17 02:44:26 CET} changedby={tqdung} visualorder={0} guid={13995EAEA313781C} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13995EAEA4B2BEFD} datatype={} isdefault={true} langid={en} description={} validfrom={2012-08-24 09:54:38 CEST} validto={} changed={2013-01-17 02:44:26 CET} changedby={tqdung} properties={} id={}
+val: guid={13995EAEA39B3AFE} datatype={} isdefault={false} langid={de} description={} validfrom={2012-08-24 09:55:35 CEST} validto={} changed={2013-01-17 02:44:26 CET} changedby={tqdung} properties={} id={}
+val: guid={13995EAEA5B64413} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-08-24 09:55:30 CEST} validto={} changed={2013-01-17 02:44:26 CET} changedby={tqdung} properties={} id={}

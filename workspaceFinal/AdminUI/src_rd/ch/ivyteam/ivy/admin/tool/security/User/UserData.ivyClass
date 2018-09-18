@@ -1,0 +1,14 @@
+UserData #class
+ch.ivyteam.ivy.admin.tool.security.User #namespace
+confirmPassword String #field
+confirmPassword PERSISTENT #fieldModifier
+eMailAddress String #field
+exception java.lang.Exception #field
+fullName String #field
+hasPasswordChanged Boolean #field
+hasPasswordChanged PERSISTENT #fieldModifier
+name String #field
+password String #field
+securityContext ch.ivyteam.ivy.security.ISecurityContext #field
+user ch.ivyteam.ivy.security.IUser #field
+validationError String #field

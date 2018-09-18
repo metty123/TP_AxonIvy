@@ -1,0 +1,8 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-08-12 15:40:49 | 6.0.0.48909 | 1.0
+~@RD_METHODCALL[filter()]--->ch.ivyteam.ivy.process.ProcessStart:117AC2A37FABF205/1400AFB5343D5C08
+~@RD_METHODCALL[getSelectedUser()]--->ch.ivyteam.ivy.process.ProcessStart:117AC2A37FABF205/0117AC695D44F320
+~@RD_METHODCALL[getSelectedUsers()]--->ch.ivyteam.ivy.process.ProcessStart:117AC2A37FABF205/117AC696709CC20F
+~@RD_METHODCALL[getUsers()]--->ch.ivyteam.ivy.process.ProcessStart:117AC2A37FABF205/117AC697013A7A66
+~@RD_METHODCALL[setUsers(List<ch.ivyteam.ivy.security.IUser>)]--->ch.ivyteam.ivy.process.ProcessStart:117AC2A37FABF205/117AC6631C815E40
+~@RD_METHODCALL[start(List<ch.ivyteam.ivy.security.IUser>)]--->ch.ivyteam.ivy.process.ProcessStart:117AC2A37FABF205/117AC2BCB05DE91A

@@ -1,0 +1,19 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-03-19 09:27:02 | 6.0.0.47992 | 1.0
+~.tblValidation@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13B271370A626EAE
+~@RD_METHODCALL[getUploadFolderPath()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13D1083608BC7165
+~@RD_METHODCALL[getValidatedProjects()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13A400D57BD5E47E
+~@RD_METHODCALL[notifyFinishUploading(List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ClientFileInfo>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13A0B16361A60557
+~@RD_METHODCALL[previousBtnClicked()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13A05DD2A4660941
+~@RD_METHODCALL[reset()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/139B84C2AF587976
+~@RD_METHODCALL[setApps(List<ch.ivyteam.ivy.application.IApplication>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/139B982DFFB441E8
+~@RD_METHODCALL[setEnableNextButton()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/139C2FC3B105446F
+~@RD_METHODCALL[setListProjectToDeploy(List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/139B98E3797A31DC
+~@RD_METHODCALL[showValidationDetail()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13B8303AE6D4F145
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13995FD8C44C65F9
+~@RD_METHODCALL[stopCurrentProcess()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/139D77B5D9361AF6
+~@RD_METHODCALL[timerForCompressing()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13A2B126478BAE92
+~@RD_METHODCALL[timerForUncompressing()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13B9301694B6137F
+~@RD_METHODCALL[timerForUploading()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/13A2F0094F39C61D
+~@RD_METHODCALL[timerForValidating()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/1399A5F0598C063F
+~@RD_METHODCALL[validate(Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE1070E20163/139AEFA4304DE634

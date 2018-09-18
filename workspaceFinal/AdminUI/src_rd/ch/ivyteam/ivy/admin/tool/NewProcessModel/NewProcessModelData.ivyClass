@@ -1,0 +1,7 @@
+NewProcessModelData #class
+ch.ivyteam.ivy.admin.tool.NewProcessModel #namespace
+name String #field
+description String #field
+processModel ch.ivyteam.ivy.application.IProcessModel #field
+application ch.ivyteam.ivy.application.IApplication #field
+validationError String #field

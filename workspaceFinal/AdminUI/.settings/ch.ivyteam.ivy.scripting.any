@@ -1,0 +1,5 @@
+{
+  /imports {
+    "ch.ivyteam.ivy.admin.tool.ApplicationTreeHelper"
+  }
+}

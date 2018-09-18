@@ -1,0 +1,4 @@
+co: name={errorCopyToClipboard} description={} changed={2012-12-17 05:10:27 CET} changedby={htlam} visualorder={0} guid={13BA70D9EF36A349} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13BA70E2D8B42F08} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-12-17 05:10:22 CET} validto={} changed={2012-12-17 05:10:27 CET} changedby={htlam} properties={} id={}
+val: guid={13BA70D9EF9162EC} datatype={} isdefault={true} langid={en} description={} validfrom={2012-12-17 05:09:45 CET} validto={} changed={2012-12-17 05:10:22 CET} changedby={htlam} properties={} id={}
+val: guid={13BA70E4150326B3} datatype={} isdefault={false} langid={de} description={} validfrom={2012-12-17 05:10:27 CET} validto={} changed={2012-12-17 05:10:27 CET} changedby={htlam} properties={} id={}

@@ -1,0 +1,4 @@
+co: name={releaseAllTooltip} description={} changed={2012-09-05 11:06:48 GMT} changedby={chnam} visualorder={0} guid={139961B39EEEB115} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={139961B39EEAC9C9} datatype={} isdefault={true} langid={en} description={} validfrom={2012-09-05 11:05:30 GMT} validto={} changed={2012-09-05 11:06:48 GMT} changedby={chnam} properties={} id={}
+val: guid={139961B7A5BB596C} datatype={} isdefault={false} langid={de} description={} validfrom={2012-09-05 11:05:46 GMT} validto={} changed={2012-09-05 11:06:48 GMT} changedby={chnam} properties={} id={}
+val: guid={139961B6EC14162B} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-09-05 11:05:43 GMT} validto={} changed={2012-09-05 11:06:48 GMT} changedby={chnam} properties={} id={}

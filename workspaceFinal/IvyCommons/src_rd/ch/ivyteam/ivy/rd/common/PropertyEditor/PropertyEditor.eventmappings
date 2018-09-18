@@ -1,0 +1,11 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-06-25 13:51:20 | 5.0.1.42860 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/01187F5AD20CE23F
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/1187F5ACF2E23B77
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/1187F60B55658AD6
+~@RD_METHODCALL[start(ch.ivyteam.ivy.rd.common.Property)]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/1189807F3EE53DB4
+~@RD_METHODCALL[start(Record)]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/1187F634C6B91268
+~@RD_METHODCALL[start(String,String)]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/1187F634DF22D0A6
+~@RD_METHODCALL[start(String,String,Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/12945F3F0872D4AD
+~@RD_METHODCALL[startLDAP(ch.ivyteam.ivy.rd.common.Property)]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/13F7A173B06586B5
+~@RD_METHODCALL[startLDAP(String,String)]--->ch.ivyteam.ivy.process.ProcessStart:1187F575BF269753/13F79947BA424E49

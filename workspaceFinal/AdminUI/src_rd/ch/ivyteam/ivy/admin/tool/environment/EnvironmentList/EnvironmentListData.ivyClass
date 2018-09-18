@@ -1,0 +1,26 @@
+EnvironmentListData #class
+ch.ivyteam.ivy.admin.tool.environment.EnvironmentList #namespace
+EnvironmentListData #dbTableName
+environments List<ch.ivyteam.ivy.application.restricted.IEnvironment> #field
+environments environments #dbFieldName
+environments PERSISTENT #fieldModifier
+applicationFilter ch.ivyteam.ivy.application.IApplication #field
+applicationFilter applicationFilter #dbFieldName
+applicationFilter PERSISTENT #fieldModifier
+parameterList List<java.lang.Object> #field
+parameterList parameterList #dbFieldName
+parameterList PERSISTENT #fieldModifier
+selectedEnvironment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+selectedEnvironment selectedEnvironment #dbFieldName
+selectedEnvironment PERSISTENT #fieldModifier
+cancel Boolean #field
+cancel cancel #dbFieldName
+cancel PERSISTENT #fieldModifier
+selectedApplication ch.ivyteam.ivy.application.IApplication #field
+selectedApplication PERSISTENT #fieldModifier
+defaultSelection Boolean #field
+defaultSelection PERSISTENT #fieldModifier
+selectedEnvironments List<ch.ivyteam.ivy.application.restricted.IEnvironment> #field
+selectedEnvironments PERSISTENT #fieldModifier
+counter Number #field
+counter PERSISTENT #fieldModifier

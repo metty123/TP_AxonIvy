@@ -1,0 +1,13 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-07-22 16:54:38 | 6.0.0.48909 | 1.0
+~.lstWebServices@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/12375A6DA0F3F17F
+~.mnuReset@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/12375A71532BF539
+~.webServiceDetailsPanel@RD_EVENT[resetToDefault]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/12375A71532BF539
+~.webServiceDetailsPanel@RD_EVENT[saveWebService]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/1237F68613CB958F
+~@RD_METHODCALL[filter()]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/14EB5246F979397A
+~@RD_METHODCALL[filterWebServices()]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/14E8BC2B16CB9DBF
+~@RD_METHODCALL[getWebServices()]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/12375A76729D00EE
+~@RD_METHODCALL[setWebServices(List<ch.ivyteam.ivy.application.restricted.IWebService>)]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/12375A77726E7562
+~@RD_METHODCALL[showWebServices(List<ch.ivyteam.ivy.application.restricted.IWebService>,ch.ivyteam.ivy.application.restricted.IEnvironment)]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/12375307A974924F
+~@RD_METHODCALL[sortWebServices()]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/14E9A0AD3408F359
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:12375248D3740504/12375248DC495481

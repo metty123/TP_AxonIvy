@@ -1,0 +1,11 @@
+JndiBrowserData #class
+ch.ivyteam.ivy.admin.tool.security.jndi.JndiBrowser #namespace
+exception java.lang.Exception #field
+jndiAttributes List<List<String>> #field
+jndiConfig ch.ivyteam.naming.JndiConfig #field
+jndiContext javax.naming.directory.DirContext #field
+jndiTree Tree #field
+nameToSelect String #field
+nameToSelect PERSISTENT #fieldModifier
+result String #field
+workTree Tree #field

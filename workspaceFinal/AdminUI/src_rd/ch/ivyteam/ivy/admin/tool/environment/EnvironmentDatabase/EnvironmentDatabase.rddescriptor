@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<richDialogDescriptor>
+    <method>
+        <name>setDatabases</name>
+        <description></description>
+        <inputParameter>
+            <name>databases</name>
+            <description></description>
+            <parameterType>List&lt;ch.ivyteam.ivy.application.IExternalDatabaseConfiguration&gt;</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+    </method>
+    <startMethod>
+        <name>start</name>
+        <description>Default Rich Dialog start
+This method can not be changed or deleted!</description>
+    </startMethod>
+    <startMethod>
+        <name>showDatabases</name>
+        <description></description>
+        <inputParameter>
+            <name>databases</name>
+            <description></description>
+            <parameterType>List&lt;ch.ivyteam.ivy.application.IExternalDatabaseConfiguration&gt;</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+        <inputParameter>
+            <name>environment</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.application.restricted.IEnvironment</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+    </startMethod>
+    <firedEvent>
+        <name>showDatabase</name>
+        <description></description>
+        <scope>SIBLINGS</scope>
+        <attachment>
+            <name>database</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.application.IExternalDatabaseConfiguration</parameterType>
+            <nullPermitted>true</nullPermitted>
+        </attachment>
+    </firedEvent>
+    <firedEvent>
+        <name>refreshDbList</name>
+        <description></description>
+    </firedEvent>
+    <property>
+        <name>guid</name>
+        <value>1213F93B85A48A8A</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>version</name>
+        <value>1</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>binary</name>
+        <value>false</value>
+        <readOnly>true</readOnly>
+    </property>
+</richDialogDescriptor>

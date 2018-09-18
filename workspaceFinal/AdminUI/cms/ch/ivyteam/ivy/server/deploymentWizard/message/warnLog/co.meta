@@ -1,0 +1,4 @@
+co: name={warnLog} description={} changed={2013-01-16 09:46:59 CET} changedby={tqdung} visualorder={0} guid={13C42893EEA149E4} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13C428968D624D6D} datatype={} isdefault={false} langid={de} description={} validfrom={2013-01-16 09:46:07 CET} validto={} changed={2013-01-16 09:46:07 CET} changedby={tqdung} properties={} id={}
+val: guid={13C42893EEEC421E} datatype={} isdefault={true} langid={en} description={} validfrom={2013-01-16 09:45:56 CET} validto={} changed={2013-01-16 09:46:05 CET} changedby={tqdung} properties={} id={}
+val: guid={13C4289611621FEB} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-01-16 09:46:05 CET} validto={} changed={2013-01-16 09:46:13 CET} changedby={tqdung} properties={} id={}

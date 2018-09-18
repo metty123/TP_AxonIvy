@@ -1,0 +1,6 @@
+LibraryInfo #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver #namespace
+libraryId String #field
+qualifiedVersion ch.ivyteam.ivy.application.value.QualifiedVersion #field
+isDeployed Boolean #field
+projectName String #field

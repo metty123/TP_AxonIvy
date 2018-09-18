@@ -1,0 +1,20 @@
+GlobalVariableDetailsData #class
+ch.ivyteam.ivy.admin.tool.globalvars.GlobalVariableDetails #namespace
+GlobalVariableDetailsData #dbTableName
+name String #field
+name PERSISTENT #fieldModifier
+description String #field
+description PERSISTENT #fieldModifier
+value String #field
+value PERSISTENT #fieldModifier
+editMode Boolean #field
+editMode PERSISTENT #fieldModifier
+globalVariable ch.ivyteam.ivy.application.restricted.IGlobalVariable #field
+globalVariable PERSISTENT #fieldModifier
+isDefault Boolean #field
+isDefault PERSISTENT #fieldModifier
+pressedButton String #field
+pressedButton PERSISTENT #fieldModifier
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+errorMessage String #field

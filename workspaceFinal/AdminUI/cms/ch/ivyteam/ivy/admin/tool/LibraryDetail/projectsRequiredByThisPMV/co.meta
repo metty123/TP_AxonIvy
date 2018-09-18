@@ -1,0 +1,4 @@
+co: name={projectsRequiredByThisPMV} description={} changed={2013-06-28 12:41:35 CEST} changedby={dtthuy} visualorder={0} guid={13F8A5F5C7265160} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13F8A5F80929C03A} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-06-28 12:41:22 CEST} validto={} changed={2013-06-28 12:41:35 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F8A5F5C7710C12} datatype={} isdefault={true} langid={en} description={} validfrom={2013-06-28 12:41:12 CEST} validto={} changed={2013-06-28 12:41:22 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13F8A5F8AD4C7228} datatype={} isdefault={false} langid={de} description={} validfrom={2013-06-28 12:41:24 CEST} validto={} changed={2013-06-28 12:41:24 CEST} changedby={dtthuy} properties={} id={}

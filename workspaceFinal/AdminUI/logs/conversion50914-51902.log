@@ -1,0 +1,5 @@
+# Conversion log for project 'IvyAdminTool' from version 50914 to 51902
+# Created on 02.03.2015 17:08:22
+02.03.2015 17:08:22 : New Task  : Installing the maven nature and a pom.xml deployment descriptor.
+02.03.2015 17:08:23 : New Task  : Update project version to actual version 51902.
+02.03.2015 17:08:23 : New Task  : Finished conversion of project IvyAdminTool.

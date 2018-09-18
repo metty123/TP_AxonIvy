@@ -1,0 +1,4 @@
+co: name={workflowRIA} description={} changed={2014-07-04 05:34:33 CEST} changedby={chnam} visualorder={0} guid={14269873F16E7641} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={142698782C9D4467} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-11-18 05:45:57 CET} validto={} changed={2014-07-04 05:34:33 CEST} changedby={chnam} properties={} id={}
+val: guid={14269873F1B39FAA} datatype={} isdefault={true} langid={en} description={} validfrom={2013-11-18 05:45:40 CET} validto={} changed={2014-07-04 05:34:33 CEST} changedby={chnam} properties={} id={}
+val: guid={14269878EA463979} datatype={} isdefault={false} langid={de} description={} validfrom={2013-11-18 05:46:00 CET} validto={} changed={2014-07-04 05:34:33 CEST} changedby={chnam} properties={} id={}

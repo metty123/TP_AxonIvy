@@ -1,0 +1,2 @@
+co: name={information} description={} changed={2011-08-09 14:14:28 GMT} changedby={bb} visualorder={0} guid={131AEE4FE12E8134} parentguid={} typeguid={E6AFEA1F8A858C25} id={} parentid={} typeid={}
+val: guid={131AEE4FE22491C8} datatype={} isdefault={true} langid={en} description={} validfrom={2008-02-12 15:06:10 GMT} validto={} changed={2011-08-09 14:14:28 GMT} changedby={bb} properties={ch.ivyteam.ivy.cm.CmPropertyStringAdapter@17f156} id={}

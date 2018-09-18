@@ -1,0 +1,5 @@
+ActivityData #class
+ch.ivyteam.ivy.admin.tool.Activity #namespace
+activity ch.ivyteam.ivy.application.IActivity #field
+processModelVersion ch.ivyteam.ivy.application.IProcessModelVersion #field
+isForPmv Boolean #field

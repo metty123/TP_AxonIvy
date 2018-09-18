@@ -1,0 +1,2 @@
+co: name={ThreadPoolImmediateJobExecutorCorePoolSize} description={} changed={2016-01-07 15:18:37 CET} changedby={rwei} visualorder={0} guid={1521C6A6C972000B} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={1521C6A6CB32ACAF} datatype={} isdefault={true} langid={en} description={} validfrom={2016-01-07 15:08:02 CET} validto={} changed={2016-01-07 15:18:37 CET} changedby={rwei} properties={} id={}

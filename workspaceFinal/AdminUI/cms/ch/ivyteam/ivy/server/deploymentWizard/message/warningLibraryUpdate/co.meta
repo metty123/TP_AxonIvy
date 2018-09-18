@@ -1,0 +1,4 @@
+co: name={warningLibraryUpdate} description={} changed={2013-02-25 06:44:58 CET} changedby={tqdung} visualorder={0} guid={13D0F36FB6B79B25} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13D0F36FB847BF4D} datatype={} isdefault={true} langid={en} description={} validfrom={2013-02-25 03:38:14 CET} validto={} changed={2013-02-25 06:44:58 CET} changedby={tqdung} properties={} id={}
+val: guid={13D0F37158E272D8} datatype={} isdefault={false} langid={de} description={} validfrom={2013-02-25 03:38:21 CET} validto={} changed={2013-02-25 06:44:58 CET} changedby={tqdung} properties={} id={}
+val: guid={13D0F370A9286475} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-02-25 03:38:18 CET} validto={} changed={2013-02-25 06:44:58 CET} changedby={tqdung} properties={} id={}

@@ -1,0 +1,15 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2014-06-13 16:45:26 | 5.1.0.45769 | 1.0
+~.browseImportContextButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/013F2D12A53FCB59
+~.defaultPortCheckBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F3192FC5476E54
+~.defaultPortCheckBox@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F1DDAFE66A9A41
+~.hostTextField@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F31A039F971FF3
+~.importUserGroupBrowseButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F2D138D67E13EE
+~.userGroupCheckBox@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F1DDAFE66A9A41
+~.useSslCheckBox@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F3192FC5476E54
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F31A039F971FF3
+~@RD_METHODCALL[checkDataChanged()]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/146949BDEEAE285D
+~@RD_METHODCALL[isUserFilterCorrect()]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/14621D89FC257F72
+~@RD_METHODCALL[save()]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F2CED34926FB5B
+~@RD_METHODCALL[start(ch.ivyteam.ivy.security.ISecurityContext)]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F1CF7C8FC9767F
+~@RD_METHODCALL[validate()]--->ch.ivyteam.ivy.process.ProcessStart:13F1CF7C8DB5B8A7/13F3B9455F420AD2

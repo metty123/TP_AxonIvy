@@ -1,0 +1,8 @@
+ProcessExecutionSettingsData #class
+ch.ivyteam.ivy.admin.tool.security.ProcessExecutionSettings #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+executionLibraries List<String> #field
+executionLibraries PERSISTENT #fieldModifier
+selectedExecutionLibrary String #field
+selectedExecutionLibrary PERSISTENT #fieldModifier

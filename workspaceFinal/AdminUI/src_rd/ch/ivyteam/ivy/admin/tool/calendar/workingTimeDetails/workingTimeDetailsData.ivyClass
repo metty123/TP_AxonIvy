@@ -1,0 +1,6 @@
+workingTimeDetailsData #class
+ch.ivyteam.ivy.admin.tool.calendar.workingTimeDetails #namespace
+workingTime ch.ivyteam.ivy.application.calendar.WorkingTime #field
+workingTime PERSISTENT #fieldModifier
+configuredWorkingTimes List<ch.ivyteam.ivy.application.calendar.WorkingTime> #field
+configuredWorkingTimes PERSISTENT #fieldModifier

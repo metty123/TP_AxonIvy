@@ -1,0 +1,8 @@
+DeploymentProgressData #class
+ch.ivyteam.ivy.admin.tool.deployment.DeploymentProgress #namespace
+pmv ch.ivyteam.ivy.application.IProcessModelVersion #field
+pmv PERSISTENT #fieldModifier
+deployer ch.ivyteam.ivy.deployment.restricted.helper.RichDialogBasedDeployment #field
+deployer PERSISTENT #fieldModifier
+file java.io.File #field
+file PERSISTENT #fieldModifier

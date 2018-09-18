@@ -1,0 +1,13 @@
+{
+  //PortalConnector/processes/Web\u0020Services/UserService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/UserService.java"
+  //PortalConnector/processes/Web\u0020Services/TaskService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/TaskService.java"
+  //PortalConnector/processes/Web\u0020Services/SupportedLanguageService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/SupportedLanguageService.java"
+  //PortalConnector/processes/Web\u0020Services/ServerService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/ServerService.java"
+  //PortalConnector/processes/Web\u0020Services/SecurityService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/SecurityService.java"
+  //PortalConnector/processes/Web\u0020Services/ProcessStartService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/ProcessStartService.java"
+  //PortalConnector/processes/Web\u0020Services/IsAliveService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/IsAliveService.java"
+  //PortalConnector/processes/Web\u0020Services/CaseService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/CaseService.java"
+  //PortalConnector/processes/Web\u0020Services/ApplicationService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/ApplicationService.java"
+  //PortalConnector/processes/Web\u0020Services/AbsenceService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/AbsenceService.java"
+  //PortalConnector/processes/PortalDataWebServices/PortalDataService.mod "/PortalConnector/src_wsproc/ch/ivy/ws/addon/PortalDataService.java"
+}

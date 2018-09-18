@@ -1,0 +1,28 @@
+CalendarDetailData #class
+ch.ivyteam.ivy.admin.tool.calendar.CalendarDetail #namespace
+settings ch.ivyteam.ivy.application.calendar.IBusinessCalendarSettings #field
+settings PERSISTENT #fieldModifier
+calendar ch.ivyteam.ivy.application.calendar.IBusinessCalendarConfiguration #field
+calendar PERSISTENT #fieldModifier
+firstDayOfWeek ch.ivyteam.util.date.Weekday #field
+firstDayOfWeek PERSISTENT #fieldModifier
+workingTimes List<ivyadmintool.CalendarObject> #field
+workingTimes PERSISTENT #fieldModifier
+selectedWorkingTime ivyadmintool.CalendarObject #field
+selectedWorkingTime PERSISTENT #fieldModifier
+freeDaysOfWeek List<ivyadmintool.CalendarObject> #field
+freeDaysOfWeek PERSISTENT #fieldModifier
+selectedFreeDayOfWeek ivyadmintool.CalendarObject #field
+selectedFreeDayOfWeek PERSISTENT #fieldModifier
+freeDaysOfYear List<ivyadmintool.CalendarObject> #field
+freeDaysOfYear PERSISTENT #fieldModifier
+selectedFreeDayOfYear ivyadmintool.CalendarObject #field
+selectedFreeDayOfYear PERSISTENT #fieldModifier
+freeEasterRelativeDays List<ivyadmintool.CalendarObject> #field
+freeEasterRelativeDays PERSISTENT #fieldModifier
+selectedFreeEeasterRelativeDay ivyadmintool.CalendarObject #field
+selectedFreeEeasterRelativeDay PERSISTENT #fieldModifier
+freeDates List<ivyadmintool.CalendarObject> #field
+freeDates PERSISTENT #fieldModifier
+selectedFreeDate ivyadmintool.CalendarObject #field
+selectedFreeDate PERSISTENT #fieldModifier

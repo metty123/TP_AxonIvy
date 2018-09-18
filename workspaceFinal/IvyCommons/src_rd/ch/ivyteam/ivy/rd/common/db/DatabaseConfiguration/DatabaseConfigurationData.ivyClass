@@ -1,0 +1,14 @@
+DatabaseConfigurationData #class
+ch.ivyteam.ivy.rd.common.db.DatabaseConfiguration #namespace
+creationParameters List<String> #field
+databaseProducts List<ch.ivyteam.ivy.rd.common.DbProduct> #field
+databaseProducts 'include "Others"' #fieldComment
+dbConnection ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration #field
+dbDrivers List<ch.ivyteam.ivy.rd.common.DbDriver> #field
+errorMessage String #field
+exception java.lang.Exception #field
+isCallCboEvent Boolean #field
+properties Recordset #field
+selectedDatabaseProduct ch.ivyteam.ivy.rd.common.DbProduct #field
+selectedDbDriver ch.ivyteam.ivy.rd.common.DbDriver #field
+supportedDrivers List<ch.ivyteam.db.jdbc.JdbcDriver> #field

@@ -1,0 +1,5 @@
+FreeDateDetailData #class
+ch.ivyteam.ivy.admin.tool.calendar.FreeDateDetail #namespace
+data ch.ivyteam.ivy.application.calendar.FreeDate #field
+configuredFreeDates List<ch.ivyteam.ivy.application.calendar.FreeDate> #field
+configuredFreeDates PERSISTENT #fieldModifier

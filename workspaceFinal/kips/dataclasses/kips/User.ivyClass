@@ -1,0 +1,26 @@
+User #class
+kips #namespace
+student ch.ivyteam.ivy.security.IUser #field
+student PERSISTENT #fieldModifier
+mentor ch.ivyteam.ivy.security.IUser #field
+mentor PERSISTENT #fieldModifier
+studentUsername String #field
+studentUsername PERSISTENT #fieldModifier
+mentorUsername String #field
+mentorUsername PERSISTENT #fieldModifier
+MentoFullName String #field
+MentoFullName PERSISTENT #fieldModifier
+allStudents List<ch.ivyteam.ivy.security.IUser> #field
+allStudents PERSISTENT #fieldModifier
+allMentors List<ch.ivyteam.ivy.security.IUser> #field
+allMentors PERSISTENT #fieldModifier
+mentorId Long #field
+mentorId PERSISTENT #fieldModifier
+StudentId Long #field
+StudentId PERSISTENT #fieldModifier
+StudentFullName String #field
+StudentFullName PERSISTENT #fieldModifier
+mentorMail String #field
+mentorMail PERSISTENT #fieldModifier
+studentMail String #field
+studentMail PERSISTENT #fieldModifier

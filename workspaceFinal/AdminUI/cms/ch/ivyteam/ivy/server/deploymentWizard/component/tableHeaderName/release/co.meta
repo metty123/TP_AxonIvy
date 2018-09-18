@@ -1,0 +1,4 @@
+co: name={release} description={} changed={2012-09-19 05:34:27 CEST} changedby={chnam} visualorder={0} guid={139DC96E2EAFF25A} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={139DC96F51DE0C18} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-09-19 05:34:04 CEST} validto={} changed={2012-09-19 05:34:27 CEST} changedby={chnam} properties={} id={}
+val: guid={139DC97032590BE9} datatype={} isdefault={false} langid={de} description={} validfrom={2012-09-19 05:34:07 CEST} validto={} changed={2012-09-19 05:34:27 CEST} changedby={chnam} properties={} id={}
+val: guid={139DC96E2F1AFEDD} datatype={} isdefault={true} langid={en} description={} validfrom={2012-09-19 05:33:59 CEST} validto={} changed={2012-09-19 05:34:27 CEST} changedby={chnam} properties={} id={}

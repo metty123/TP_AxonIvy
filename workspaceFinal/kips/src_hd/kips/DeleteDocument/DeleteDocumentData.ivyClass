@@ -1,0 +1,4 @@
+DeleteDocumentData #class
+kips.DeleteDocument #namespace
+Data kips.Data #field
+Data PERSISTENT #fieldModifier

@@ -1,0 +1,10 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-07-22 11:15:30 | 6.0.0.48909 | 1.0
+~.editButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1178D90627346FE6/1178D9A3750D4EFB
+~.showRolesButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1178D90627346FE6/117AB9196CF4AA68
+~.showUsersButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1178D90627346FE6/1178D9A3EE281E80
+~.synchronizeUsersButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:1178D90627346FE6/1178D9A4710344E4
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:1178D90627346FE6/147B00950BAE705A
+~@RD_BROADCAST[informUserSynchronizationIsCompleted]--->ch.ivyteam.ivy.process.ProcessStart:1178D90627346FE6/147B001CCB1B3523
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:1178D90627346FE6/11938A70FD5B8339
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:1178D90627346FE6/1178D9B6D04FC50F

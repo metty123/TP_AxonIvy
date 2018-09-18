@@ -1,0 +1,4 @@
+co: name={applicationAsTarget} description={} changed={2013-01-09 08:27:38 CET} changedby={dtthuy} visualorder={0} guid={13C19546DE87B783} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13C19548425C3D9F} datatype={} isdefault={false} langid={de} description={} validfrom={2013-01-08 09:43:54 CET} validto={} changed={2013-01-09 08:27:37 CET} changedby={dtthuy} properties={} id={}
+val: guid={13C19547B27FC4CC} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-01-08 09:43:52 CET} validto={} changed={2013-01-09 08:27:38 CET} changedby={dtthuy} properties={} id={}
+val: guid={13C19546DEEA1C54} datatype={} isdefault={true} langid={en} description={} validfrom={2013-01-08 09:43:49 CET} validto={} changed={2013-01-09 08:27:38 CET} changedby={dtthuy} properties={} id={}

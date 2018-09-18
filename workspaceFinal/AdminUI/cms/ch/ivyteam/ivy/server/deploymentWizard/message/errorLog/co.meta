@@ -1,0 +1,4 @@
+co: name={errorLog} description={} changed={2013-01-16 09:46:45 CET} changedby={tqdung} visualorder={0} guid={13C4289D9CFB005E} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13C4289F2F61A4C7} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-01-16 09:46:42 CET} validto={} changed={2013-01-16 09:46:45 CET} changedby={tqdung} properties={} id={}
+val: guid={13C4289D9D61254E} datatype={} isdefault={true} langid={en} description={} validfrom={2013-01-16 09:46:35 CET} validto={} changed={2013-01-16 09:46:42 CET} changedby={tqdung} properties={} id={}
+val: guid={13C4289FFC1FAE89} datatype={} isdefault={false} langid={de} description={} validfrom={2013-01-16 09:46:45 CET} validto={} changed={2013-01-16 09:46:45 CET} changedby={tqdung} properties={} id={}

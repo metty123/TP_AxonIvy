@@ -1,0 +1,4 @@
+Property #class
+ch.ivyteam.ivy.rd.common #namespace
+name String #field
+value String #field

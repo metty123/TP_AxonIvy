@@ -1,0 +1,3 @@
+StatementExecutionDetailsData #class
+ch.ivyteam.ivy.admin.tool.StatementExecutionDetails #namespace
+statementExecution ch.ivyteam.ivy.db.IStatementExecution #field

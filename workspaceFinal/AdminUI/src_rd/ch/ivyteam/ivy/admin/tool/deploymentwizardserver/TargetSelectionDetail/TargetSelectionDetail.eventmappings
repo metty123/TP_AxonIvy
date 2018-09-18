@@ -1,0 +1,10 @@
+# Ivy RichDialog Event-Mapping Data
+# 2014-07-24 10:47:08 | 5.1.0.46231 | 1.0
+~.btnCancel@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0E38477C74/13AB11E2353BE54B
+~.btnOk@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0E38477C74/13AC0D55E66A9297
+~.tblDetail@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0E38477C74/14748FA52DFF6DBA
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0E38477C74/13ABB763460B8D0C
+~@RD_METHODCALL[getDeployProjectList()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0E38477C74/13AC73C6D6580720
+~@RD_METHODCALL[showDialog(String,String,String,List<String>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0E38477C74/1475817479DE7F66
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0E38477C74/13AB06863D2980BB
+~@RD_METHODCALL[start(List<ch.ivyteam.ivy.application.IApplication>,List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo>,Boolean,Boolean,Boolean,Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0E38477C74/13AC05F3AD6E311A

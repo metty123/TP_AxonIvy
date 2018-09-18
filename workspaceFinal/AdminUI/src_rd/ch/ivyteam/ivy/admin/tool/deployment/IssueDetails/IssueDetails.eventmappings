@@ -1,0 +1,4 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2009-02-05 12:30:47 | 4.1.0.15100 | 1.0
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11F461E97C559E12/11F4633FEC19482E # IssueDetailsProcess.mod/ok
+~@RD_METHODCALL[start(ch.ivyteam.ivy.deployment.restricted.IProjectDeploymentValidationIssue)]--->ch.ivyteam.ivy.process.ProcessStart:11F461E97C559E12/11F461E985144A24

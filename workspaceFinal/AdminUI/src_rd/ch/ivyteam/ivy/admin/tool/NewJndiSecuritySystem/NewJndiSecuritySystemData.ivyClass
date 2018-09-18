@@ -1,0 +1,10 @@
+NewJndiSecuritySystemData #class
+ch.ivyteam.ivy.admin.tool.NewJndiSecuritySystem #namespace
+canceled Boolean #field
+erorrMsg String #field
+error javax.naming.NamingException #field
+hasDataChanged Boolean #field
+isEditMask Boolean #field
+jndiConfig ch.ivyteam.naming.JndiConfig #field
+pressedButton String #field
+pressedButton 'user''s answer from a Question dialog' #fieldComment

@@ -1,0 +1,3 @@
+co: name={daysSinceEaster} description={} changed={2011-12-09 16:24:50 CET} changedby={rew} visualorder={0} guid={134236CE49EBD43C} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={134236CE4A4F8D32} datatype={} isdefault={true} langid={en} description={} validfrom={2011-12-09 16:24:26 CET} validto={} changed={2011-12-09 16:24:50 CET} changedby={rew} properties={} id={}
+val: guid={134236D10C2104FC} datatype={} isdefault={false} langid={de} description={} validfrom={2011-12-09 16:24:37 CET} validto={} changed={2011-12-09 16:24:50 CET} changedby={rew} properties={} id={}

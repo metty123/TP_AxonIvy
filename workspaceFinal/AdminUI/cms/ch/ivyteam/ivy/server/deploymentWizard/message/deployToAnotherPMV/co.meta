@@ -1,0 +1,4 @@
+co: name={deployToAnotherPMV} description={} changed={2012-12-10 03:04:00 CET} changedby={chnam} visualorder={0} guid={13B828D65FF71975} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13B828DDC718AE6A} datatype={} isdefault={false} langid={de} description={} validfrom={2012-12-10 03:03:53 CET} validto={} changed={2012-12-10 03:03:53 CET} changedby={chnam} properties={} id={}
+val: guid={13B828D66178A0E4} datatype={} isdefault={true} langid={en} description={} validfrom={2012-12-10 03:03:23 CET} validto={} changed={2012-12-10 03:03:50 CET} changedby={chnam} properties={} id={}
+val: guid={13B828DD093469B8} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-12-10 03:03:50 CET} validto={} changed={2012-12-10 03:04:00 CET} changedby={chnam} properties={} id={}

@@ -1,0 +1,13 @@
+ApplicationData #class
+ch.ivyteam.ivy.admin.tool.Application #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+processModels List<ch.ivyteam.ivy.application.IProcessModel> #field
+selectedProcessModel ch.ivyteam.ivy.application.IProcessModel #field
+deletedApplicationId Number #field
+tempIdentifier Number #field
+tempIdentifier PERSISTENT #fieldModifier
+tempType String #field
+tempType PERSISTENT #fieldModifier
+environments List<String> #field
+activeEnvironment String #field
+selectedEnvironment String #field

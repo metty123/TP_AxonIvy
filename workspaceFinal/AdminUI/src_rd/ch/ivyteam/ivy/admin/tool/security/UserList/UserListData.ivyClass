@@ -1,0 +1,8 @@
+UserListData #class
+ch.ivyteam.ivy.admin.tool.security.UserList #namespace
+keyword String #field
+originalUsers List<ch.ivyteam.ivy.admin.tool.security.UserDTO> #field
+selectedUser ch.ivyteam.ivy.security.IUser #field
+selectedUsers List<ch.ivyteam.ivy.security.IUser> #field
+userDTO List<ch.ivyteam.ivy.admin.tool.security.UserDTO> #field
+users List<ch.ivyteam.ivy.security.IUser> #field

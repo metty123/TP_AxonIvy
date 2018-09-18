@@ -1,0 +1,4 @@
+co: name={libraryDetail} description={} changed={2013-03-14 07:45:54 CET} changedby={tqdung} visualorder={0} guid={13D67A5A861EEAB4} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13D67A5C9C9A7AA2} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-03-14 07:45:51 CET} validto={} changed={2013-03-14 07:45:54 CET} changedby={tqdung} properties={} id={}
+val: guid={13D67A5D5CA77665} datatype={} isdefault={false} langid={de} description={} validfrom={2013-03-14 07:45:54 CET} validto={} changed={2013-03-14 07:45:54 CET} changedby={tqdung} properties={} id={}
+val: guid={13D67A5A87027AFC} datatype={} isdefault={true} langid={en} description={} validfrom={2013-03-14 07:45:42 CET} validto={} changed={2013-03-14 07:45:51 CET} changedby={tqdung} properties={} id={}

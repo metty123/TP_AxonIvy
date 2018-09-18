@@ -1,0 +1,4 @@
+co: name={errorProjectPathNotExists} description={} changed={2012-12-06 08:20:09 CET} changedby={chnam} visualorder={0} guid={13B6F154CE076149} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13B6F154CE6C46BB} datatype={} isdefault={true} langid={en} description={} validfrom={2012-12-06 08:19:25 CET} validto={} changed={2012-12-06 08:20:09 CET} changedby={chnam} properties={} id={}
+val: guid={13B6F155D9AB8578} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-12-06 08:19:29 CET} validto={} changed={2012-12-06 08:20:09 CET} changedby={chnam} properties={} id={}
+val: guid={13B6F156C663433B} datatype={} isdefault={false} langid={de} description={} validfrom={2012-12-06 08:19:33 CET} validto={} changed={2012-12-06 08:20:09 CET} changedby={chnam} properties={} id={}

@@ -1,0 +1,35 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-03-18 19:06:27 | 6.0.0.47992 | 1.0
+~.btnDetail@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13999C6AACDE6494
+~.btnEnvironments@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13999C71786C4D61
+~.ckActivateAll@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/146EBF9A0BC3EF1E
+~.ckReleaseAll@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/146EBFEDE228FA35
+~@DISPLAY[UNLOAD]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13B4B4BCF1FD1F36
+~@RD_METHODCALL[deselectAllApps()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13B8324EFD3D894C
+~@RD_METHODCALL[disableDetailButton()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13AB1391DAE4B20B
+~@RD_METHODCALL[enableDetailButton()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13AB138CEC064B55
+~@RD_METHODCALL[getActivateAllStatus()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/139E1A8FB0E8215F
+~@RD_METHODCALL[getApplyManualSelection()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13C901C6D64F9565
+~@RD_METHODCALL[getAppsFromAdmin()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13C8EFEEF03289E2
+~@RD_METHODCALL[getAvailableAppList()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/1399E79FBDBC69D7
+~@RD_METHODCALL[getCheckedAppList()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/139C46DB1E1E0B22
+~@RD_METHODCALL[getDeployProjectList()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/146F667E73E786CF
+~@RD_METHODCALL[getPmsFromAdmin()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13C8F8B461132F4D
+~@RD_METHODCALL[getPmvsFromAdmin()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13C8F8B527234D9F
+~@RD_METHODCALL[getReleaseAllStatus()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/139E1A906459BD3F
+~@RD_METHODCALL[isUserChangeActivateAll()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/146EC12A51B9B3DC
+~@RD_METHODCALL[isUserChangeReleaseAll()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/146EC12A9DF4475F
+~@RD_METHODCALL[previousBtnClicked()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13A05E1A9375035A
+~@RD_METHODCALL[reset()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/14C2CC715AED4A8E
+~@RD_METHODCALL[selectAllApps()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13B8319EC6A757FE
+~@RD_METHODCALL[setActiveAllAndReleaseAllChkBoxesState(Boolean,Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/146FA3DD2636C46F
+~@RD_METHODCALL[setApplyManualSelction(Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13C9091BF7953DF0
+~@RD_METHODCALL[setAppsFromAdmin(List<ch.ivyteam.ivy.application.IApplication>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13D493AE724B9AFE
+~@RD_METHODCALL[setDeployProjectList(List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13AB4F3441841405
+~@RD_METHODCALL[setEnableNextButton()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/1399A776957E7BBF
+~@RD_METHODCALL[setEnableNextButtonByCheckBox()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13DAACAC2D8BDAFC
+~@RD_METHODCALL[setMaskLoaded()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/146EC04345F659A2
+~@RD_METHODCALL[setPmsFromAdmin(List<ch.ivyteam.ivy.application.IProcessModel>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13D493C2216D12E2
+~@RD_METHODCALL[setPmvsFromAdmin(List<ch.ivyteam.ivy.application.IProcessModelVersion>)]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13D493CA5249FF2B
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/139955158A59667A
+~@RD_METHODCALL[storeSelectedApps()]--->ch.ivyteam.ivy.process.ProcessStart:13C6FE0C5235467A/13B50A8A65CBC0AB

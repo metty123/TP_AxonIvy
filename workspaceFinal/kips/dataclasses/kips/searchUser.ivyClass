@@ -1,0 +1,10 @@
+searchUser #class
+kips #namespace
+searchText String #field
+searchText PERSISTENT #fieldModifier
+searchResult List<ch.ivyteam.ivy.security.IUser> #field
+searchResult PERSISTENT #fieldModifier
+selectedUserID Number #field
+selectedUserID PERSISTENT #fieldModifier
+allUserNames List<String> #field
+allUserNames PERSISTENT #fieldModifier

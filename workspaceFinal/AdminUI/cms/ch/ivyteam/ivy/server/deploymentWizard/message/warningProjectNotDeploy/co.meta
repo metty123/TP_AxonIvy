@@ -1,0 +1,4 @@
+co: name={warningProjectNotDeploy} description={} changed={2013-02-01 04:49:31 CET} changedby={tqdung} visualorder={0} guid={13C93DEFEAA607A3} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13C93DF89DB454E1} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-02-01 04:49:26 CET} validto={} changed={2013-02-01 04:49:31 CET} changedby={tqdung} properties={} id={}
+val: guid={13C93DEFEBC34007} datatype={} isdefault={true} langid={en} description={} validfrom={2013-02-01 04:48:50 CET} validto={} changed={2013-02-01 04:49:26 CET} changedby={tqdung} properties={} id={}
+val: guid={13C93DF92934201B} datatype={} isdefault={false} langid={de} description={} validfrom={2013-02-01 04:49:28 CET} validto={} changed={2013-02-01 04:49:28 CET} changedby={tqdung} properties={} id={}

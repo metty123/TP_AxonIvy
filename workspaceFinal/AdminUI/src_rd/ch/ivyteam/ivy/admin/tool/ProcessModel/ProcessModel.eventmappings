@@ -1,0 +1,12 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-01-23 11:25:11 | 0.0.0.15100 | 1.0
+~.activityPanel@RD_EVENT[refresh]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/11975356EFA3FB94
+~.pmvTable@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/11898F0239AE5DD2
+~.titlePane@RD_EVENT[close]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/1197550C4C02C9A8
+~.titlePane@RD_EVENT[refresh]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/11975356EFA3FB94
+~@RD_BROADCAST[applicationDeleted]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/11B362CDE599E3BF
+~@RD_BROADCAST[processModelDeleted]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/11B362CECFB750FA
+~@RD_METHODCALL[close()]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/1189E0FC32A51151
+~@RD_METHODCALL[matchIdentifier(String,Object)]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/11F42304624B0892
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/1189E0FCCCEB295B
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IProcessModel)]--->ch.ivyteam.ivy.process.ProcessStart:116D4119FE09980B/116D41A0696459E0

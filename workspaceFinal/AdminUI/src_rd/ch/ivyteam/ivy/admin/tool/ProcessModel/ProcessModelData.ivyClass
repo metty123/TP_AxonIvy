@@ -1,0 +1,11 @@
+ProcessModelData #class
+ch.ivyteam.ivy.admin.tool.ProcessModel #namespace
+processModel ch.ivyteam.ivy.application.IProcessModel #field
+processModelVersions List<ch.ivyteam.ivy.application.IProcessModelVersion> #field
+selectedPMV ch.ivyteam.ivy.application.IProcessModelVersion #field
+deletedProcessModelId Number #field
+deletedApplicationId Number #field
+application ch.ivyteam.ivy.application.IApplication #field
+tempIdentifier Number #field
+tempType String #field
+tempType PERSISTENT #fieldModifier

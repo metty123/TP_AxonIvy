@@ -1,0 +1,2 @@
+co: name={sslClientTrustStoreAlgorithm} description={} changed={2014-06-26 09:59:04 GMT} changedby={chnam} visualorder={0} guid={146D79D38F3D4AC7} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={146D79D396079D82} datatype={} isdefault={true} langid={en} description={} validfrom={2014-06-26 09:59:03 GMT} validto={} changed={2014-06-26 09:59:04 GMT} changedby={chnam} properties={} id={}

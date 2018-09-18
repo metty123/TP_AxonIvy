@@ -1,0 +1,5 @@
+Filter #class
+ch.ivyteam.ivy.admin.tool.process #namespace
+filterType String #field
+keyword String #field
+listToBeFiltered List #field

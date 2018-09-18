@@ -1,0 +1,15 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-03-13 17:02:05 | 4.4.0.42221 | 1.0
+~.activityPanel@RD_EVENT[refresh]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/1197535B38DE580E
+~.deployButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/116D451AD84D8906
+~.displayLibraryBtn@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/13D62AE935B549EB # ProcessModelVersionProcess.mod/open Library Details
+~.headerPane@RD_EVENT[close]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/1197551262FA0C3E
+~.headerPane@RD_EVENT[refresh]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/1197535B38DE580E
+~@RD_BROADCAST[applicationDeleted]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/11B363604332DB1B
+~@RD_BROADCAST[processModelDeleted]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/11B36360EC0A75FB
+~@RD_BROADCAST[processModelVersionDeleted]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/11F188CD8922CB67
+~@RD_BROADCAST[processModelVersionReleased]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/11F36459ADB1A4B4
+~@RD_METHODCALL[close()]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/1189E134EBBC97FD
+~@RD_METHODCALL[matchIdentifier(String,java.lang.Object)]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/11F423218133636D
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/1189E13563D70087
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IProcessModelVersion)]--->ch.ivyteam.ivy.process.ProcessStart:116D422E7E6ECE47/116D42B4DA1692C0

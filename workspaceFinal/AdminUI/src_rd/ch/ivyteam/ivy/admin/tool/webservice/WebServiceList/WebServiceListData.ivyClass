@@ -1,0 +1,17 @@
+WebServiceListData #class
+ch.ivyteam.ivy.admin.tool.webservice.WebServiceList #namespace
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+exception java.lang.Exception #field
+pressedButton String #field
+pressedButton PERSISTENT #fieldModifier
+webService ch.ivyteam.ivy.application.restricted.IWebService #field
+webService PERSISTENT #fieldModifier
+webServices List<ch.ivyteam.ivy.application.restricted.IWebService> #field
+webServices PERSISTENT #fieldModifier
+currentSelectedWs ch.ivyteam.ivy.application.restricted.IWebService #field
+currentSelectedWs PERSISTENT #fieldModifier
+isFiltering Boolean #field
+isFiltering PERSISTENT #fieldModifier
+filteredWebServices List<ch.ivyteam.ivy.application.restricted.IWebService> #field
+filteredWebServices PERSISTENT #fieldModifier

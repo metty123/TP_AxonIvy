@@ -1,0 +1,1 @@
+{/description "Input must be in range -82 to 250"/validationMessage "Day relative to eastern is not in range -82 to 250"/datatypeConfig {/max "250"/min "-82"/format "Integer"}}

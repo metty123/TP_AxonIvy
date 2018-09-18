@@ -1,0 +1,6 @@
+# Conversion log for project 'IvyAdminTool' from version 50100 to 50914
+# Created on 22.05.2014 15:27:59
+22.05.2014 15:28:00 : Info      : Changing Java project facet to use Java 1.7
+22.05.2014 15:28:00 : Info      : Setting CLASSIC process editor element style.
+22.05.2014 15:28:00 : New Task  : Update project version to actual version 50914.
+22.05.2014 15:28:00 : New Task  : Finished conversion of project IvyAdminTool.

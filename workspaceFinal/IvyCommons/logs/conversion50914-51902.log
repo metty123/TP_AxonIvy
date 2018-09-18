@@ -1,0 +1,5 @@
+# Conversion log for project 'IvyCommons' from version 50914 to 51902
+# Created on 02.03.2015 17:07:38
+02.03.2015 17:07:38 : New Task  : Installing the maven nature and a pom.xml deployment descriptor.
+02.03.2015 17:07:38 : New Task  : Update project version to actual version 51902.
+02.03.2015 17:07:38 : New Task  : Finished conversion of project IvyCommons.

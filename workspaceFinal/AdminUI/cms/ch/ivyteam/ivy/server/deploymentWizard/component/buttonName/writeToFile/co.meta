@@ -1,0 +1,4 @@
+co: name={writeToFile} description={} changed={2012-10-02 13:09:39 CEST} changedby={chnam} visualorder={0} guid={13A212A79DBD5895} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13A212AA186D09A7} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-10-02 13:09:32 CEST} validto={} changed={2012-10-02 13:09:39 CEST} changedby={chnam} properties={} id={}
+val: guid={13A212AAC81551A5} datatype={} isdefault={false} langid={de} description={} validfrom={2012-10-02 13:09:35 CEST} validto={} changed={2012-10-02 13:09:35 CEST} changedby={chnam} properties={} id={}
+val: guid={13A212A79E0C12C0} datatype={} isdefault={true} langid={en} description={} validfrom={2012-10-02 13:09:22 CEST} validto={} changed={2012-10-02 13:09:32 CEST} changedby={chnam} properties={} id={}

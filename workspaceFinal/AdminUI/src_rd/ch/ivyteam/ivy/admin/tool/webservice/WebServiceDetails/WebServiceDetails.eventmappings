@@ -1,0 +1,21 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-12-22 14:48:48 | 6.0.0.50515 | 1.0
+~.btnAdd@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237B0340A95063F
+~.btnCancel@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237A22A4BC578EE
+~.btnEdit@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237B0362E6A1928
+~.btnInvisible@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/13DC538FD713AC97
+~.btnOk@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237A22845EF084C
+~.btnRemove@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237B038051ED789
+~.btnReset@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237F4C30D410323
+~.btnWSTesting@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/14646006D5A807BB
+~.cboAuthenticationType@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/151C407498ED088F
+~.chkUseAuthentication@VALUE_CHANGED[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/13FD1C9CF1432797
+~.tblEndpointAddresses@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237B0362E6A1928
+~.tblEndpointAddresses@TREE_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/13EA1D43906F2F6A
+~@RD_METHODCALL[cancel()]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/13FE1F2EFB6F699B
+~@RD_METHODCALL[checkDirtyData()]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/13FE07D1B43777A8
+~@RD_METHODCALL[save()]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/13FE1360F4973D1E
+~@RD_METHODCALL[setWebService(ch.ivyteam.ivy.application.restricted.IWebService)]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237B52D72470BCE
+~@RD_METHODCALL[showDetails(ch.ivyteam.ivy.application.restricted.IWebService,ch.ivyteam.ivy.application.restricted.IEnvironment)]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/12375B77B07D5F76
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/12375B617A676F79
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.restricted.IEnvironment)]--->ch.ivyteam.ivy.process.ProcessStart:12375B6178765850/1237B618F08B25A1

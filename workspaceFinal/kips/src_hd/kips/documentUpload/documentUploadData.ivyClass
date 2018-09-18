@@ -1,0 +1,22 @@
+documentUploadData #class
+kips.documentUpload #namespace
+message String #field
+message PERSISTENT #fieldModifier
+file File #field
+file PERSISTENT #fieldModifier
+fileName String #field
+fileName PERSISTENT #fieldModifier
+filePath String #field
+filePath PERSISTENT #fieldModifier
+fileDownload org.primefaces.model.StreamedContent #field
+fileDownload PERSISTENT #fieldModifier
+fileContent String #field
+fileContent PERSISTENT #fieldModifier
+fileKind String #field
+fileKind PERSISTENT #fieldModifier
+student String #field
+student PERSISTENT #fieldModifier
+mentor String #field
+mentor PERSISTENT #fieldModifier
+fileUploadDateTime DateTime #field
+fileUploadDateTime PERSISTENT #fieldModifier

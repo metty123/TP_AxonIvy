@@ -1,0 +1,10 @@
+# Ivy RichDialog Event-Mapping Data
+# 2014-08-01 08:54:16 | 5.1.0.46231 | 1.0
+~@RD_METHODCALL[configurationChanged()]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64BEFF46/116C8B03CCCE9605
+~@RD_METHODCALL[getDbConfiguration()]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64BEFF46/1187F9124BA61D86
+~@RD_METHODCALL[getDbDriver()]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64BEFF46/1167C5B04975D271
+~@RD_METHODCALL[getValidation()]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64BEFF46/1478B9098BB2CA1B
+~@RD_METHODCALL[setDbConfiguration(ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration)]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64BEFF46/1187E2D2B32236C7
+~@RD_METHODCALL[setDbDriver(ch.ivyteam.ivy.rd.common.DbDriver)]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64BEFF46/1167C59F88B46628
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64BEFF46/1167C3611081445E
+~@RD_METHODCALL[start(List<ch.ivyteam.db.jdbc.JdbcDriver>)]--->ch.ivyteam.ivy.process.ProcessStart:118BD2FB64BEFF46/11AC98405946706E

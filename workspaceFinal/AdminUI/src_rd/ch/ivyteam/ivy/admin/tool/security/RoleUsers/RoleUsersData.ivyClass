@@ -1,0 +1,7 @@
+RoleUsersData #class
+ch.ivyteam.ivy.admin.tool.security.RoleUsers #namespace
+administratable Boolean #field
+exception java.lang.Exception #field
+role ch.ivyteam.ivy.security.IRole #field
+usersNotOwnRole List<ch.ivyteam.ivy.security.IUser> #field
+usersOwnRole List<ch.ivyteam.ivy.security.IUser> #field

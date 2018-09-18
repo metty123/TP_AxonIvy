@@ -1,0 +1,4 @@
+co: name={ivyAddons} description={} changed={2014-07-04 05:33:50 CEST} changedby={chnam} visualorder={0} guid={1426986F05B987E2} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={1426986F060611AD} datatype={} isdefault={true} langid={en} description={} validfrom={2013-11-18 05:45:20 CET} validto={} changed={2014-07-04 05:33:50 CEST} changedby={chnam} properties={} id={}
+val: guid={1426986FDF9CF0AA} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-11-18 05:45:23 CET} validto={} changed={2014-07-04 05:33:50 CEST} changedby={chnam} properties={} id={}
+val: guid={142698709CCC3653} datatype={} isdefault={false} langid={de} description={} validfrom={2013-11-18 05:45:26 CET} validto={} changed={2014-07-04 05:33:50 CEST} changedby={chnam} properties={} id={}

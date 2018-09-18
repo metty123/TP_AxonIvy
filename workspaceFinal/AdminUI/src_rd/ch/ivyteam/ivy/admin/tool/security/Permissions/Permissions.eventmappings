@@ -1,0 +1,12 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-08-12 15:49:40 | 6.0.0.48909 | 1.0
+~.denyButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/117AB0DD1EFD3D4B
+~.grantButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/117AB0D7F27E8195
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/117AB0D2C413D940
+~.permissionsTableTree@TREE_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/1465B76E7BEAAA38
+~.undenyButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/117AB0DF579192B0
+~.ungrantButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/117AB0DB04923500
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/126C1BAA87EB03DF
+~@RD_METHODCALL[filter()]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/14F2119B1C9CF4EB
+~@RD_METHODCALL[showError()]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/1465FE3A871CB5CE
+~@RD_METHODCALL[start(ch.ivyteam.ivy.security.ISecurityMember,ch.ivyteam.ivy.security.ISecurityDescriptor)]--->ch.ivyteam.ivy.process.ProcessStart:117A7419E3328D9C/117A7512AEABE665

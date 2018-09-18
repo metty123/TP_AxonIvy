@@ -1,0 +1,12 @@
+DeploymentProjectValidationData #class
+ch.ivyteam.ivy.admin.tool.deployment.DeploymentProjectValidation #namespace
+pmv ch.ivyteam.ivy.application.IProcessModelVersion #field
+pmv PERSISTENT #fieldModifier
+projectDirectory java.io.File #field
+projectDirectory PERSISTENT #fieldModifier
+validator ch.ivyteam.ivy.deployment.restricted.helper.RichDialogBasedDeploymentValidator #field
+validator PERSISTENT #fieldModifier
+checksAndIssuesTree Tree #field
+checksAndIssuesTree PERSISTENT #fieldModifier
+selectedTreeNode Tree #field
+selectedTreeNode PERSISTENT #fieldModifier

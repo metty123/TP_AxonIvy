@@ -1,0 +1,4 @@
+co: name={Artefact} description={} changed={2012-10-30 08:46:54 CET} changedby={chnam} visualorder={0} guid={13AB0A2D9FA28C52} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13AB0A2F83F3E38F} datatype={} isdefault={false} langid={de} description={} validfrom={2012-10-30 08:46:41 CET} validto={} changed={2012-10-30 08:46:54 CET} changedby={chnam} properties={} id={}
+val: guid={13AB0A2D9FE3DB87} datatype={} isdefault={true} langid={en} description={} validfrom={2012-10-30 08:46:33 CET} validto={} changed={2012-10-30 08:46:54 CET} changedby={chnam} properties={} id={}
+val: guid={13AB0A2EA93B980B} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-10-30 08:46:37 CET} validto={} changed={2012-10-30 08:46:54 CET} changedby={chnam} properties={} id={}

@@ -1,0 +1,9 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2013-02-26 09:48:34 | 4.4.0.42221 | 1.0
+~.buttonCancel@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11DF1DE1A08F19D9/11DF22598241EBA0
+~.buttonCreateDir@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11DF1DE1A08F19D9/11DF33FE222378B8
+~.buttonOk@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:11DF1DE1A08F19D9/11DF23C2074D620B
+~.fileTree@TREE_LOAD[]--->ch.ivyteam.ivy.process.ProcessStart:11DF1DE1A08F19D9/11A9637F23A304CC
+~.fileTree@TREE_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:11DF1DE1A08F19D9/13D1464F26B80AF8 # ServerFileBrowserProcess.mod/user select My Computer node
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:11DF1DE1A08F19D9/11A9628FA16BA901
+~@RD_METHODCALL[start(Boolean,String,Boolean)]--->ch.ivyteam.ivy.process.ProcessStart:11DF1DE1A08F19D9/11DF2395C63C516D

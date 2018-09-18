@@ -1,0 +1,4 @@
+co: name={warningDeactivatePMV} description={} changed={2013-06-27 06:50:36 CEST} changedby={dtthuy} visualorder={0} guid={13D6343557F341A2} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13D6343EC89F0526} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-03-13 11:20:28 CET} validto={} changed={2013-06-27 06:50:36 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13D6343F815A6B54} datatype={} isdefault={false} langid={de} description={} validfrom={2013-03-13 11:20:31 CET} validto={} changed={2013-06-27 06:50:36 CEST} changedby={dtthuy} properties={} id={}
+val: guid={13D6343558ED4298} datatype={} isdefault={true} langid={en} description={} validfrom={2013-03-13 11:19:50 CET} validto={} changed={2013-06-27 06:50:36 CEST} changedby={dtthuy} properties={} id={}

@@ -1,0 +1,5 @@
+# Ivy RichDialog Event-Mapping Data
+# 2016-06-01 17:16:30 | 6.1.1.51751 | 1.0
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505346CF7AE7AE/1550648141E51BC3
+~.okButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505346CF7AE7AE/1550638D540A3F63
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.IApplication,ch.ivyteam.ivy.security.IRole)]--->ch.ivyteam.ivy.process.ProcessStart:15505346CF7AE7AE/155058A13FD21D1F

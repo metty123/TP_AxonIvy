@@ -1,0 +1,4 @@
+co: name={uploadFailed} description={} changed={2013-01-04 05:05:24 CET} changedby={htlam} visualorder={0} guid={13C03BBBC407BF71} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13C03BC0BA62C184} datatype={} isdefault={false} langid={fr} description={} validfrom={2013-01-04 05:05:20 CET} validto={} changed={2013-01-04 05:05:24 CET} changedby={htlam} properties={} id={}
+val: guid={13C03BBBC6C91DCF} datatype={} isdefault={true} langid={en} description={} validfrom={2013-01-04 05:05:00 CET} validto={} changed={2013-01-04 05:05:20 CET} changedby={htlam} properties={} id={}
+val: guid={13C03BC1AEE2A9FD} datatype={} isdefault={false} langid={de} description={} validfrom={2013-01-04 05:05:24 CET} validto={} changed={2013-01-04 05:05:24 CET} changedby={htlam} properties={} id={}

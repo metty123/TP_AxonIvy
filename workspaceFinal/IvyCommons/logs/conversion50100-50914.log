@@ -1,0 +1,6 @@
+# Conversion log for project 'IvyCommons' from version 50100 to 50914
+# Created on 02.06.2014 09:46:40
+02.06.2014 09:46:41 : Info      : Changing Java project facet to use Java 1.7
+02.06.2014 09:46:41 : Info      : Setting CLASSIC process editor element style.
+02.06.2014 09:46:41 : New Task  : Update project version to actual version 50914.
+02.06.2014 09:46:41 : New Task  : Finished conversion of project IvyCommons.

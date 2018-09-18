@@ -1,0 +1,9 @@
+# Ivy RichDialog Event-Mapping Data
+# 2016-06-06 18:03:26 | 6.1.1.51739 | 1.0
+~.restClientDetailsPanel@RD_EVENT[setRestClientToDefault]--->ch.ivyteam.ivy.process.ProcessStart:15505D621D712043/15515D590C18895A
+~.restClientDetailsPanel@RD_EVENT[setRestClientToEnvironment]--->ch.ivyteam.ivy.process.ProcessStart:15505D621D712043/1551633B89449D63
+~.restClientList@LIST_SELECTION[]--->ch.ivyteam.ivy.process.ProcessStart:15505D621D712043/1550A187FA121A9A
+~@RD_METHODCALL[filterRestClients()]--->ch.ivyteam.ivy.process.ProcessStart:15505D621D712043/15523C8A5DBCC8E5
+~@RD_METHODCALL[refresh()]--->ch.ivyteam.ivy.process.ProcessStart:15505D621D712043/15523F91D044139E
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:15505D621D712043/1552560E39B59449
+~@RD_METHODCALL[start(ch.ivyteam.ivy.application.restricted.IEnvironment,ch.ivyteam.ivy.application.IApplication)]--->ch.ivyteam.ivy.process.ProcessStart:15505D621D712043/15505D62209D7F3B

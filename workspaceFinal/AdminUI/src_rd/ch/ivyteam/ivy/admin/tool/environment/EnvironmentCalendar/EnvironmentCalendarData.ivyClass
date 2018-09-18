@@ -1,0 +1,6 @@
+EnvironmentCalendarData #class
+ch.ivyteam.ivy.admin.tool.environment.EnvironmentCalendar #namespace
+environment ch.ivyteam.ivy.application.restricted.IEnvironment #field
+environment PERSISTENT #fieldModifier
+selectedCalendar Object #field
+selectedCalendar PERSISTENT #fieldModifier

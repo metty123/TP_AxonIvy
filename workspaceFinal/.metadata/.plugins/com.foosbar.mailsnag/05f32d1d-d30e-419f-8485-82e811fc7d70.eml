@@ -1,0 +1,43 @@
+Date: Fri, 9 Jun 2017 22:22:26 +0200 (CEST)
+From: noreply@ivyserver.local
+To: fabian.meisinger@htwg-konstanz.de, christian.damerau@htwg-konstanz.de
+Message-ID: <1736748704.3.1497039746624@localhost>
+Subject: Appointment accepted by Fabian Meisinger
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_2_1769733.1497039746619"
+
+------=_Part_2_1769733.1497039746619
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+ihr Termin am Jun 16, 2017 12:00:00 AM ist gebucht.
+
+Gru=DF Fabian Meisinger
+------=_Part_2_1769733.1497039746619
+Content-Type: text/plain; charset=us-ascii; name=mime-attachment.ics
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=mime-attachment.ics
+
+BEGIN:VCALENDAR
+PRODID:http://www.http://kips.htwg-konstanz.de//
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20170616T110000
+DTEND:20170616T160000
+SUMMARY:dvsdf
+LOCATION:cv
+PRIORITY:1
+UID:20170616T110000@htwg-konstanz.de
+STATUS:TENTATIVE
+ATTENDEE:fabian.meisinger@htwg-konstanz.de
+ATTENDEE:christian.damerau@htwg-konstanz.de
+BEGIN:VALARM
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
+------=_Part_2_1769733.1497039746619--

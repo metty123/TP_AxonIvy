@@ -1,0 +1,1 @@
+Port under which the server can be reached from a client. This will be used to create absolute links to the ivy server (e.g. for mails).

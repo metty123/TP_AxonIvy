@@ -1,0 +1,1 @@
+If activated, a process element statistic is written periodically to the log-directory. If activated may slow down the server perormance. (Restart not required when de-/activated).

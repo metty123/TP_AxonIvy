@@ -1,0 +1,5 @@
+<P>
+The process model that implements the default page processes.<BR>
+Default page processes are hooks for applications to provide their own implementation of the default pages<BR>
+like the Login, End, Task List, Process Start List and Application Home.
+</P>

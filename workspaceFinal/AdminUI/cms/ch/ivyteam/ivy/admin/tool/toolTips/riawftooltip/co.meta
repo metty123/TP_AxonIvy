@@ -1,0 +1,4 @@
+co: name={riawftooltip} description={} changed={2014-07-03 11:34:32 CEST} changedby={dchieu} visualorder={0} guid={1440B412714E6A7A} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={1440B4134FDAC383} datatype={} isdefault={false} langid={fr} description={} validfrom={2014-02-07 08:30:26 CET} validto={} changed={2014-07-03 11:34:31 CEST} changedby={dchieu} properties={} id={}
+val: guid={1440B41271837F0A} datatype={} isdefault={true} langid={en} description={} validfrom={2014-02-07 08:30:23 CET} validto={} changed={2014-07-03 11:34:32 CEST} changedby={dchieu} properties={} id={}
+val: guid={1440B4144A7F7D4B} datatype={} isdefault={false} langid={de} description={} validfrom={2014-02-07 08:30:28 CET} validto={} changed={2014-07-03 11:34:32 CEST} changedby={dchieu} properties={} id={}

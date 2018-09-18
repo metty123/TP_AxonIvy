@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<richDialogDescriptor>
+    <autoScreenshot>true</autoScreenshot>
+    <acceptedBroadcast>
+        <name>tellLogDetailsDialogToCloseItself</name>
+        <description></description>
+    </acceptedBroadcast>
+    <acceptedBroadcast>
+        <name>informUserSynchronizationIsCompleted</name>
+        <description></description>
+    </acceptedBroadcast>
+    <acceptedBroadcast>
+        <name>informUserSynchronizationHasNewMessage</name>
+        <description></description>
+        <attachment>
+            <name>newMessage</name>
+            <description></description>
+            <parameterType>String</parameterType>
+            <nullPermitted>true</nullPermitted>
+        </attachment>
+    </acceptedBroadcast>
+    <startMethod>
+        <name>start</name>
+        <description>Default dialog start method.</description>
+    </startMethod>
+    <startMethod>
+        <name>start</name>
+        <description></description>
+        <inputParameter>
+            <name>securityContext</name>
+            <description></description>
+            <parameterType>ch.ivyteam.ivy.security.ISecurityContext</parameterType>
+            <nullPermitted>false</nullPermitted>
+        </inputParameter>
+    </startMethod>
+    <property>
+        <name>guid</name>
+        <value>147A3C26648C24A8</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>version</name>
+        <value>1</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>binary</name>
+        <value>false</value>
+        <readOnly>true</readOnly>
+    </property>
+    <property>
+        <name>viewTechnology</name>
+        <value>ULC</value>
+        <readOnly>true</readOnly>
+    </property>
+</richDialogDescriptor>

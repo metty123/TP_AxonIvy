@@ -1,0 +1,5 @@
+DatabaseConnectionTesterData #class
+ch.ivyteam.ivy.rd.common.db.DatabaseConnectionTester #namespace
+dbConfiguration ch.ivyteam.db.jdbc.DatabaseConnectionConfiguration #field
+isConnected Boolean #field
+isConnected PERSISTENT #fieldModifier

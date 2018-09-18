@@ -1,0 +1,19 @@
+ValidationData #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver.Validation #namespace
+app ch.ivyteam.ivy.application.IApplication #field
+appIndex Integer #field
+apps List<ch.ivyteam.ivy.application.IApplication> #field
+currentProcess ch.ivyteam.ivy.admin.tool.deploymentwizardserver.common.ProcessName #field
+hasAnyIssue Boolean #field
+isNeedUploadFile Boolean #field
+listOfUploadedClientProj List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ClientFileInfo> #field
+progressMonitor ch.ivyteam.ivy.admin.tool.deploymentwizardserver.common.ProgressMonitor #field
+projectInfo ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo #field
+projectInfoIndex Integer #field
+projectsToDeploy List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo> #field
+projectUnzipper ch.ivyteam.ivy.admin.tool.deploymentwizardserver.UnzipManager #field
+validationResult List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ValidationIssue> #field
+validator ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ValidationManager #field
+zipUtil ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ZipManager #field
+uploadUtil ch.ivyteam.ivy.admin.tool.deploymentwizardserver.FileUploadManager #field
+logIndex java.lang.Integer #field

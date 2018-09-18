@@ -1,0 +1,1 @@
+Host name of the SMTP e-mail server used to send E-Mails. Configure either the hostname like 'smtp.mydomain.com' or the IP-address.

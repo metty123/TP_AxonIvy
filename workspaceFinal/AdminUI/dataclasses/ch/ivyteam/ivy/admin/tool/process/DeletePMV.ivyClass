@@ -1,0 +1,5 @@
+DeletePMV #class
+ch.ivyteam.ivy.admin.tool.process #namespace
+deletedPMV ch.ivyteam.ivy.application.IProcessModelVersion #field
+exception java.lang.Exception #field
+isDeleted Boolean #field

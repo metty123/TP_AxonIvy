@@ -1,0 +1,6 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2011-08-18 15:14:43 | 4.3.0.36749 | 1.0
+~.nameTextField@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D951403ABB772/116D956BBC139555 # NewProcessModelVersionProcess.mod/create
+~.cancelButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D951403ABB772/116D956B3BECDCC8
+~@RD_METHODCALL[createProcessModelVersion(ch.ivyteam.ivy.application.IProcessModel)]--->ch.ivyteam.ivy.process.ProcessStart:116D951403ABB772/116D9564436DC432
+~.createButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:116D951403ABB772/116D956BBC139555

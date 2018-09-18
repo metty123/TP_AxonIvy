@@ -1,0 +1,15 @@
+UpdateLibraryVersionData #class
+ch.ivyteam.ivy.admin.tool.UpdateLibraryVersion #namespace
+currentResolvedLib ch.ivyteam.ivy.application.ILibrary #field
+errorMessage String #field
+isFailed Boolean #field
+isInvalidLibrarySetup Boolean #field
+isMaxInclusive Boolean #field
+isMaxSpecify Boolean #field
+isMinInclusive Boolean #field
+isMinSpecify Boolean #field
+isUpdated Boolean #field
+maxVersionSpecified String #field
+minVersionSpecified String #field
+pmvName String #field
+requiredLibrary ch.ivyteam.ivy.application.ILibrarySpecification #field

@@ -1,0 +1,25 @@
+# Ivy RichDialog Event-Mapping Data
+# 2015-03-20 09:52:09 | 6.0.0.47992 | 1.0
+~.aboutButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/115D72FB07C28E7B
+~.applicationList@RD_EVENT[subPanelRequested]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/14C10FBABB1C6B37
+~.infoButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/115D72FCEE1D93A9
+~.logoutHyperlink@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/1322A3FA5E4CA176
+~.serverTaskPane@EXPANSION[COLLAPSED]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/1470EA033482FCA1
+~.serverTaskPane@EXPANSION[EXPANDED]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/1470EA033482FCA1
+~.systemPropertiesButton@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/118751340CDA2E09
+~@DISPLAY[LOAD]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/117B1C087ECD06C2
+~@DISPLAY[UNLOAD]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/132B0A0D81EFFE9F
+~@RD_BROADCAST[closeOtherApps]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/14C35147878BC3FC
+~@RD_BROADCAST[startUserSynchronization]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/147C31AC393941D9
+~@RD_BROADCAST[subPanelRequested]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/11F3C883FCBBD042
+~@RD_METHODCALL[addApplication()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146D757857C4BD31
+~@RD_METHODCALL[addEnvironment()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146DB59F3ADB978C
+~@RD_METHODCALL[addProcessModel()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146DB40E25948AAF
+~@RD_METHODCALL[addProcessModelVersion()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146DB6766CC37712
+~@RD_METHODCALL[callDeploymentWizard()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146D7D1771CC8483
+~@RD_METHODCALL[delete()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146DC093F25B9C6B
+~@RD_METHODCALL[exportEnvironment()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146DB9236CA8CAF1
+~@RD_METHODCALL[importEnvironment()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146DB923F35E1AA5
+~@RD_METHODCALL[runTimer()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/147C3356546E579D
+~@RD_METHODCALL[showDetails()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/146DB622A2BE3BD3
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:115D72AC46636375/115D7CD3F5A79178

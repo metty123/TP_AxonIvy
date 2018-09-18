@@ -1,0 +1,14 @@
+DeployData #class
+ch.ivyteam.ivy.admin.tool.deploymentwizardserver.Deploy #namespace
+appList List<ch.ivyteam.ivy.application.IApplication> #field
+deployer ch.ivyteam.ivy.admin.tool.deploymentwizardserver.deployment.DeploymentManager #field
+file java.io.File #field
+isAborted Boolean #field
+isDeploymentCancelled Boolean #field
+isDeploymentFailed Boolean #field
+log ch.ivyteam.ivy.deployment.IDeploymentLogger #field
+message String #field
+pmv ch.ivyteam.ivy.application.IProcessModelVersion #field
+progressMonitor ch.ivyteam.ivy.admin.tool.deploymentwizardserver.common.ProgressMonitor #field
+projectList List<ch.ivyteam.ivy.admin.tool.deploymentwizardserver.ProjectInfo> #field
+indexLog java.lang.Integer #field

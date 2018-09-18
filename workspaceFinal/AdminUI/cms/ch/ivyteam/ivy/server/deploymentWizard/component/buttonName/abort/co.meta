@@ -1,0 +1,4 @@
+co: name={abort} description={} changed={2012-11-21 11:14:34 CET} changedby={htlam} visualorder={0} guid={13B2275D7C3AEABD} parentguid={} typeguid={E6AFEA2034301F66} id={} parentid={} typeid={}
+val: guid={13B2275D7CCB6602} datatype={} isdefault={true} langid={en} description={} validfrom={2012-11-21 11:14:06 CET} validto={} changed={2012-11-21 11:14:30 CET} changedby={htlam} properties={} id={}
+val: guid={13B2276360982B55} datatype={} isdefault={false} langid={fr} description={} validfrom={2012-11-21 11:14:30 CET} validto={} changed={2012-11-21 11:14:34 CET} changedby={htlam} properties={} id={}
+val: guid={13B227645C0CFF5C} datatype={} isdefault={false} langid={de} description={} validfrom={2012-11-21 11:14:34 CET} validto={} changed={2012-11-21 11:14:34 CET} changedby={htlam} properties={} id={}

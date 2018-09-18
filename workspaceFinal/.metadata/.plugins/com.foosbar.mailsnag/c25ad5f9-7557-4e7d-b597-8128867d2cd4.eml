@@ -1,0 +1,43 @@
+Date: Fri, 9 Jun 2017 22:22:42 +0200 (CEST)
+From: christian.damerau@htwg-konstanz.de
+To: fabian.meisinger@htwg-konstanz.de
+Message-ID: <780778556.5.1497039762693@localhost>
+Subject: appointment booked
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_4_689611938.1497039762688"
+
+------=_Part_4_689611938.1497039762688
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+Confirmation appointment with Fabian Meisinger and Christian Damerau
+
+In the appendix you can find the ics file to synchronize with your local calendar.
+
+------=_Part_4_689611938.1497039762688
+Content-Type: text/plain; charset=Cp1252; name=mime-attachment.ics
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename=mime-attachment.ics
+
+BEGIN:VCALENDAR
+PRODID:http://www.http://kips.htwg-konstanz.de//
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20170612T103000
+DTEND:20170612T113000
+SUMMARY:R=FCcksprache Gliederung
+LOCATION:HTWG
+PRIORITY:1
+UID:20170612T103000@htwg-konstanz.de
+STATUS:CONFIRMED
+ATTENDEE:fabian.meisinger@htwg-konstanz.de
+ATTENDEE:christian.damerau@htwg-konstanz.de
+BEGIN:VALARM
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
+------=_Part_4_689611938.1497039762688--

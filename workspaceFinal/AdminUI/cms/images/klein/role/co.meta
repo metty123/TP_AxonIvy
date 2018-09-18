@@ -1,0 +1,2 @@
+co: name={role} description={} changed={2008-01-24 14:26:14 GMT} changedby={rwei} visualorder={0} guid={117AC3117B4C8D9B} parentguid={} typeguid={E6AFEA1F8A858C25} id={} parentid={} typeid={}
+val: guid={117AC31192BD6AF1} datatype={} isdefault={true} langid={en} description={} validfrom={2008-01-24 14:26:14 GMT} validto={} changed={2008-01-24 14:27:02 GMT} changedby={rwei} properties={ch.ivyteam.ivy.cm.CmPropertyStringAdapter@d884} id={}

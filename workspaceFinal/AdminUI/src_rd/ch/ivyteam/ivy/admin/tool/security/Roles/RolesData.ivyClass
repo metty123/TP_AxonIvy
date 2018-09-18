@@ -1,0 +1,12 @@
+RolesData #class
+ch.ivyteam.ivy.admin.tool.security.Roles #namespace
+application ch.ivyteam.ivy.application.IApplication #field
+application PERSISTENT #fieldModifier
+error java.lang.Exception #field
+exception java.lang.Exception #field
+jndiConfig ch.ivyteam.naming.JndiConfig #field
+securityContext ch.ivyteam.ivy.security.ISecurityContext #field
+securityDescriptor ch.ivyteam.ivy.security.ISecurityDescriptor #field
+selectedRole ch.ivyteam.ivy.security.IRole #field
+role ch.ivyteam.ivy.admin.tool.role.Role #field
+role PERSISTENT #fieldModifier

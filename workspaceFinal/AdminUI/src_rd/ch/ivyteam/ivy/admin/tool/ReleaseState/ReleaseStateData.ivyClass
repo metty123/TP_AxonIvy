@@ -1,0 +1,10 @@
+ReleaseStateData #class
+ch.ivyteam.ivy.admin.tool.ReleaseState #namespace
+processModelVersion ch.ivyteam.ivy.application.IProcessModelVersion #field
+pmvIsRequired Boolean #field
+pmvIsRequired PERSISTENT #fieldModifier
+pmvHasWrongState Boolean #field
+pmvHasWrongState PERSISTENT #fieldModifier
+pmvNotDeletableReason String #field
+pmvNotDeletableReason PERSISTENT #fieldModifier
+delete Boolean #field

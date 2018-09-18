@@ -1,0 +1,8 @@
+# Xpert.ivy RichDialog Event-Mapping Data
+# 2012-06-06 16:31:06 | 4.3.0.39578 | 1.0
+~.logTable@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13AB01309B46B6A1/137C0AB34D045E86 # SAIELogViewerProcess.mod/pop_up
+~.ok_Button@ACTION[]--->ch.ivyteam.ivy.process.ProcessStart:13AB01309B46B6A1/137A65D60B2AD52D
+~@RD_METHODCALL[setLogs(List<ch.ivyteam.ivy.admin.tool.report.ReportEntry>)]--->ch.ivyteam.ivy.process.ProcessStart:13AB01309B46B6A1/137A10A02053BF0E
+~@RD_METHODCALL[start()]--->ch.ivyteam.ivy.process.ProcessStart:13AB01309B46B6A1/137BA76F0E9A31BA
+~@RD_METHODCALL[start(ch.ivyteam.ivy.admin.tool.report.IReport)]--->ch.ivyteam.ivy.process.ProcessStart:13AB01309B46B6A1/137977CD389F46A2
+~@RD_METHODCALL[start(List<ch.ivyteam.ivy.admin.tool.report.ReportEntry>)]--->ch.ivyteam.ivy.process.ProcessStart:13AB01309B46B6A1/137A6ECA0FEF4C92
